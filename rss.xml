@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Gatsby Starter Blog RSS Feed]]></title><description><![CDATA[A starter blog demonstrating what Gatsby can do.]]></description><link>https://gatsbystarterblogsource.gatsbyjs.io</link><generator>GatsbyJS</generator><lastBuildDate>Thu, 26 May 2022 09:28:51 GMT</lastBuildDate><item><title><![CDATA[What you need to know about Tech Job in Tunisia]]></title><description><![CDATA[I start my career like the majority of the developers as a freelancer, and after a good amount of projects, I start building a Team, after…]]></description><link>https://gatsbystarterblogsource.gatsbyjs.io/Invalid DateTime-/</link><guid isPermaLink="false">https://gatsbystarterblogsource.gatsbyjs.io/Invalid DateTime-/</guid><pubDate>Invalid Date</pubDate><content:encoded>&lt;p&gt;I start my career like the majority of the developers as a freelancer, and after a good amount of projects, I start building a Team, after that, I look forward and I started a Startup, Why? simply to put up the good culture that I didn’t find in any company that I worked for.&lt;/p&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Gatsby Starter Blog RSS Feed]]></title><description><![CDATA[A starter blog demonstrating what Gatsby can do.]]></description><link>https://gatsbystarterblogsource.gatsbyjs.io</link><generator>GatsbyJS</generator><lastBuildDate>Thu, 26 May 2022 09:41:06 GMT</lastBuildDate><item><title><![CDATA[What you need to know about Tech Job in Tunisia]]></title><description><![CDATA[I start my career like the majority of the developers as a freelancer, and after a good amount of projects, I start building a Team, after…]]></description><link>https://gatsbystarterblogsource.gatsbyjs.io/Invalid DateTime-/</link><guid isPermaLink="false">https://gatsbystarterblogsource.gatsbyjs.io/Invalid DateTime-/</guid><pubDate>Invalid Date</pubDate><content:encoded>&lt;p&gt;I start my career like the majority of the developers as a freelancer, and after a good amount of projects, I start building a Team, after that, I look forward and I started a Startup, Why? simply to put up the good culture that I didn’t find in any company that I worked for.&lt;/p&gt;
 &lt;p&gt;After I start my consulting journey, I start working for companies in their office and manage my Team remotely, and It was very hard at first Then I get used to and everything goes right.&lt;/p&gt;
 &lt;p&gt;BUT and that’s a big BUT, when you make a good culture at your Startup and you enter another culture, you need to adapt to their culture and it’s been OK.&lt;/p&gt;
 &lt;p&gt;BUT, this another big BUT, how about if you start working with a very good and supportive CTO and a bad manager that trait the peoples working in his open space as machine working in specific hours, and make people fear of contacting him when seeking information. I’ve been OK  and I didn’t have an issue communication with him.&lt;/p&gt;
@@ -984,7 +984,7 @@ firm-textured, round yolk that is bright orange-red in color.&lt;/p&gt;
     &gt;
       &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/aymen.co-blog/static/8058f3f26913fea3b6a89a73344fe94a/e1596/salty_egg.jpg&quot;
+    href=&quot;/static/8058f3f26913fea3b6a89a73344fe94a/e1596/salty_egg.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -997,13 +997,13 @@ firm-textured, round yolk that is bright orange-red in color.&lt;/p&gt;
         class=&quot;gatsby-resp-image-image&quot;
         alt=&quot;Chinese Salty Egg&quot;
         title=&quot;Chinese Salty Egg&quot;
-        src=&quot;/aymen.co-blog/static/8058f3f26913fea3b6a89a73344fe94a/828fb/salty_egg.jpg&quot;
-        srcset=&quot;/aymen.co-blog/static/8058f3f26913fea3b6a89a73344fe94a/ff44c/salty_egg.jpg 158w,
-/aymen.co-blog/static/8058f3f26913fea3b6a89a73344fe94a/a6688/salty_egg.jpg 315w,
-/aymen.co-blog/static/8058f3f26913fea3b6a89a73344fe94a/828fb/salty_egg.jpg 630w,
-/aymen.co-blog/static/8058f3f26913fea3b6a89a73344fe94a/0ede0/salty_egg.jpg 945w,
-/aymen.co-blog/static/8058f3f26913fea3b6a89a73344fe94a/3ac88/salty_egg.jpg 1260w,
-/aymen.co-blog/static/8058f3f26913fea3b6a89a73344fe94a/e1596/salty_egg.jpg 2048w&quot;
+        src=&quot;/static/8058f3f26913fea3b6a89a73344fe94a/828fb/salty_egg.jpg&quot;
+        srcset=&quot;/static/8058f3f26913fea3b6a89a73344fe94a/ff44c/salty_egg.jpg 158w,
+/static/8058f3f26913fea3b6a89a73344fe94a/a6688/salty_egg.jpg 315w,
+/static/8058f3f26913fea3b6a89a73344fe94a/828fb/salty_egg.jpg 630w,
+/static/8058f3f26913fea3b6a89a73344fe94a/0ede0/salty_egg.jpg 945w,
+/static/8058f3f26913fea3b6a89a73344fe94a/3ac88/salty_egg.jpg 1260w,
+/static/8058f3f26913fea3b6a89a73344fe94a/e1596/salty_egg.jpg 2048w&quot;
         sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
         style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
         loading=&quot;lazy&quot;
