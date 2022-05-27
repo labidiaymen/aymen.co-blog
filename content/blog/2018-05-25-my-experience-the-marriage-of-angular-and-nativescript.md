@@ -7,7 +7,7 @@ categories :
  - javascript
  - nativescript
 tags : ""
-cover : "../images/angular-nativescript-aymen.co_.png"
+cover : ../images/angular-nativescript-aymen.co_.png
 ---
 
 **Building** apps can cost you Time and Money if you don't know which technologies you need to use, which is maintainable and which is scalable.

@@ -12,7 +12,7 @@ import { StaticImage } from "gatsby-plugin-image"
 const Bio = () => {
   return (
     <>
-      <div className="flex flex-row menu-header menu-bloc">
+      <div className="flex flex-row ">
         <div className="basis-1/4">
           <StaticImage
             layout="fixed"
@@ -24,11 +24,10 @@ const Bio = () => {
           />
         </div>
         <div>
-          <ul className="flex flex-col mt-4 md:flex-row md:space-x-8 md:mt-0 md:text-sm md:font-medium menu-list">
+          <ul className="">
             <li>
               <a
-                className="block py-2 pr-4 pl-3 text-white  rounded md:bg-transparent  md:p-0 dark:text-white"
-                aria-current="page"
+                className=""
               >
                 Home
               </a>

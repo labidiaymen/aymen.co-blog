@@ -6,7 +6,7 @@ categories :
  - javascript
  - node-js
 tags : "javascript,node-js"
-cover : "../images/node.js-10-aymen.co_-1.png"
+cover : ../images/node.js-10-aymen.co_-1.png
 ---
 
 **Node.js** 10 IS here, and here's what you need to know:

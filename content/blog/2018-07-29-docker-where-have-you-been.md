@@ -6,7 +6,7 @@ categories :
  - javascript
  - labs
 tags : ""
-cover : "../images/docker.png"
+cover : ../images/docker.png
 ---
 
 Euuh [**Docker**](https://www.docker.com/), I know you're here for a while, but this is the right time I took the courage and make the hole things work with you.

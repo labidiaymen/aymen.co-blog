@@ -6,7 +6,7 @@ categories :
  - angular
  - javascript
 tags : ""
-cover : "../images/Start-your-angular-webapp-thumb2.jpg"
+cover : ../images/Start-your-angular-webapp-thumb2.jpg
 ---
 
 To learn more about Angular : [Angular4 ? Where’s the version 3 ? why the hurry ?](https://aymen.co/javascript/angular-4-wheres-the-version-3-why-the-hurry/)

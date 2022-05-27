@@ -5,7 +5,7 @@ date : "2020-03-02"
 categories : 
  - c-plus-plus
 tags : ""
-cover : "../images/Avengers-ASCII-Logo.jpg"
+cover : ../images/Avengers-ASCII-Logo.jpg
 ---
 
 When using C++ to serve **multi-languages** users, we need to validate the caractères in the string to find out what to do.

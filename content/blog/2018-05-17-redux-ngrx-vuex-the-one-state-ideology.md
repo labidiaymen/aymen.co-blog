@@ -7,7 +7,7 @@ categories :
  - redux
  - rxjs
 tags : ""
-cover : "../images/the-state-id-aymen.co_-1.png"
+cover : ../images/the-state-id-aymen.co_-1.png
 ---
 
 Ahh, **Managing states**, how it was **awful** before the one State ideology.

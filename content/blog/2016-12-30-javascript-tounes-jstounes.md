@@ -5,7 +5,7 @@ date : "2016-12-30"
 categories : 
  - events
 tags : ""
-cover : "../images/js_tounes_thumb.png"
+cover : ../images/js_tounes_thumb.png
 ---
 
 You were introduced to JavaScript and slowly became aware of its marvelous contribution in the World Wide Web.

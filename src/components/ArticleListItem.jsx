@@ -38,7 +38,7 @@ const ArticleListItem = ({ post }) => {
           <div className="basis-2/5">
             <img
               style={{ width: "100%", display: "inline-block" }}
-              src={post.frontmatter.cover}
+              src={"/" + post.frontmatter.cover}
               alt={post.frontmatter.title}
             ></img>
           </div>

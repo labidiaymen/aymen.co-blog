@@ -5,7 +5,7 @@ date : "2017-01-05"
 categories : 
  - javascript
 tags : ""
-cover : "../images/reactive-programming-thumb-1.jpg"
+cover : ../images/reactive-programming-thumb-1.jpg
 ---
 
 > **Reactive programming** is learning to program completely around **synchronous** data **streams**

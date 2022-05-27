@@ -6,7 +6,7 @@ categories :
  - angular
  - javascript
 tags : ""
-cover : "../images/angular-cli-thumb3.jpg"
+cover : ../images/angular-cli-thumb3.jpg
 ---
 
 One of the easiest ways to start a new Angular application is to use Angular’s [command-line interface](https://github.com/angular/angular-cli) (CLI).

@@ -5,7 +5,7 @@ date : "null"
 categories : 
  - log
 tags : ""
-cover : "../images/jobs-tunisia.jpg"
+cover : ../images/jobs-tunisia.jpg
 ---
 
 I start my career like the majority of the developers as a freelancer, and after a good amount of projects, I start building a Team, after that, I look forward and I started a Startup, Why? simply to put up the good culture that I didn't find in any company that I worked for.

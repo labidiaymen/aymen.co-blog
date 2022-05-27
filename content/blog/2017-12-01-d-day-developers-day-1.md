@@ -5,7 +5,7 @@ date : "2017-12-01"
 categories : 
  - events
 tags : ""
-cover : "../images/dd-d-thmp.png"
+cover : ../images/dd-d-thmp.png
 ---
 
 ## ![](https://aymen.co/cn/uploads/2017/12/d-day-clean.png)

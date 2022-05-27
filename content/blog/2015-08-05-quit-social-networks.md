@@ -5,7 +5,7 @@ date : "2015-08-05"
 categories : 
  - thoughts
 tags : ""
-cover : "../images/social-networking.jpg"
+cover : ../images/social-networking.jpg
 ---
 
 The social network is a wealth for those who know how to exploit it. I used to collect information and follow the news about technologies. I had fun sharing some of them. But lastly, what did I get?

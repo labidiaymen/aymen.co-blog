@@ -6,7 +6,7 @@ categories :
  - devops
  - javascript
 tags : "angular,devops,gitlab,nativescript"
-cover : "../images/devops-gitlab-ci-nativescript-aymen.co_-2.png"
+cover : ../images/devops-gitlab-ci-nativescript-aymen.co_-2.png
 ---
 
 To get more things _**Done**_ we need more _**time**_, and to get more time there are things you **must** do, one of them is the **automation**.

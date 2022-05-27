@@ -5,7 +5,7 @@ date : "2016-12-24"
 categories : 
  - projects
 tags : ""
-cover : "../images/kitch-educa.jpg"
+cover : ../images/kitch-educa.jpg
 ---
 
 Kitchenet Education is an education platform that host updated courses of hottest technologies, platforms, and frameworks.

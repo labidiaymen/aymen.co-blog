@@ -6,7 +6,7 @@ categories :
  - javascript
  - angular
 tags : ""
-cover : "../images/cypress.jpg"
+cover : ../images/cypress.jpg
 ---
 
 As a **frontend** developer you will interact with **backend** developers more than you will interact with your family members, so keeping the good **relationship** is the main thing you need to **focus** on.

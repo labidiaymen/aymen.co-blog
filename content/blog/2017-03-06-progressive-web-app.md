@@ -5,7 +5,7 @@ date : "2017-03-06"
 categories : 
  - javascript
 tags : ""
-cover : "../images/pwa-cover-partage.jpg"
+cover : ../images/pwa-cover-partage.jpg
 ---
 
 Have you visited a website and you got a suggestion to install a related app or official application and  you resist ?

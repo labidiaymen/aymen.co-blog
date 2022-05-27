@@ -5,7 +5,7 @@ date : "2019-10-30"
 categories : 
  - javascript
 tags : ""
-cover : "../images/state-of-javascript.png"
+cover : ../images/state-of-javascript.png
 ---
 
 Have you felt the [JavaScript fatigue](https://goo.gl/Hgnph7) before? **I have**.

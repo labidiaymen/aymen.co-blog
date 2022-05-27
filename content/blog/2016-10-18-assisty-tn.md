@@ -5,7 +5,7 @@ date : "2016-10-18"
 categories : 
  - projects
 tags : ""
-cover : "../images/assisty.jpg"
+cover : ../images/assisty.jpg
 ---
 
 Assisty is a mobile service of daily life to help Tunisians can analyze your request in different languages including Tunisian dialect

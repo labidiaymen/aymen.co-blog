@@ -6,7 +6,7 @@ categories :
  - angular
  - javascript
 tags : "angular,angular4,ionic,ionic2,javascript"
-cover : "../images/angular4.png"
+cover : ../images/angular4.png
 ---
 
 First of all let’s start with what is [**AngularJS**](https://angularjs.org/) :

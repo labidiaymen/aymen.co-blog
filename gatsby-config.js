@@ -11,9 +11,11 @@ module.exports = {
       twitter: `kylemathews`,
     },
   },
+  pathPrefix: "/",
   plugins: [
-    'gatsby-plugin-postcss',
     `gatsby-plugin-image`,
+    `gatsby-transformer-sharp`,
+    `gatsby-plugin-sharp`,
     {
       resolve: `gatsby-source-filesystem`,
       options: {
@@ -30,28 +32,27 @@ module.exports = {
     },
     {
       resolve: `gatsby-transformer-remark`,
-      options: {
-        plugins: [
-          {
-            resolve: `gatsby-remark-images`,
-            options: {
-              maxWidth: 630,
-            },
-          },
-          {
-            resolve: `gatsby-remark-responsive-iframe`,
-            options: {
-              wrapperStyle: `margin-bottom: 1.0725rem`,
-            },
-          },
-          `gatsby-remark-prismjs`,
-          `gatsby-remark-copy-linked-files`,
-          `gatsby-remark-smartypants`,
-        ],
-      },
+      // options: {
+      //   plugins: [
+      //     {
+      //       resolve: `gatsby-remark-images`,
+      //       options: {
+      //         maxWidth: 630,
+      //       },
+      //     },
+      //     {
+      //       resolve: `gatsby-remark-responsive-iframe`,
+      //       options: {
+      //         wrapperStyle: `margin-bottom: 1.0725rem`,
+      //       },
+      //     },
+      //     `gatsby-remark-prismjs`,
+      //     `gatsby-remark-copy-linked-files`,
+      //     `gatsby-remark-smartypants`,
+      //   ],
+      // },
     },
-    `gatsby-transformer-sharp`,
-    `gatsby-plugin-sharp`,
+
     // {
     //   resolve: `gatsby-plugin-google-analytics`,
     //   options: {
@@ -126,6 +127,8 @@ module.exports = {
       },
     },
     `gatsby-plugin-react-helmet`,
+    "gatsby-plugin-postcss",
+
     // this (optional) plugin enables Progressive Web App + Offline functionality
     // To learn more, visit: https://gatsby.dev/offline
     // `gatsby-plugin-offline`,

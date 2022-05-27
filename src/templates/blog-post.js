@@ -1,7 +1,7 @@
 import * as React from "react"
 import { Link, graphql } from "gatsby"
 
-import Bio from "../components/bio"
+// import Bio from "../components/bio"
 import Layout from "../components/layout"
 import Seo from "../components/seo"
 
@@ -22,15 +22,14 @@ const BlogPostTemplate = ({ data, location }) => {
         itemType="http://schema.org/Article"
       >
         <header>
-          <div style={{ display: "inline-block" }}>
-          
-            <div style={{ width: "75%", display: "inline-block" }}>
+          <div className="flex flex-col md:flex-row">
+            <div>
               <h1 itemProp="headline">{post.frontmatter.title}</h1>
             </div>
-            <div style={{ width: "25%", display: "inline-block" }}>
+            <div className="basis-2/5 block p-8">
               <img
-                style={{ width: "100%", display: "inline-block" }}
-                src={post.frontmatter.cover}
+              className="pr-3"
+                src={"/" + post.frontmatter.cover}
                 alt={post.frontmatter.title}
               ></img>
             </div>
@@ -42,9 +41,7 @@ const BlogPostTemplate = ({ data, location }) => {
           itemProp="articleBody"
         />
         <hr />
-        <footer>
-          <Bio />
-        </footer>
+        <footer>{/* <Bio /> */}</footer>
       </article>
       <nav className="blog-post-nav">
         <ul

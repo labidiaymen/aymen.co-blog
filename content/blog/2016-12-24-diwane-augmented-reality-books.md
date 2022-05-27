@@ -5,7 +5,7 @@ date : "2016-12-24"
 categories : 
  - projects
 tags : ""
-cover : "../images/diwane.jpg"
+cover : ../images/diwane.jpg
 ---
 
 Diwane is a book series dedicated to children. The concept behind augmented reality books is simple: a physical book contains many elements that elude the human eye, only visible through the use of various apps, gadgets and other devices. Diwane use this concept to make the kids learn hen they are playing.

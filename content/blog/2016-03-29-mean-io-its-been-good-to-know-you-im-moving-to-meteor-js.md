@@ -5,7 +5,7 @@ date : "2016-03-29"
 categories : 
  - thoughts
 tags : ""
-cover : "../images/meteor.png"
+cover : ../images/meteor.png
 ---
 
 I have been  using Mean.io for 7 months building scalable application, i followed the default package system of mean.io and it seemed organased.

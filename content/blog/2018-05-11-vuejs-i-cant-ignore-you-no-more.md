@@ -6,7 +6,7 @@ categories :
  - javascript
  - vue
 tags : ""
-cover : "../images/vuejs-aymen.co_.png"
+cover : ../images/vuejs-aymen.co_.png
 ---
 
 Did sometimes you want to make an interactive web page without using jQuery or a fully framework like Angular (2->5) did that happened to you also?

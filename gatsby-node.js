@@ -42,10 +42,6 @@ exports.createPages = async ({ graphql, actions, reporter }) => {
   const categories = posts
     .flatMap(({ frontmatter: { categories } }) => categories)
     .filter(item => item)
-  console.log(
-    "🚀 ~ file: gatsby-node.js ~ line 43 ~ exports.createPages= ~ categories",
-    categories
-  )
 
   categories.forEach(category =>
     createPage({
@@ -69,10 +65,7 @@ exports.createPages = async ({ graphql, actions, reporter }) => {
         post.frontmatter?.categories && post.frontmatter?.categories[0]
           ? post.frontmatter?.categories[0]
           : "none"
-      console.log(
-        "🚀 ~ file: gatsby-node.js ~ line 69 ~ posts.forEach ~ category",
-        category
-      )
+
       createPage({
         path: `/${category}${post.fields.slug}`,
         component: blogPost,
@@ -80,7 +73,7 @@ exports.createPages = async ({ graphql, actions, reporter }) => {
           id: post.id,
           previousPostId,
           nextPostId,
-          category
+          category,
         },
       })
     })
@@ -135,7 +128,6 @@ exports.createSchemaCustomization = ({ actions }) => {
       title: String
       description: String
       date: Date @dateformat
-      cover: String
     }
 
     type Fields {

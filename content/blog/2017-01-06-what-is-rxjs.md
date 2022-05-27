@@ -6,7 +6,7 @@ categories :
  - javascript
  - rxjs
 tags : ""
-cover : "../images/reactive-js-thmb-1.jpg"
+cover : ../images/reactive-js-thmb-1.jpg
 ---
 
 > RxJS it's **Reactive Extensions for JavaScript** , you can treat **events** as collections and you can manipulate these sets of events with **operators.**

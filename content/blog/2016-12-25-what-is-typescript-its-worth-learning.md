@@ -5,7 +5,7 @@ date : "2016-12-25"
 categories : 
  - javascript
 tags : "ecmascript,google,javascript,microsoft,typescript"
-cover : "../images/TypeSript_thumb-2.png"
+thumb : ../images/TypeSript_thumb-2.png
 ---
 
 ### **What is Typescript ?**

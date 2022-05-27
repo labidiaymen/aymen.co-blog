@@ -6,7 +6,7 @@ categories :
  - javascript
  - nativescript
 tags : ""
-cover : "../images/NativeScipt-thumb.png"
+cover : ../images/NativeScipt-thumb.png
 ---
 
 First of all i'm an Angular  developer, and i Like how Angular structure the project, especially the style guide by Team Angular,  So why NativeScript ?

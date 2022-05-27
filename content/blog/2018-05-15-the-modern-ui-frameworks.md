@@ -5,7 +5,7 @@ date : "2018-05-15"
 categories : 
  - javascript
 tags : ""
-cover : "../images/element-ui-aymen.co_.png"
+cover : ../images/element-ui-aymen.co_.png
 ---
 
 Nowadays, finding a UI element is **HARD** and I will tell you why,

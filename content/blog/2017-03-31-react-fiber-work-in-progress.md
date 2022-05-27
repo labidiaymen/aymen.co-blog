@@ -6,7 +6,7 @@ categories :
  - javascript
  - react
 tags : ""
-cover : "../images/react-fiber2.jpg"
+cover : ../images/react-fiber2.jpg
 ---
 
 > **React Fiber** is  **complete rewrite for ReactJS **shipped with a new reconciliation algorithm.

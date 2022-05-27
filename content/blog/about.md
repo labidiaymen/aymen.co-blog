@@ -3,7 +3,7 @@ title : "About"
 author : "Aymen"
 date : "2018-05-09"
 categories : 
- - blog
+ - pages
 tags : ""
 ---
 

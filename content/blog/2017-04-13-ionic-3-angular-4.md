@@ -6,7 +6,7 @@ categories :
  - ionic
  - javascript
 tags : ""
-cover : "../images/aymen-co-ionic-3-thumb.jpg"
+cover : ../images/aymen-co-ionic-3-thumb.jpg
 ---
 
 Ionic has released Ionic 3, a new major version that means we will have incompatible API changes.
