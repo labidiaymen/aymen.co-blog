@@ -10,7 +10,7 @@ const BlogPostTemplate = ({ data, location }) => {
   const post = data.markdownRemark
   const siteTitle = data.site.siteMetadata?.title || `Title`
   const { previous, next } = data
-  const { slug, title } = post;
+  const { slug, title } = post
   const disqusConfig = {
     shortname: process.env.GATSBY_DISQUS_NAME,
     config: { identifier: slug, title },
@@ -46,11 +46,13 @@ const BlogPostTemplate = ({ data, location }) => {
               </h1>
             </div>
             <div className="basis-2/5 block pl-12">
-              <img
-                className="pr-3"
-                src={"/" + post.frontmatter.cover}
-                alt={post.frontmatter.title}
-              ></img>
+              {post.frontmatter.cover && (
+                <img
+                  className="pr-3"
+                  src={"/" + post.frontmatter.cover}
+                  alt={post.frontmatter.title}
+                ></img>
+              )}
             </div>
           </div>
           <div className="py-6">
