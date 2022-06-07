@@ -15,8 +15,8 @@ const ArticleListItem = ({ post }) => {
     >
       <header></header>
       <section>
-        <div className="flex flex-row">
-          <div style={{ paddingRight: "4%" }}>
+        <div className="flex flex-col md:flex-row">
+          <div className="self-center">
             <h2>
               <Link
                 to={"/" + category + post.fields.slug}
@@ -26,7 +26,7 @@ const ArticleListItem = ({ post }) => {
                 <span itemProp="headline">{title}</span>
               </Link>
             </h2>
-            <small>{post.frontmatter.date}</small>
+            {/* <small>{post.frontmatter.date}</small> */}
             <p
               className="post-list-description"
               dangerouslySetInnerHTML={{
@@ -35,19 +35,15 @@ const ArticleListItem = ({ post }) => {
               itemProp="description"
             />
           </div>
-          <div className="basis-2/5">
+          <div className="basis-3/5 block p-1 mt-2 md:p-8 md:mt-0">
             <img
-              style={{ width: "100%", display: "inline-block" }}
+              className="pr-3 p-2"
               src={"/" + post.frontmatter.cover}
               alt={post.frontmatter.title}
             ></img>
           </div>
         </div>
       </section>
-
-      {/* <Link className="post-list-more" to={post.fields.slug}>
-        <span>read more</span>
-      </Link> */}
     </article>
   )
 }

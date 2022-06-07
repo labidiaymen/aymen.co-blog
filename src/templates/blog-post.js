@@ -4,11 +4,17 @@ import { Link, graphql } from "gatsby"
 // import Bio from "../components/bio"
 import Layout from "../components/layout"
 import Seo from "../components/seo"
+import { DiscussionEmbed } from "disqus-react"
 
 const BlogPostTemplate = ({ data, location }) => {
   const post = data.markdownRemark
   const siteTitle = data.site.siteMetadata?.title || `Title`
   const { previous, next } = data
+  const { slug, title } = post;
+  const disqusConfig = {
+    shortname: process.env.GATSBY_DISQUS_NAME,
+    config: { identifier: slug, title },
+  }
 
   return (
     <Layout location={location} title={siteTitle}>
@@ -22,26 +28,44 @@ const BlogPostTemplate = ({ data, location }) => {
         itemType="http://schema.org/Article"
       >
         <header>
+          {/* <div
+              class="bg-cover bg-center ..."
+              style={{
+                "background-image": "url(" + "/" + post.frontmatter.cover + ")",
+                height : "180px",
+                width:"A00%"
+              }}
+            ></div> */}
           <div className="flex flex-col md:flex-row">
-            <div>
-              <h1 itemProp="headline">{post.frontmatter.title}</h1>
+            <div className=" items-center" style={{ alignSelf: "center" }}>
+              <h1
+                className="post-list-title single-post-list-title self-center"
+                itemProp="headline"
+              >
+                {post.frontmatter.title}
+              </h1>
             </div>
-            <div className="basis-2/5 block p-8">
+            <div className="basis-2/5 block pl-12">
               <img
-              className="pr-3"
+                className="pr-3"
                 src={"/" + post.frontmatter.cover}
                 alt={post.frontmatter.title}
               ></img>
             </div>
           </div>
-          <p>{post.frontmatter.date}</p>
+          <div className="py-6">
+            Last modified: <small>{post.frontmatter.date}</small>
+          </div>
         </header>
         <section
+          className="pt-6"
           dangerouslySetInnerHTML={{ __html: post.html }}
           itemProp="articleBody"
         />
         <hr />
-        <footer>{/* <Bio /> */}</footer>
+        <footer>
+          <DiscussionEmbed {...disqusConfig} />
+        </footer>
       </article>
       <nav className="blog-post-nav">
         <ul
