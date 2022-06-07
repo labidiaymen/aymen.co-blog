@@ -36,11 +36,13 @@ const ArticleListItem = ({ post }) => {
             />
           </div>
           <div className="basis-3/5 block p-1 mt-2 md:p-8 md:mt-0">
-            <img
-              className="pr-3 p-2"
-              src={"/" + post.frontmatter.cover}
-              alt={post.frontmatter.title}
-            ></img>
+            {post.frontmatter.cover && (
+              <img
+                className="pr-3 p-2"
+                src={"/" + post.frontmatter.cover}
+                alt={post.frontmatter.title}
+              ></img>
+            )}
           </div>
         </div>
       </section>
