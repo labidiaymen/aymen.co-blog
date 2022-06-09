@@ -1,4 +1,17 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Gatsby Starter Blog RSS Feed]]></title><description><![CDATA[A starter blog demonstrating what Gatsby can do.]]></description><link>https://aymen.co</link><generator>GatsbyJS</generator><lastBuildDate>Thu, 09 Jun 2022 15:35:09 GMT</lastBuildDate><item><title><![CDATA[What you need to know about Tech Job in Tunisia]]></title><description><![CDATA[I start my career like the majority of the developers as a freelancer, and after a good amount of projects, I start building a Team, after…]]></description><link>https://aymen.co/Invalid DateTime-/</link><guid isPermaLink="false">https://aymen.co/Invalid DateTime-/</guid><pubDate>Invalid Date</pubDate><content:encoded>&lt;p&gt;I start my career like the majority of the developers as a freelancer, and after a good amount of projects, I start building a Team, after that, I look forward and I started a Startup, Why? simply to put up the good culture that I didn&apos;t find in any company that I worked for.&lt;/p&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Gatsby Starter Blog RSS Feed]]></title><description><![CDATA[A starter blog demonstrating what Gatsby can do.]]></description><link>https://aymen.co</link><generator>GatsbyJS</generator><lastBuildDate>Thu, 09 Jun 2022 15:51:13 GMT</lastBuildDate><item><title><![CDATA[No title]]></title><link>https://aymen.co/angular-standalone-components/</link><guid isPermaLink="false">https://aymen.co/angular-standalone-components/</guid><content:encoded>&lt;!-- ---
+title: &quot;Angular 14: Standalone components&quot;
+author: &quot;Aymen&quot;
+date: &quot;2022-06-12&quot;
+categories:
+  - javascript
+  - angular
+tags: &quot;&quot;
+cover: ../images/angular-standalone-component.PNG
+---
+
+## Introduction
+
+lorem ipsum lorem ipsumlorem ipsumlorem ipsumlorem ipsumlorem ipsumlorem ipsumlorem ipsumlorem ipsumlorem ipsumlorem ipsumlorem ipsumlorem ipsumlorem ipsumlorem ipsumlorem ipsumlorem ipsumlorem ipsumlorem ipsumlorem ipsumlorem ipsumlorem ipsumlorem ipsumlorem ipsumlorem ipsumlorem ipsumlorem ipsumlorem ipsumlorem ipsumlorem ipsumlorem ipsumlorem ipsumlorem ipsum --&gt;</content:encoded></item><item><title><![CDATA[What you need to know about Tech Job in Tunisia]]></title><description><![CDATA[I start my career like the majority of the developers as a freelancer, and after a good amount of projects, I start building a Team, after…]]></description><link>https://aymen.co/Invalid DateTime-/</link><guid isPermaLink="false">https://aymen.co/Invalid DateTime-/</guid><pubDate>Invalid Date</pubDate><content:encoded>&lt;p&gt;I start my career like the majority of the developers as a freelancer, and after a good amount of projects, I start building a Team, after that, I look forward and I started a Startup, Why? simply to put up the good culture that I didn&apos;t find in any company that I worked for.&lt;/p&gt;
 &lt;p&gt;After I start my consulting journey, I start working for companies in their office and manage my Team remotely, and It was very hard at first Then I get used to and everything goes right.&lt;/p&gt;
 &lt;p&gt;BUT and that&apos;s a big BUT, when you make a good culture at your Startup and you enter another culture, you need to adapt to their culture and it&apos;s been OK.&lt;/p&gt;
 &lt;p&gt;BUT, this another big BUT, how about if you start working with a very good and supportive CTO and a bad manager that trait the peoples working in his open space as machine working in specific hours, and make people fear of contacting him when seeking information. I&apos;ve been OK  and I didn&apos;t have an issue communication with him.&lt;/p&gt;
@@ -12,18 +25,18 @@
 &lt;p&gt;Bootstraping Component, Pipe and Service is a daily task when starting a new feature with Angular projet.
 So we use &lt;code&gt;ng&lt;/code&gt; command to generate our static files.&lt;/p&gt;
 &lt;p&gt;If you use VS Code or Intellij or any IDE there&apos;s extentions that execute ng generate command for you.
-But if you wanna use the command line in your Terminal you will have hard time to remember the arguments to pass.&lt;/p&gt;
+But if you want use the command line in your Terminal you will have hard time to remember the arguments to pass.&lt;/p&gt;
 &lt;p&gt;That&apos;s why Angular has introduce &lt;strong&gt;CLI auto completion&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;To use this feature on Winows you need to active WSL(Windows Subsystem for Linux) or Use GIT Bash.&lt;/p&gt;
+&lt;p&gt;To use this feature on Winsows you need to activate WSL(Windows Subsystem for Linux) or Use GIT Bash.&lt;/p&gt;
 &lt;p&gt;&lt;img src=&quot;/images/ng-completion-1.PNG&quot; alt=&quot;adding profile for windows&quot;&gt;&lt;/p&gt;
-&lt;p&gt;Double check if the command has added the commadn to the &lt;code&gt;.bashrc&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;Double check if the command has added the command to the &lt;code&gt;.bashrc&lt;/code&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img src=&quot;/images/ng-completion-2.PNG&quot; alt=&quot;bashrc example&quot;&gt;&lt;/p&gt;
-&lt;p&gt;And than we can use TAB key to autocomplete, it&apos;s kind slow on windows but it works.
+&lt;p&gt;And than we can use TAB key to autocomplete, it&apos;s a bit slow on windows but it works.
 &lt;img src=&quot;/images/ng-completion-3.PNG&quot; alt=&quot;ng completion demo&quot;&gt;&lt;/p&gt;
 &lt;p&gt;We can go even further with the list of available flags.&lt;/p&gt;
 &lt;p&gt;&lt;img src=&quot;/images/ng-completion-4.PNG&quot; alt=&quot;ng completion flags&quot;&gt;&lt;/p&gt;
 &lt;h2&gt;Conclusion&lt;/h2&gt;
-&lt;p&gt;Tools make the life of developers easier, every improvement can affect their productivity, which make sometimes choosing a framework among others because they provides a richer toolkit.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[(C++) isASCII(string) : Check if the string has a special characters]]></title><description><![CDATA[When using C++ to serve multi-languages users, we need to validate the caractères in the string to find out what to do. In our case, we need…]]></description><link>https://aymen.co/isascii-check-if-the-string-has-a-special-characters/</link><guid isPermaLink="false">https://aymen.co/isascii-check-if-the-string-has-a-special-characters/</guid><pubDate>Mon, 02 Mar 2020 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;When using C++ to serve &lt;strong&gt;multi-languages&lt;/strong&gt; users, we need to validate the caractères in the string to find out what to do.&lt;/p&gt;
+&lt;p&gt;Tools make the life of developers easier, every improvement can affect their productivity. This makes us sometimes choose a framework among others in order to get a richer toolkit.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[(C++) isASCII(string) : Check if the string has a special characters]]></title><description><![CDATA[When using C++ to serve multi-languages users, we need to validate the caractères in the string to find out what to do. In our case, we need…]]></description><link>https://aymen.co/isascii-check-if-the-string-has-a-special-characters/</link><guid isPermaLink="false">https://aymen.co/isascii-check-if-the-string-has-a-special-characters/</guid><pubDate>Mon, 02 Mar 2020 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;When using C++ to serve &lt;strong&gt;multi-languages&lt;/strong&gt; users, we need to validate the caractères in the string to find out what to do.&lt;/p&gt;
 &lt;p&gt;In our case, we need to find out if there&apos;s a special character in the string to convert them,  and this was made by checking the decimal code of each character and check if it is above 127 or not,&lt;/p&gt;
 &lt;p&gt;why &lt;strong&gt;127&lt;/strong&gt;?&lt;/p&gt;
 &lt;p&gt;Because the &lt;strong&gt;ASCII&lt;/strong&gt; table told us that the characters code starts from 0 (NULL) and ends at 127(DEL)&lt;/p&gt;
