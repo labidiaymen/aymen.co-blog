@@ -1,11 +1,30 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Gatsby Starter Blog RSS Feed]]></title><description><![CDATA[A starter blog demonstrating what Gatsby can do.]]></description><link>https://aymen.co</link><generator>GatsbyJS</generator><lastBuildDate>Wed, 08 Jun 2022 09:42:20 GMT</lastBuildDate><item><title><![CDATA[What you need to know about Tech Job in Tunisia]]></title><description><![CDATA[I start my career like the majority of the developers as a freelancer, and after a good amount of projects, I start building a Team, after…]]></description><link>https://aymen.co/Invalid DateTime-/</link><guid isPermaLink="false">https://aymen.co/Invalid DateTime-/</guid><pubDate>Invalid Date</pubDate><content:encoded>&lt;p&gt;I start my career like the majority of the developers as a freelancer, and after a good amount of projects, I start building a Team, after that, I look forward and I started a Startup, Why? simply to put up the good culture that I didn’t find in any company that I worked for.&lt;/p&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Gatsby Starter Blog RSS Feed]]></title><description><![CDATA[A starter blog demonstrating what Gatsby can do.]]></description><link>https://aymen.co</link><generator>GatsbyJS</generator><lastBuildDate>Thu, 09 Jun 2022 15:35:09 GMT</lastBuildDate><item><title><![CDATA[What you need to know about Tech Job in Tunisia]]></title><description><![CDATA[I start my career like the majority of the developers as a freelancer, and after a good amount of projects, I start building a Team, after…]]></description><link>https://aymen.co/Invalid DateTime-/</link><guid isPermaLink="false">https://aymen.co/Invalid DateTime-/</guid><pubDate>Invalid Date</pubDate><content:encoded>&lt;p&gt;I start my career like the majority of the developers as a freelancer, and after a good amount of projects, I start building a Team, after that, I look forward and I started a Startup, Why? simply to put up the good culture that I didn&apos;t find in any company that I worked for.&lt;/p&gt;
 &lt;p&gt;After I start my consulting journey, I start working for companies in their office and manage my Team remotely, and It was very hard at first Then I get used to and everything goes right.&lt;/p&gt;
-&lt;p&gt;BUT and that’s a big BUT, when you make a good culture at your Startup and you enter another culture, you need to adapt to their culture and it’s been OK.&lt;/p&gt;
-&lt;p&gt;BUT, this another big BUT, how about if you start working with a very good and supportive CTO and a bad manager that trait the peoples working in his open space as machine working in specific hours, and make people fear of contacting him when seeking information. I’ve been OK  and I didn’t have an issue communication with him.&lt;/p&gt;
-&lt;p&gt;Let’s take a step back. I said a supportive CTO and a BAD manager.&lt;/p&gt;
-&lt;p&gt;For me, I always participate in the respectful conversation, other than that I cut off any direct conversion and ask the other parts to start a title thread with the subject and the CTO in it, here you can start a respectful conversation and start discussing the subject, like that you did get your respect and continue your challenge with the good CTO, because we can’t find everything like we what, sometimes we need to adapt.&lt;/p&gt;
-&lt;p&gt;how about you? how you will manage this situation?&lt;/p&gt;</content:encoded></item><item><title><![CDATA[(C++) isASCII(string) : Check if the string has a special characters]]></title><description><![CDATA[When using C++ to serve multi-languages users, we need to validate the caractères in the string to find out what to do. In our case, we need…]]></description><link>https://aymen.co/isascii-check-if-the-string-has-a-special-characters/</link><guid isPermaLink="false">https://aymen.co/isascii-check-if-the-string-has-a-special-characters/</guid><pubDate>Mon, 02 Mar 2020 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;When using C++ to serve &lt;strong&gt;multi-languages&lt;/strong&gt; users, we need to validate the caractères in the string to find out what to do.&lt;/p&gt;
-&lt;p&gt;In our case, we need to find out if there’s a special character in the string to convert them,  and this was made by checking the decimal code of each character and check if it is above 127 or not,&lt;/p&gt;
+&lt;p&gt;BUT and that&apos;s a big BUT, when you make a good culture at your Startup and you enter another culture, you need to adapt to their culture and it&apos;s been OK.&lt;/p&gt;
+&lt;p&gt;BUT, this another big BUT, how about if you start working with a very good and supportive CTO and a bad manager that trait the peoples working in his open space as machine working in specific hours, and make people fear of contacting him when seeking information. I&apos;ve been OK  and I didn&apos;t have an issue communication with him.&lt;/p&gt;
+&lt;p&gt;Let&apos;s take a step back. I said a supportive CTO and a BAD manager.&lt;/p&gt;
+&lt;p&gt;For me, I always participate in the respectful conversation, other than that I cut off any direct conversion and ask the other parts to start a title thread with the subject and the CTO in it, here you can start a respectful conversation and start discussing the subject, like that you did get your respect and continue your challenge with the good CTO, because we can&apos;t find everything like we what, sometimes we need to adapt.&lt;/p&gt;
+&lt;p&gt;how about you? how you will manage this situation?&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Angular 14: CLI Auto completion]]></title><description><![CDATA[Introduction As Front-end Architect, choosing the right Framework can impact the whole company even the group, that’s why we choose…]]></description><link>https://aymen.co/angular-cli-auto-completion/</link><guid isPermaLink="false">https://aymen.co/angular-cli-auto-completion/</guid><pubDate>Sun, 12 Jun 2022 00:00:00 GMT</pubDate><content:encoded>&lt;h2&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;As Front-end Architect, choosing the right Framework can impact the whole company even the group, that’s why we choose carefully the technologies that we adopt.&lt;/p&gt;
+&lt;p&gt;For many years Angular prove how stable, it is, and when braking change happens, it will be accompanied by a great documentation.&lt;/p&gt;
+&lt;p&gt;Even there a tool to assist you when updating project. &lt;a href=&quot;https://angular.io/cli/update&quot;&gt;&lt;code&gt;ng update&lt;/code&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;Angular CLI auto completion&lt;/h2&gt;
+&lt;p&gt;Bootstraping Component, Pipe and Service is a daily task when starting a new feature with Angular projet.
+So we use &lt;code&gt;ng&lt;/code&gt; command to generate our static files.&lt;/p&gt;
+&lt;p&gt;If you use VS Code or Intellij or any IDE there&apos;s extentions that execute ng generate command for you.
+But if you wanna use the command line in your Terminal you will have hard time to remember the arguments to pass.&lt;/p&gt;
+&lt;p&gt;That&apos;s why Angular has introduce &lt;strong&gt;CLI auto completion&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;To use this feature on Winows you need to active WSL(Windows Subsystem for Linux) or Use GIT Bash.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/images/ng-completion-1.PNG&quot; alt=&quot;adding profile for windows&quot;&gt;&lt;/p&gt;
+&lt;p&gt;Double check if the command has added the commadn to the &lt;code&gt;.bashrc&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/images/ng-completion-2.PNG&quot; alt=&quot;bashrc example&quot;&gt;&lt;/p&gt;
+&lt;p&gt;And than we can use TAB key to autocomplete, it&apos;s kind slow on windows but it works.
+&lt;img src=&quot;/images/ng-completion-3.PNG&quot; alt=&quot;ng completion demo&quot;&gt;&lt;/p&gt;
+&lt;p&gt;We can go even further with the list of available flags.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/images/ng-completion-4.PNG&quot; alt=&quot;ng completion flags&quot;&gt;&lt;/p&gt;
+&lt;h2&gt;Conclusion&lt;/h2&gt;
+&lt;p&gt;Tools make the life of developers easier, every improvement can affect their productivity, which make sometimes choosing a framework among others because they provides a richer toolkit.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[(C++) isASCII(string) : Check if the string has a special characters]]></title><description><![CDATA[When using C++ to serve multi-languages users, we need to validate the caractères in the string to find out what to do. In our case, we need…]]></description><link>https://aymen.co/isascii-check-if-the-string-has-a-special-characters/</link><guid isPermaLink="false">https://aymen.co/isascii-check-if-the-string-has-a-special-characters/</guid><pubDate>Mon, 02 Mar 2020 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;When using C++ to serve &lt;strong&gt;multi-languages&lt;/strong&gt; users, we need to validate the caractères in the string to find out what to do.&lt;/p&gt;
+&lt;p&gt;In our case, we need to find out if there&apos;s a special character in the string to convert them,  and this was made by checking the decimal code of each character and check if it is above 127 or not,&lt;/p&gt;
 &lt;p&gt;why &lt;strong&gt;127&lt;/strong&gt;?&lt;/p&gt;
 &lt;p&gt;Because the &lt;strong&gt;ASCII&lt;/strong&gt; table told us that the characters code starts from 0 (NULL) and ends at 127(DEL)&lt;/p&gt;
 &lt;p&gt;&lt;img src=&quot;https://aymen.co/wp-content/uploads/2020/03/asciifull.gif&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
@@ -28,136 +47,136 @@ return static_cast&lt;unsigned char&gt;(c) &gt; 127;
 });
 }&lt;/p&gt;
 &lt;p&gt;int main(){
-std::string testString = “not a valid Ãscii”;
-std::cout &amp;#x3C;&amp;#x3C; “Is valid ASCII ” &amp;#x3C;&amp;#x3C; isASCII(testString.c_str()) &amp;#x3C;&amp;#x3C; std::endl;
+std::string testString = &quot;not a valid Ãscii&quot;;
+std::cout &amp;#x3C;&amp;#x3C; &quot;Is valid ASCII &quot; &amp;#x3C;&amp;#x3C; isASCII(testString.c_str()) &amp;#x3C;&amp;#x3C; std::endl;
 }&lt;/p&gt;
 &lt;p&gt;And the output will be:&lt;/p&gt;
 &lt;p&gt;Is valid ASCII 0&lt;/p&gt;
 &lt;p&gt;0 as NULL is C++&lt;/p&gt;
 &lt;p&gt; &lt;/p&gt;
-&lt;p&gt;PS: Will share snippets as I’m learning C++&lt;/p&gt;</content:encoded></item><item><title><![CDATA[A Stable JavaScript (fatigue)]]></title><description><![CDATA[Have you felt the JavaScript fatigue before? I have. Being a web developer using JavaScript frameworks consumes a lot of energy. The…]]></description><link>https://aymen.co/a-stable-javascript-fatigue/</link><guid isPermaLink="false">https://aymen.co/a-stable-javascript-fatigue/</guid><pubDate>Wed, 30 Oct 2019 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Have you felt the &lt;a href=&quot;https://goo.gl/Hgnph7&quot;&gt;JavaScript fatigue&lt;/a&gt; before? &lt;strong&gt;I have&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;PS: Will share snippets as I&apos;m learning C++&lt;/p&gt;</content:encoded></item><item><title><![CDATA[A Stable JavaScript (fatigue)]]></title><description><![CDATA[Have you felt the JavaScript fatigue before? I have. Being a web developer using JavaScript frameworks consumes a lot of energy. The…]]></description><link>https://aymen.co/a-stable-javascript-fatigue/</link><guid isPermaLink="false">https://aymen.co/a-stable-javascript-fatigue/</guid><pubDate>Wed, 30 Oct 2019 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Have you felt the &lt;a href=&quot;https://goo.gl/Hgnph7&quot;&gt;JavaScript fatigue&lt;/a&gt; before? &lt;strong&gt;I have&lt;/strong&gt;.&lt;/p&gt;
 &lt;p&gt;Being a web developer using JavaScript &lt;strong&gt;frameworks&lt;/strong&gt; consumes a lot of energy.&lt;/p&gt;
 &lt;p&gt;The JavaScript meant to be for the &lt;strong&gt;front-end&lt;/strong&gt; development and to add some interaction to static pages, like display images on click, validate forms and load &lt;strong&gt;async&lt;/strong&gt; portion of data.&lt;/p&gt;
 &lt;p&gt;Look around you now, JavaScript &lt;strong&gt;is everywhere&lt;/strong&gt;. every month or a week there a new framework or library that want to change the world appears.&lt;/p&gt;
-&lt;p&gt;Let’s look at some history:&lt;/p&gt;
-&lt;p&gt;At first, there’s plain &lt;strong&gt;JavaScript&lt;/strong&gt;, at that age, you need to write more for less, then it comes the libraries like &lt;a href=&quot;https://jquery.com/&quot;&gt;jQuery&lt;/a&gt;, &lt;a href=&quot;https://mootools.net/&quot;&gt;MooTools&lt;/a&gt;, and YUI( &lt;a href=&quot;https://yuilibrary.com/&quot;&gt;Yahoo! UI Library&lt;/a&gt; )&lt;/p&gt;
+&lt;p&gt;Let&apos;s look at some history:&lt;/p&gt;
+&lt;p&gt;At first, there&apos;s plain &lt;strong&gt;JavaScript&lt;/strong&gt;, at that age, you need to write more for less, then it comes the libraries like &lt;a href=&quot;https://jquery.com/&quot;&gt;jQuery&lt;/a&gt;, &lt;a href=&quot;https://mootools.net/&quot;&gt;MooTools&lt;/a&gt;, and YUI( &lt;a href=&quot;https://yuilibrary.com/&quot;&gt;Yahoo! UI Library&lt;/a&gt; )&lt;/p&gt;
 &lt;p&gt;Then &lt;strong&gt;Angular.js&lt;/strong&gt; has appeared at 2009, followed by &lt;a href=&quot;https://knockoutjs.com/&quot;&gt;Knockout&lt;/a&gt;, &lt;a href=&quot;http://backbonejs.org/&quot;&gt;Backbone.js&lt;/a&gt;, &lt;a href=&quot;https://www.emberjs.com/&quot;&gt;Ember.js&lt;/a&gt;, and others.&lt;/p&gt;
 &lt;p&gt;After a while &lt;a href=&quot;https://reactjs.org/&quot;&gt;React&lt;/a&gt; has been &lt;strong&gt;introduced&lt;/strong&gt; by &lt;a href=&quot;https://developers.facebook.com/&quot;&gt;Facebook&lt;/a&gt; at 2013, a &lt;strong&gt;component-based&lt;/strong&gt; frontend framework&lt;/p&gt;
 &lt;p&gt;Then in 2016, it comes &lt;a href=&quot;https://angular.io/&quot;&gt;Angular 2+&lt;/a&gt; a complete Javascript framework for the front-end.&lt;/p&gt;
 &lt;p&gt;But &lt;strong&gt;Ryan Dahl&lt;/strong&gt; let the front-end developer be a full-stack developer by making &lt;a href=&quot;https://goo.gl/1Y1wmg&quot;&gt;Node.js&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;After 2009 developers start making &lt;strong&gt;web application and services&lt;/strong&gt; with Javascript and new JavaScript frameworks start popups.&lt;/p&gt;
 &lt;p&gt;Starting from 2017-2018 people start choosing a path to follow, like Angular developer, React Developer and so on.&lt;/p&gt;
-&lt;p&gt;Also &lt;strong&gt;me&lt;/strong&gt;, I’m known as Angular developer,  That’s the main framework that I work with but you need also to &lt;strong&gt;master&lt;/strong&gt; other Frameworks if you want to be laways &lt;strong&gt;fresh&lt;/strong&gt;.&lt;/p&gt;
-&lt;p&gt;Following everything is the perfect option to lose &lt;strong&gt;focus&lt;/strong&gt;. for me, I’m really aware of what I should &lt;strong&gt;consume&lt;/strong&gt; to prevent the &lt;strong&gt;distraction&lt;/strong&gt;, and also I create a routine to keep up with what should I know.&lt;/p&gt;
+&lt;p&gt;Also &lt;strong&gt;me&lt;/strong&gt;, I&apos;m known as Angular developer,  That&apos;s the main framework that I work with but you need also to &lt;strong&gt;master&lt;/strong&gt; other Frameworks if you want to be laways &lt;strong&gt;fresh&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;Following everything is the perfect option to lose &lt;strong&gt;focus&lt;/strong&gt;. for me, I&apos;m really aware of what I should &lt;strong&gt;consume&lt;/strong&gt; to prevent the &lt;strong&gt;distraction&lt;/strong&gt;, and also I create a routine to keep up with what should I know.&lt;/p&gt;
 &lt;p&gt;Again have you felt the &lt;a href=&quot;https://goo.gl/Hgnph7&quot;&gt;JavaScript fatigue&lt;/a&gt; before? Share your &lt;strong&gt;experience&lt;/strong&gt; with us ?.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Cypress as Frontend developer]]></title><description><![CDATA[As a frontend developer you will interact with backend developers more than you will interact with your family members, so keeping the good…]]></description><link>https://aymen.co/cypress-as-frontend-developer/</link><guid isPermaLink="false">https://aymen.co/cypress-as-frontend-developer/</guid><pubDate>Sun, 09 Sep 2018 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;As a &lt;strong&gt;frontend&lt;/strong&gt; developer you will interact with &lt;strong&gt;backend&lt;/strong&gt; developers more than you will interact with your family members, so keeping the good &lt;strong&gt;relationship&lt;/strong&gt; is the main thing you need to &lt;strong&gt;focus&lt;/strong&gt; on.&lt;/p&gt;
 &lt;p&gt;When everything goes right, everybody is happy, but when one thing goes wrong, not nesserely everybody should feel sad.&lt;/p&gt;
 &lt;p&gt;To keep the good relationship we need to remove all the &lt;strong&gt;confusing&lt;/strong&gt; things from the workflow and &lt;strong&gt;everybody should speak the same language&lt;/strong&gt;.&lt;/p&gt;
-&lt;p&gt;Let’s pick a case that everybody will pass on :&lt;/p&gt;
+&lt;p&gt;Let&apos;s pick a case that everybody will pass on :&lt;/p&gt;
 &lt;p&gt;You create a view with &lt;strong&gt;Angular&lt;/strong&gt;, Vue or React, you consumed mock services and everything looks OK,&lt;/p&gt;
-&lt;p&gt;Then it comes the moment of truth when you will connect the frontend view with the backend service/&lt;strong&gt;API&lt;/strong&gt;, you implemented it and it didn’t work you will contact the backend developer and he will tell you that his service work like a charm.&lt;/p&gt;
-&lt;p&gt;You invite him to look at the result and he admitted that there’s a &lt;strong&gt;bug need to fix&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;Then it comes the moment of truth when you will connect the frontend view with the backend service/&lt;strong&gt;API&lt;/strong&gt;, you implemented it and it didn&apos;t work you will contact the backend developer and he will tell you that his service work like a charm.&lt;/p&gt;
+&lt;p&gt;You invite him to look at the result and he admitted that there&apos;s a &lt;strong&gt;bug need to fix&lt;/strong&gt;.&lt;/p&gt;
 &lt;p&gt;After he fixes his code, two things can happen :&lt;/p&gt;
 &lt;p&gt;The bug fixed and everything goes right.&lt;/p&gt;
 &lt;p&gt;The bug persists and you show him the &lt;strong&gt;scenario&lt;/strong&gt; again and we loop through this until we get everything OK, if we did not break other parts of the &lt;strong&gt;App&lt;/strong&gt;.&lt;/p&gt;
-&lt;p&gt;That’s Ok but, this takes time and energy.&lt;/p&gt;
-&lt;p&gt;Here’s I start a searching for &lt;strong&gt;automation&lt;/strong&gt;, then to end to end &lt;strong&gt;testing&lt;/strong&gt;, to simulate everything, and here’s my experience :&lt;/p&gt;
+&lt;p&gt;That&apos;s Ok but, this takes time and energy.&lt;/p&gt;
+&lt;p&gt;Here&apos;s I start a searching for &lt;strong&gt;automation&lt;/strong&gt;, then to end to end &lt;strong&gt;testing&lt;/strong&gt;, to simulate everything, and here&apos;s my experience :&lt;/p&gt;
 &lt;p&gt;I found &lt;strong&gt;&lt;a href=&quot;https://www.cypress.io/&quot;&gt;Cypress&lt;/a&gt;&lt;/strong&gt; and start writing my tests for my views and after each view or service &lt;strong&gt;implementation&lt;/strong&gt;, then the worrying start decreasing.&lt;/p&gt;
 &lt;p&gt;With the (&lt;strong&gt;e2e&lt;/strong&gt;) end to end testing, you stop worrying about &lt;strong&gt;regression&lt;/strong&gt; and focusing on the new &lt;strong&gt;functionalities&lt;/strong&gt; that need to implement.&lt;/p&gt;
 &lt;p&gt;With that, the relation between the front and back Team &lt;strong&gt;start recovering&lt;/strong&gt;.&lt;/p&gt;
 &lt;p&gt;If the &lt;strong&gt;test fails&lt;/strong&gt; I made a video of the issue and send it the concerned person, &lt;strong&gt;otherwise&lt;/strong&gt; I invite him to watch the scenario fails ?&lt;/p&gt;
 &lt;p&gt;I start being less exhausted as a Front-end developer.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Next step&lt;/strong&gt;, is to add the e2e test, to the &lt;strong&gt;DevOps&lt;/strong&gt; pipeline.&lt;/p&gt;
-&lt;p&gt;And you, how are you dealing with the &lt;strong&gt;regressions?&lt;/strong&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Docker, where have you been ?]]></title><description><![CDATA[Euuh Docker, I know you’re here for a while, but this is the right time I took the courage and make the hole things work with you. First of…]]></description><link>https://aymen.co/docker-where-have-you-been/</link><guid isPermaLink="false">https://aymen.co/docker-where-have-you-been/</guid><pubDate>Sun, 29 Jul 2018 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Euuh &lt;a href=&quot;https://www.docker.com/&quot;&gt;&lt;strong&gt;Docker&lt;/strong&gt;&lt;/a&gt;, I know you’re here for a while, but this is the right time I took the courage and make the hole things work with you.&lt;/p&gt;
-&lt;p&gt;First of all, I’m a &lt;strong&gt;consultant&lt;/strong&gt; and I have a &lt;strong&gt;startup&lt;/strong&gt; which means I work on lots of things with a lot of &lt;strong&gt;things&lt;/strong&gt;.&lt;/p&gt;
-&lt;p&gt;And to keep it up without loses I need to isolate each thing from the other things. and here’s where I start using Docker.&lt;/p&gt;
-&lt;p&gt;I hear people talking about Docker on the &lt;a href=&quot;https://en.wikipedia.org/wiki/DevOps&quot;&gt;&lt;strong&gt;DevOps&lt;/strong&gt;&lt;/a&gt; field but this is not the case for me, I start using Docker in the development environment, and here’s how.&lt;/p&gt;
-&lt;p&gt;In the last mission, I was working on a frontend application using the &lt;a href=&quot;https://angular.io/&quot;&gt;&lt;strong&gt;Angular&lt;/strong&gt;&lt;/a&gt; framework, and it’s not just me, we were a team working on the same project trying the make things happen, really fast.&lt;/p&gt;
+&lt;p&gt;And you, how are you dealing with the &lt;strong&gt;regressions?&lt;/strong&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Docker, where have you been ?]]></title><description><![CDATA[Euuh Docker, I know you're here for a while, but this is the right time I took the courage and make the hole things work with you. First of…]]></description><link>https://aymen.co/docker-where-have-you-been/</link><guid isPermaLink="false">https://aymen.co/docker-where-have-you-been/</guid><pubDate>Sun, 29 Jul 2018 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Euuh &lt;a href=&quot;https://www.docker.com/&quot;&gt;&lt;strong&gt;Docker&lt;/strong&gt;&lt;/a&gt;, I know you&apos;re here for a while, but this is the right time I took the courage and make the hole things work with you.&lt;/p&gt;
+&lt;p&gt;First of all, I&apos;m a &lt;strong&gt;consultant&lt;/strong&gt; and I have a &lt;strong&gt;startup&lt;/strong&gt; which means I work on lots of things with a lot of &lt;strong&gt;things&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;And to keep it up without loses I need to isolate each thing from the other things. and here&apos;s where I start using Docker.&lt;/p&gt;
+&lt;p&gt;I hear people talking about Docker on the &lt;a href=&quot;https://en.wikipedia.org/wiki/DevOps&quot;&gt;&lt;strong&gt;DevOps&lt;/strong&gt;&lt;/a&gt; field but this is not the case for me, I start using Docker in the development environment, and here&apos;s how.&lt;/p&gt;
+&lt;p&gt;In the last mission, I was working on a frontend application using the &lt;a href=&quot;https://angular.io/&quot;&gt;&lt;strong&gt;Angular&lt;/strong&gt;&lt;/a&gt; framework, and it&apos;s not just me, we were a team working on the same project trying the make things happen, really fast.&lt;/p&gt;
 &lt;p&gt;But this is not the case when we have a different version of Node.js and &lt;a href=&quot;https://cli.angular.io/&quot;&gt;&lt;strong&gt;@angular/&lt;/strong&gt;&lt;/a&gt;cli.&lt;/p&gt;
 &lt;p&gt;This start occurring when building success in some machine and fail in other, and here we start using Docker in the development &lt;strong&gt;environment&lt;/strong&gt;, we choose a Node.js version that matches with the production server and we create an image for the environment, then we all start using the same image.&lt;/p&gt;
 &lt;p&gt;Besides all of that, any &lt;strong&gt;new member&lt;/strong&gt; can use the same image without installing any of other &lt;strong&gt;tools&lt;/strong&gt; than Docker, and it makes the integration of new members easy and smooth.&lt;/p&gt;
-&lt;p&gt;Then I start controlling the &lt;strong&gt;CPU&lt;/strong&gt; and the Memory of the container to keep the host machine cool and prevent battery drain when I’m walking around with my MacBook Pro&lt;/p&gt;
+&lt;p&gt;Then I start controlling the &lt;strong&gt;CPU&lt;/strong&gt; and the Memory of the container to keep the host machine cool and prevent battery drain when I&apos;m walking around with my MacBook Pro&lt;/p&gt;
 &lt;p&gt;That does not &lt;strong&gt;end&lt;/strong&gt; here.&lt;/p&gt;
 &lt;p&gt;I start exploring new applications that were hard to install especially when I was using &lt;strong&gt;Windows&lt;/strong&gt;, but with Docker, I just need to &lt;strong&gt;pull an image&lt;/strong&gt; and run it.&lt;/p&gt;
-&lt;p&gt;I use &lt;strong&gt;Docker&lt;/strong&gt;, how about &lt;strong&gt;you&lt;/strong&gt;?&lt;/p&gt;</content:encoded></item><item><title><![CDATA[[My experience] The marriage of Angular and NativeScript]]></title><description><![CDATA[Building apps can cost you Time and Money if you don’t know which technologies you need to use, which is maintainable and which is scalable…]]></description><link>https://aymen.co/my-experience-the-marriage-of-angular-and-nativescript/</link><guid isPermaLink="false">https://aymen.co/my-experience-the-marriage-of-angular-and-nativescript/</guid><pubDate>Fri, 25 May 2018 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;strong&gt;Building&lt;/strong&gt; apps can cost you Time and Money if you don’t know which technologies you need to use, which is maintainable and which is scalable.&lt;/p&gt;
+&lt;p&gt;I use &lt;strong&gt;Docker&lt;/strong&gt;, how about &lt;strong&gt;you&lt;/strong&gt;?&lt;/p&gt;</content:encoded></item><item><title><![CDATA[[My experience] The marriage of Angular and NativeScript]]></title><description><![CDATA[Building apps can cost you Time and Money if you don't know which technologies you need to use, which is maintainable and which is scalable…]]></description><link>https://aymen.co/my-experience-the-marriage-of-angular-and-nativescript/</link><guid isPermaLink="false">https://aymen.co/my-experience-the-marriage-of-angular-and-nativescript/</guid><pubDate>Fri, 25 May 2018 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;strong&gt;Building&lt;/strong&gt; apps can cost you Time and Money if you don&apos;t know which technologies you need to use, which is maintainable and which is scalable.&lt;/p&gt;
 &lt;p&gt;We all agreed that &lt;strong&gt;hybrid apps&lt;/strong&gt; do not cost much, but when it comes to &lt;strong&gt;performance&lt;/strong&gt; you need to be &lt;strong&gt;careful&lt;/strong&gt;.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://phonegap.com/&quot;&gt;&lt;strong&gt;PhoneGap&lt;/strong&gt;&lt;/a&gt; open’s the door for &lt;strong&gt;JavaScript&lt;/strong&gt; and HTML/CSS to enter the &lt;strong&gt;mobile&lt;/strong&gt; world, then Apache Cordova (which is a fork from PhoneGap) Then it’s comes the famous &lt;a href=&quot;https://ionicframework.com/&quot;&gt;Ionic&lt;/a&gt; which is &lt;a href=&quot;https://angular.io/&quot;&gt;&lt;strong&gt;Angular&lt;/strong&gt;&lt;/a&gt; Framework build for &lt;a href=&quot;https://cordova.apache.org/&quot;&gt;Cordova&lt;/a&gt; platform.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://phonegap.com/&quot;&gt;&lt;strong&gt;PhoneGap&lt;/strong&gt;&lt;/a&gt; open&apos;s the door for &lt;strong&gt;JavaScript&lt;/strong&gt; and HTML/CSS to enter the &lt;strong&gt;mobile&lt;/strong&gt; world, then Apache Cordova (which is a fork from PhoneGap) Then it&apos;s comes the famous &lt;a href=&quot;https://ionicframework.com/&quot;&gt;Ionic&lt;/a&gt; which is &lt;a href=&quot;https://angular.io/&quot;&gt;&lt;strong&gt;Angular&lt;/strong&gt;&lt;/a&gt; Framework build for &lt;a href=&quot;https://cordova.apache.org/&quot;&gt;Cordova&lt;/a&gt; platform.&lt;/p&gt;
 &lt;p&gt;But the performance was &lt;strong&gt;not quite good&lt;/strong&gt;, and sometimes not acceptable at all.&lt;/p&gt;
-&lt;p&gt;So as Always I start for &lt;strong&gt;Alternatives&lt;/strong&gt;, there’s &lt;strong&gt;Xamarain&lt;/strong&gt; with C# (I’m Sorry I’m not a C# developer). I moved on and I found &lt;a href=&quot;https://facebook.github.io/react-native/&quot;&gt;&lt;strong&gt;ReactNative&lt;/strong&gt;&lt;/a&gt; And &lt;a href=&quot;https://www.nativescript.org/&quot;&gt;NativeScript&lt;/a&gt;, I choose the second because I’m an &lt;strong&gt;Angular&lt;/strong&gt; developer.&lt;/p&gt;
+&lt;p&gt;So as Always I start for &lt;strong&gt;Alternatives&lt;/strong&gt;, there&apos;s &lt;strong&gt;Xamarain&lt;/strong&gt; with C# (I&apos;m Sorry I&apos;m not a C# developer). I moved on and I found &lt;a href=&quot;https://facebook.github.io/react-native/&quot;&gt;&lt;strong&gt;ReactNative&lt;/strong&gt;&lt;/a&gt; And &lt;a href=&quot;https://www.nativescript.org/&quot;&gt;NativeScript&lt;/a&gt;, I choose the second because I&apos;m an &lt;strong&gt;Angular&lt;/strong&gt; developer.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Initially&lt;/strong&gt;, NativeScript lets developer create Native &lt;strong&gt;mobile views&lt;/strong&gt; and using Javascript as &lt;strong&gt;Code behind&lt;/strong&gt;, then They introduced building apps with Angular, which helps the Angular developer to give a try the mobile development.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Personally&lt;/strong&gt;, I didn’t try NativeScript with Angular.js, the first app I’ve Made is with &lt;strong&gt;Angular2+&lt;/strong&gt;.&lt;/p&gt;
-&lt;p&gt;As I mention the &lt;strong&gt;layout rendering&lt;/strong&gt; is Good and fluid, but I’ve got some complication when using Nativescript:&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Personally&lt;/strong&gt;, I didn&apos;t try NativeScript with Angular.js, the first app I&apos;ve Made is with &lt;strong&gt;Angular2+&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;As I mention the &lt;strong&gt;layout rendering&lt;/strong&gt; is Good and fluid, but I&apos;ve got some complication when using Nativescript:&lt;/p&gt;
 &lt;p&gt; &lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Garbage Collector (Android Only)&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;We all know that &lt;strong&gt;Angular output&lt;/strong&gt; is quite big than a plain Javascript app. when exploring the app that I’ve made, I experience a random UI freeze, and it’s remarkable and it affected the user experience.&lt;/p&gt;
+&lt;p&gt;We all know that &lt;strong&gt;Angular output&lt;/strong&gt; is quite big than a plain Javascript app. when exploring the app that I&apos;ve made, I experience a random UI freeze, and it&apos;s remarkable and it affected the user experience.&lt;/p&gt;
 &lt;p&gt;After an Investigation, I found that the JavaScript GC(Garbage Collector) triggered when no more RAM is available and that causes the freeze ( from 0.5s to 2ssecondsd on Angular). After many issues opened on Github &lt;a href=&quot;https://github.com/PanayotCankov&quot;&gt;Panayot Cankov&lt;/a&gt; wrote a blog (&lt;a href=&quot;https://www.nativescript.org/blog/deep-dive-into-nativescript-3.1-performance-improvements&quot;&gt;Deep Dive into NativeScript 3.1 Performance Improvements&lt;/a&gt; ) about performance and &lt;strong&gt;explained&lt;/strong&gt; why and when this issue happens.&lt;/p&gt;
-&lt;p&gt;Then in the &lt;strong&gt;announcement&lt;/strong&gt; of NativeScript 3.2 (&lt;a href=&quot;https://www.nativescript.org/blog/announcing-the-release-of-nativescript-3.2&quot;&gt;Announcing the Release of NativeScript 3.2&lt;/a&gt;) they introduce an experimental flag &lt;code class=&quot;language-text&quot;&gt;&quot;markingMode&quot;: &quot;none&quot;&lt;/code&gt; for Android, I Tired and the freezes are gone.&lt;/p&gt;
+&lt;p&gt;Then in the &lt;strong&gt;announcement&lt;/strong&gt; of NativeScript 3.2 (&lt;a href=&quot;https://www.nativescript.org/blog/announcing-the-release-of-nativescript-3.2&quot;&gt;Announcing the Release of NativeScript 3.2&lt;/a&gt;) they introduce an experimental flag &lt;code&gt;&quot;markingMode&quot;: &quot;none&quot;&lt;/code&gt; for Android, I Tired and the freezes are gone.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Launch Time&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Using Angular with NativeScript will affect the launch time &lt;strong&gt;especially on Android&lt;/strong&gt;, and it will take longer than &lt;strong&gt;&lt;a href=&quot;http://vanilla-js.com/&quot;&gt;Vanilla Javascript&lt;/a&gt;&lt;/strong&gt; .&lt;/p&gt;
 &lt;p&gt;Using &lt;a href=&quot;https://webpack.js.org/&quot;&gt;&lt;strong&gt;Webpack&lt;/strong&gt;&lt;/a&gt; to &lt;strong&gt;minify and uglify&lt;/strong&gt; speed up the App, but when I tried the &lt;strong&gt;Snapshot&lt;/strong&gt; flag(Just for Android) I felt the difference.&lt;/p&gt;
-&lt;p&gt;So what’s &lt;a href=&quot;https://v8project.blogspot.bg/2015/09/custom-startup-snapshots.html&quot;&gt;&lt;strong&gt;Snapshot&lt;/strong&gt;&lt;/a&gt;?&lt;/p&gt;
-&lt;p&gt;It’s a &lt;strong&gt;previously prepared&lt;/strong&gt; JavaScript &lt;strong&gt;context&lt;/strong&gt;. Instead of fetching, parsing, and executing scripts on every startup, the NativeScript &lt;em&gt;&lt;strong&gt;Android runtime&lt;/strong&gt;&lt;/em&gt; looks for a previously prepared binary file that is the result of those tasks, to reduce the amount of time it takes for your app &lt;strong&gt;to get up and running&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;So what&apos;s &lt;a href=&quot;https://v8project.blogspot.bg/2015/09/custom-startup-snapshots.html&quot;&gt;&lt;strong&gt;Snapshot&lt;/strong&gt;&lt;/a&gt;?&lt;/p&gt;
+&lt;p&gt;It&apos;s a &lt;strong&gt;previously prepared&lt;/strong&gt; JavaScript &lt;strong&gt;context&lt;/strong&gt;. Instead of fetching, parsing, and executing scripts on every startup, the NativeScript &lt;em&gt;&lt;strong&gt;Android runtime&lt;/strong&gt;&lt;/em&gt; looks for a previously prepared binary file that is the result of those tasks, to reduce the amount of time it takes for your app &lt;strong&gt;to get up and running&lt;/strong&gt;.&lt;/p&gt;
 &lt;p&gt; &lt;/p&gt;
 &lt;p&gt;&lt;em&gt;&lt;strong&gt;Angular 2+&lt;/strong&gt;&lt;/em&gt; is very structured and it &lt;em&gt;has &lt;strong&gt;clean Architecture patterns&lt;/strong&gt;&lt;/em&gt; and it helps you build a &lt;em&gt;&lt;strong&gt;scalable application&lt;/strong&gt;&lt;/em&gt; without &lt;strong&gt;struggling.&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt; &lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Conclusion&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;I found that &lt;strong&gt;NativeScript and Angular is a successful marriage&lt;/strong&gt; and I hope it continues.&lt;/p&gt;
-&lt;p&gt;Other &lt;strong&gt;opinions&lt;/strong&gt;? leave a comment.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Node.js v10 What you need to know]]></title><description><![CDATA[Node.js 10 IS here, and here’s what you need to know: HTTP/2 Node.js has stabilized the Http2 protocol and there are already frameworks that…]]></description><link>https://aymen.co/node-js-v10-what-you-need-to-know/</link><guid isPermaLink="false">https://aymen.co/node-js-v10-what-you-need-to-know/</guid><pubDate>Wed, 23 May 2018 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;strong&gt;Node.js&lt;/strong&gt; 10 IS here, and here’s what you need to know:&lt;/p&gt;
+&lt;p&gt;Other &lt;strong&gt;opinions&lt;/strong&gt;? leave a comment.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Node.js v10 What you need to know]]></title><description><![CDATA[Node.js 10 IS here, and here's what you need to know: HTTP/2 Node.js has stabilized the Http2 protocol and there are already frameworks that…]]></description><link>https://aymen.co/node-js-v10-what-you-need-to-know/</link><guid isPermaLink="false">https://aymen.co/node-js-v10-what-you-need-to-know/</guid><pubDate>Wed, 23 May 2018 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;strong&gt;Node.js&lt;/strong&gt; 10 IS here, and here&apos;s what you need to know:&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;HTTP/2&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Node.js has stabilized the Http2 &lt;strong&gt;protocol&lt;/strong&gt; and there are already &lt;strong&gt;frameworks&lt;/strong&gt; that support it, right now, like &lt;a href=&quot;https://koajs.com/&quot;&gt;&lt;strong&gt;Koa&lt;/strong&gt;&lt;/a&gt; (Made by TJ Holowaychuk who’s also made Express.js), &lt;a href=&quot;https://hapijs.com/&quot;&gt;&lt;strong&gt;Hapi.js&lt;/strong&gt;&lt;/a&gt; and also &lt;a href=&quot;http://expressjs.com/fr/&quot;&gt;&lt;strong&gt;Express.js&lt;/strong&gt;&lt;/a&gt; using &lt;a href=&quot;https://www.npmjs.com/package/express-http2-workaround&quot;&gt;&lt;strong&gt;express-http2-workaround&lt;/strong&gt;&lt;/a&gt; middleware.&lt;/p&gt;
+&lt;p&gt;Node.js has stabilized the Http2 &lt;strong&gt;protocol&lt;/strong&gt; and there are already &lt;strong&gt;frameworks&lt;/strong&gt; that support it, right now, like &lt;a href=&quot;https://koajs.com/&quot;&gt;&lt;strong&gt;Koa&lt;/strong&gt;&lt;/a&gt; (Made by TJ Holowaychuk who&apos;s also made Express.js), &lt;a href=&quot;https://hapijs.com/&quot;&gt;&lt;strong&gt;Hapi.js&lt;/strong&gt;&lt;/a&gt; and also &lt;a href=&quot;http://expressjs.com/fr/&quot;&gt;&lt;strong&gt;Express.js&lt;/strong&gt;&lt;/a&gt; using &lt;a href=&quot;https://www.npmjs.com/package/express-http2-workaround&quot;&gt;&lt;strong&gt;express-http2-workaround&lt;/strong&gt;&lt;/a&gt; middleware.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Enhanced support for ESM modules&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;As we know Node.js has it’s own module system (&lt;strong&gt;&lt;a href=&quot;http://requirejs.org/docs/commonjs.html&quot;&gt;CommonJS&lt;/a&gt;&lt;/strong&gt;), but it’s not quite common as it only supports Node &lt;strong&gt;environment&lt;/strong&gt; so you can’t run CommonJS file in the &lt;strong&gt;browser&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;As we know Node.js has it&apos;s own module system (&lt;strong&gt;&lt;a href=&quot;http://requirejs.org/docs/commonjs.html&quot;&gt;CommonJS&lt;/a&gt;&lt;/strong&gt;), but it&apos;s not quite common as it only supports Node &lt;strong&gt;environment&lt;/strong&gt; so you can&apos;t run CommonJS file in the &lt;strong&gt;browser&lt;/strong&gt;.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/ECMAScript&quot;&gt;&lt;strong&gt;ECMAScript&lt;/strong&gt;&lt;/a&gt; 6 brought us a &lt;strong&gt;module system&lt;/strong&gt; to JavaScript and Node.js 10 support it.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;N-API&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Node.js has introduced N-API in the Node v8 release AND now it’s &lt;strong&gt;Stable&lt;/strong&gt;. And if you don’t already know what N-API is :&lt;/p&gt;
+&lt;p&gt;Node.js has introduced N-API in the Node v8 release AND now it&apos;s &lt;strong&gt;Stable&lt;/strong&gt;. And if you don&apos;t already know what N-API is :&lt;/p&gt;
 &lt;p&gt;It is intended to insulate Add-ons from changes in the underlying JavaScript engine and allow modules compiled for one version to run on later versions of Node.js without recompilation.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;NPM ? Node.js&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;How come Node get updated and &lt;strong&gt;NPM&lt;/strong&gt; not?  NPMJS has realized also a new version and &lt;em&gt;&lt;strong&gt;I personally like it&lt;/strong&gt;&lt;/em&gt;, and it comes with:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Security&lt;/strong&gt;, security, and security.&lt;/li&gt;
-&lt;li&gt;A new &lt;strong&gt;command&lt;/strong&gt; to find security &lt;strong&gt;vulnerabilities&lt;/strong&gt; &lt;code class=&quot;language-text&quot;&gt;npm audit&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;A new &lt;strong&gt;command&lt;/strong&gt; to find security &lt;strong&gt;vulnerabilities&lt;/strong&gt; &lt;code&gt;npm audit&lt;/code&gt;&lt;/li&gt;
 &lt;li&gt;Optimizations for &lt;strong&gt;continuous integration&lt;/strong&gt; (CI)&lt;/li&gt;
-&lt;li&gt;…&lt;/li&gt;
+&lt;li&gt;...&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;&lt;strong&gt;New methods (will cover some)&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&quot;https://nodejs.org/api/console.html#console_console_table_tabulardata_properties&quot;&gt;&lt;strong&gt;Console.table&lt;/strong&gt;&lt;/a&gt; and it displays tabular data as a table and I LOVE it&lt;/li&gt;
-&lt;li&gt;The Argument&lt;code class=&quot;language-text&quot;&gt;(e)&lt;/code&gt; in &lt;code class=&quot;language-text&quot;&gt;try {} catch(e)&lt;/code&gt; {} is now optional&lt;/li&gt;
-&lt;li&gt;…&lt;/li&gt;
+&lt;li&gt;The Argument&lt;code&gt;(e)&lt;/code&gt; in &lt;code&gt;try {} catch(e)&lt;/code&gt; {} is now optional&lt;/li&gt;
+&lt;li&gt;...&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt; &lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Finally the Deprecations&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;Using &lt;code class=&quot;language-text&quot;&gt;require()&lt;/code&gt; to access several of Node.js’ own internal dependencies will emit a runtime deprecation.&lt;/li&gt;
-&lt;li&gt;Use of non-string values for &lt;code class=&quot;language-text&quot;&gt;process.env&lt;/code&gt; has been deprecated in the documentation.&lt;/li&gt;
-&lt;li&gt;The &lt;code class=&quot;language-text&quot;&gt;enroll()&lt;/code&gt; and &lt;code class=&quot;language-text&quot;&gt;unenroll()&lt;/code&gt; methods have been deprecated.&lt;/li&gt;
+&lt;li&gt;Using &lt;code&gt;require()&lt;/code&gt; to access several of Node.js&apos; own internal dependencies will emit a runtime deprecation.&lt;/li&gt;
+&lt;li&gt;Use of non-string values for &lt;code&gt;process.env&lt;/code&gt; has been deprecated in the documentation.&lt;/li&gt;
+&lt;li&gt;The &lt;code&gt;enroll()&lt;/code&gt; and &lt;code&gt;unenroll()&lt;/code&gt; methods have been deprecated.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt; &lt;/p&gt;
 &lt;p&gt;For further &lt;strong&gt;details&lt;/strong&gt;, you can check Node.js &lt;strong&gt;announcement&lt;/strong&gt; &lt;a href=&quot;https://nodejs.org/en/blog/release/v10.0.0/&quot;&gt;Node v10.0.0&lt;/a&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[[DevOps] Build and Test  Nativescript Project with Gitlab-CI]]></title><description><![CDATA[To get more things Done we need more time, and to get more time there are things you must do, one of them is the automation. Did you hear…]]></description><link>https://aymen.co/devops-build-and-test-nativescript-project-with-gitlab-ci/</link><guid isPermaLink="false">https://aymen.co/devops-build-and-test-nativescript-project-with-gitlab-ci/</guid><pubDate>Sat, 19 May 2018 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;To get more things &lt;em&gt;&lt;strong&gt;Done&lt;/strong&gt;&lt;/em&gt; we need more &lt;em&gt;&lt;strong&gt;time&lt;/strong&gt;&lt;/em&gt;, and to get more time there are things you &lt;strong&gt;must&lt;/strong&gt; do, one of them is the &lt;strong&gt;automation&lt;/strong&gt;.&lt;/p&gt;
-&lt;p&gt;Did you hear about &lt;em&gt;&lt;strong&gt;DevOps&lt;/strong&gt;&lt;/em&gt;? Yeah, me too, here’s what &lt;strong&gt;Amazon&lt;/strong&gt; says about :&lt;/p&gt;
+&lt;p&gt;Did you hear about &lt;em&gt;&lt;strong&gt;DevOps&lt;/strong&gt;&lt;/em&gt;? Yeah, me too, here&apos;s what &lt;strong&gt;Amazon&lt;/strong&gt; says about :&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;&lt;em&gt;DevOps is the combination of cultural philosophies, practices, and tools that increase an organization’s ability to deliver applications and services at high velocity&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;When I start coding in a new project the first thing I do is to prepare the git &lt;strong&gt;repository&lt;/strong&gt;, there are many services allow you to host your repositories int they servers, the Famous one is &lt;strong&gt;&lt;a href=&quot;https://github.com/&quot;&gt;Github&lt;/a&gt;&lt;/strong&gt; but you need a membership to host &lt;strong&gt;private&lt;/strong&gt; repositories, like all developers I start looking for an Alternatives until I found &lt;a href=&quot;https://about.gitlab.com/&quot;&gt;Gitlab&lt;/a&gt; , There’s an open source version (Community) and  I installed on my oven server but It took all of the &lt;strong&gt;memory&lt;/strong&gt; that I have, so I stick with the hosting they provide.&lt;/p&gt;
-&lt;p&gt;Everything seems Ok until start working with &lt;strong&gt;NativeScript&lt;/strong&gt; and &lt;strong&gt;Angular&lt;/strong&gt; to build &lt;strong&gt;mobile&lt;/strong&gt; Apps, in the &lt;strong&gt;DEV&lt;/strong&gt; world there’s always more than environment, at least we have a development environment and production environment when you are in dev environment, you can’t know how your code or the plugin that you’ve just installed &lt;strong&gt;gonna behave&lt;/strong&gt; or will it work in prod environment.&lt;/p&gt;
+&lt;p&gt;When I start coding in a new project the first thing I do is to prepare the git &lt;strong&gt;repository&lt;/strong&gt;, there are many services allow you to host your repositories int they servers, the Famous one is &lt;strong&gt;&lt;a href=&quot;https://github.com/&quot;&gt;Github&lt;/a&gt;&lt;/strong&gt; but you need a membership to host &lt;strong&gt;private&lt;/strong&gt; repositories, like all developers I start looking for an Alternatives until I found &lt;a href=&quot;https://about.gitlab.com/&quot;&gt;Gitlab&lt;/a&gt; , There&apos;s an open source version (Community) and  I installed on my oven server but It took all of the &lt;strong&gt;memory&lt;/strong&gt; that I have, so I stick with the hosting they provide.&lt;/p&gt;
+&lt;p&gt;Everything seems Ok until start working with &lt;strong&gt;NativeScript&lt;/strong&gt; and &lt;strong&gt;Angular&lt;/strong&gt; to build &lt;strong&gt;mobile&lt;/strong&gt; Apps, in the &lt;strong&gt;DEV&lt;/strong&gt; world there&apos;s always more than environment, at least we have a development environment and production environment when you are in dev environment, you can&apos;t know how your code or the plugin that you&apos;ve just installed &lt;strong&gt;gonna behave&lt;/strong&gt; or will it work in prod environment.&lt;/p&gt;
 &lt;p&gt;Here there are two main &lt;strong&gt;roads&lt;/strong&gt;, build the application each time I add a NativeScript plugin or code for days then build the App and I found out if everything seems Ok, If not,  you maybe need to change some plugins and rewrite a &lt;strong&gt;bunch of lines&lt;/strong&gt; of code.&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;&lt;strong&gt;The solution?&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;While browsing the web I found some services contain a CI into they names, like &lt;a href=&quot;https://circleci.com/&quot;&gt;CircleCI&lt;/a&gt; , &lt;a href=&quot;https://travis-ci.org/&quot;&gt;Travis CI&lt;/a&gt; , and others, I got curious until I got deep into the subject, And found out that these are tools for &lt;em&gt;&lt;strong&gt;Continuous Integration&lt;/strong&gt;&lt;/em&gt; and delivery.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;&lt;em&gt;How does it work?&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;To Deliver a good product you need to do your &lt;strong&gt;test&lt;/strong&gt; the app, by writing the unit tests or/and real humans &lt;strong&gt;interaction&lt;/strong&gt;, you need to run your unit tests each time you add code to find out if you or somebody else broke the app.&lt;/p&gt;
-&lt;p&gt;Ok, but running tests and building each time in &lt;strong&gt;your machine&lt;/strong&gt; will reduce the &lt;strong&gt;performance&lt;/strong&gt; of your development environment, and for sure will make your nervous, How about building in somebody else machine? that’s when I start looking for alternatives solutions, in the meanwhile &lt;strong&gt;Gitlab&lt;/strong&gt; introduce the Continuous Integration &lt;strong&gt;feature&lt;/strong&gt;, and it’s for &lt;strong&gt;FREE&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;Ok, but running tests and building each time in &lt;strong&gt;your machine&lt;/strong&gt; will reduce the &lt;strong&gt;performance&lt;/strong&gt; of your development environment, and for sure will make your nervous, How about building in somebody else machine? that&apos;s when I start looking for alternatives solutions, in the meanwhile &lt;strong&gt;Gitlab&lt;/strong&gt; introduce the Continuous Integration &lt;strong&gt;feature&lt;/strong&gt;, and it&apos;s for &lt;strong&gt;FREE&lt;/strong&gt;.&lt;/p&gt;
 &lt;p&gt;Now when I (or anyone else in the same repository ) push a commit, Gitlab will run the test, build and generate an APK file (for Android) for me and show me If there are issues white building.&lt;/p&gt;
-&lt;p&gt;I will share with you how I’ve Done it.&lt;/p&gt;
+&lt;p&gt;I will share with you how I&apos;ve Done it.&lt;/p&gt;
 &lt;p&gt;You can achieve this &lt;strong&gt;workflow&lt;/strong&gt; by adding .gitlab-ci.yml&lt;/p&gt;
 &lt;script src=&quot;https://gist.github.com/labidiaymen/27f0e2dd6f2de278ca68c550d89c78fb.js&quot;&gt;&lt;/script&gt;
-&lt;p&gt;Let’s break this file down.&lt;/p&gt;
+&lt;p&gt;Let&apos;s break this file down.&lt;/p&gt;
 &lt;p&gt;First, we created a &lt;strong&gt;Job&lt;/strong&gt;, then we pull a &lt;a href=&quot;https://www.docker.com/&quot;&gt;Docker&lt;/a&gt; image that contains a fresh Installed version of &lt;strong&gt;Android&lt;/strong&gt;.&lt;/p&gt;
 &lt;p&gt;Then we installed the &lt;strong&gt;Node.js&lt;/strong&gt;, after that, we installed NativeScript, updating the Android SDK and installing Node modules with &lt;strong&gt;NPM&lt;/strong&gt;.&lt;/p&gt;
 &lt;p&gt;When everything is done, we build the App with NativeScript CLI (command line tools).&lt;/p&gt;
-&lt;p&gt;In the build process of NativeScript we pass by the unit tests, if there’s an error it will be thrown with an Exception.&lt;/p&gt;
-&lt;p&gt;If there’s no error and everything is fine we will get our APK available to download, This all happens while you’re writing your code in peace, you didn’t stress your machine but you got visibilities about what’s gonna happen when you build for production.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Isn’t a big deal? how do you think?&lt;/strong&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[[Redux, NGRX, VUEX] The one State ideology]]></title><description><![CDATA[Ahh, Managing states, how it was awful before the one State ideology. Back in the days, we used to create a state for every block or area…]]></description><link>https://aymen.co/redux-ngrx-vuex-the-one-state-ideology/</link><guid isPermaLink="false">https://aymen.co/redux-ngrx-vuex-the-one-state-ideology/</guid><pubDate>Thu, 17 May 2018 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Ahh, &lt;strong&gt;Managing states&lt;/strong&gt;, how it was &lt;strong&gt;awful&lt;/strong&gt; before the one State ideology.&lt;/p&gt;
-&lt;p&gt;Back in the days, we used to create a state for every &lt;strong&gt;block&lt;/strong&gt; or area that get updated from the same place and does not know &lt;strong&gt;anything&lt;/strong&gt; about the others blocks, or manually update the view and here we need also to update the state of the same block, what a mess. It’s hard when you start &lt;strong&gt;growing&lt;/strong&gt; your app using these techniques.&lt;/p&gt;
+&lt;p&gt;In the build process of NativeScript we pass by the unit tests, if there&apos;s an error it will be thrown with an Exception.&lt;/p&gt;
+&lt;p&gt;If there&apos;s no error and everything is fine we will get our APK available to download, This all happens while you&apos;re writing your code in peace, you didn&apos;t stress your machine but you got visibilities about what&apos;s gonna happen when you build for production.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Isn&apos;t a big deal? how do you think?&lt;/strong&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[[Redux, NGRX, VUEX] The one State ideology]]></title><description><![CDATA[Ahh, Managing states, how it was awful before the one State ideology. Back in the days, we used to create a state for every block or area…]]></description><link>https://aymen.co/redux-ngrx-vuex-the-one-state-ideology/</link><guid isPermaLink="false">https://aymen.co/redux-ngrx-vuex-the-one-state-ideology/</guid><pubDate>Thu, 17 May 2018 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Ahh, &lt;strong&gt;Managing states&lt;/strong&gt;, how it was &lt;strong&gt;awful&lt;/strong&gt; before the one State ideology.&lt;/p&gt;
+&lt;p&gt;Back in the days, we used to create a state for every &lt;strong&gt;block&lt;/strong&gt; or area that get updated from the same place and does not know &lt;strong&gt;anything&lt;/strong&gt; about the others blocks, or manually update the view and here we need also to update the state of the same block, what a mess. It&apos;s hard when you start &lt;strong&gt;growing&lt;/strong&gt; your app using these techniques.&lt;/p&gt;
 &lt;p&gt;Then I discovered (forced myself to use) Redux or the one state manager, at the beginning I found myself writing more code than I usually do, creating the &lt;strong&gt;actions&lt;/strong&gt;, the &lt;strong&gt;reducers&lt;/strong&gt;, and the &lt;strong&gt;effects&lt;/strong&gt; and so on.&lt;/p&gt;
-&lt;p&gt;And to create an action I need to pass by &lt;strong&gt;many files&lt;/strong&gt; to do a single &lt;strong&gt;interaction&lt;/strong&gt;, it was like another hell, but when the app starts growing I didn’t feel &lt;em&gt;&lt;strong&gt;exhausted&lt;/strong&gt;&lt;/em&gt; like before, when I wanna get some &lt;strong&gt;data&lt;/strong&gt; I know &lt;strong&gt;exactly how and where to find it&lt;/strong&gt;,  and also I can easily plug any other blocks into the apps I just need to connect it to the State manager and I get the access to all what I need, Isn’t That cool?&lt;/p&gt;
-&lt;p&gt;But wait I’m an &lt;strong&gt;Angular&lt;/strong&gt; Developer and Redux made for the &lt;strong&gt;React&lt;/strong&gt; Community, well there’s an implementation of &lt;strong&gt;Redux&lt;/strong&gt; philosophy for Angular folks and it calls &lt;a href=&quot;https://github.com/ngrx&quot;&gt;NGRX&lt;/a&gt; and I used it in production and everything seems &lt;strong&gt;alright&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;And to create an action I need to pass by &lt;strong&gt;many files&lt;/strong&gt; to do a single &lt;strong&gt;interaction&lt;/strong&gt;, it was like another hell, but when the app starts growing I didn&apos;t feel &lt;em&gt;&lt;strong&gt;exhausted&lt;/strong&gt;&lt;/em&gt; like before, when I wanna get some &lt;strong&gt;data&lt;/strong&gt; I know &lt;strong&gt;exactly how and where to find it&lt;/strong&gt;,  and also I can easily plug any other blocks into the apps I just need to connect it to the State manager and I get the access to all what I need, Isn&apos;t That cool?&lt;/p&gt;
+&lt;p&gt;But wait I&apos;m an &lt;strong&gt;Angular&lt;/strong&gt; Developer and Redux made for the &lt;strong&gt;React&lt;/strong&gt; Community, well there&apos;s an implementation of &lt;strong&gt;Redux&lt;/strong&gt; philosophy for Angular folks and it calls &lt;a href=&quot;https://github.com/ngrx&quot;&gt;NGRX&lt;/a&gt; and I used it in production and everything seems &lt;strong&gt;alright&lt;/strong&gt;.&lt;/p&gt;
 &lt;p&gt;How about &lt;strong&gt;Vue.js&lt;/strong&gt; developers? &lt;a href=&quot;https://vuex.vuejs.org/en/&quot;&gt;Vuex&lt;/a&gt; is the implementation of Redux for the Vue.js framework, I tried it and it does what I need.&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;&lt;strong&gt;Using a state Manager really helped me a lot and boost my skills and it reduced the development time.&lt;/strong&gt;&lt;/p&gt;
@@ -168,7 +187,7 @@ std::cout &amp;#x3C;&amp;#x3C; “Is valid ASCII ” &amp;#x3C;&amp;#x3C; isASCI
 &lt;p&gt;90% of the &lt;strong&gt;UI frameworks&lt;/strong&gt; looks cool at the beginning, but when the app start growing and we need some extra UI elements we will start looking for a new one to complete the missing elements, OK we found a one, how about using them both? huh, and the size of the App start growing, besides the conflict and the tricks that we do to keep all the UI frameworks works together, THEN our app starts growing with &lt;strong&gt;built-in issues&lt;/strong&gt; (what a cool features).&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;But How I deal with that?&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;The last project I start I chose Vue.js as front-end framework, as the majorities of developer I usually kickstart the project with a UI framework, to get more done with less pain, the top elements I usually  use are, the Form and they built-in validation, buttons, modals and they confirmations,  grid and data table.&lt;/p&gt;
-&lt;p&gt;After exploring some UI frameworks I chose &lt;a href=&quot;https://element.eleme.io/#/en-US/component/installation&quot;&gt;Element-UI&lt;/a&gt; , and there’s will be always missing &lt;strong&gt;components&lt;/strong&gt; or elements, and when I found something missing what I really did?&lt;/p&gt;
+&lt;p&gt;After exploring some UI frameworks I chose &lt;a href=&quot;https://element.eleme.io/#/en-US/component/installation&quot;&gt;Element-UI&lt;/a&gt; , and there&apos;s will be always missing &lt;strong&gt;components&lt;/strong&gt; or elements, and when I found something missing what I really did?&lt;/p&gt;
 &lt;p&gt;I made the missing feature or components, but how?&lt;/p&gt;
 &lt;p&gt;Before start using any framework, I open the source code and look how they built it, and I read the documentation many times to understand &lt;strong&gt;the philosophy behind it&lt;/strong&gt; and find out if I can &lt;strong&gt;easily&lt;/strong&gt; add features to its core, if not I continue the looking for the other frameworks.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;&lt;em&gt;Choosing a UI framework means knowing how to add stuff to it and how to manipulate it.&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
@@ -177,13 +196,13 @@ std::cout &amp;#x3C;&amp;#x3C; “Is valid ASCII ” &amp;#x3C;&amp;#x3C; isASCI
 &lt;li&gt;First, we will use they &lt;strong&gt;built-in architecture&lt;/strong&gt; and &lt;strong&gt;helpers&lt;/strong&gt;&lt;/li&gt;
 &lt;li&gt;Second, &lt;strong&gt;THINK&lt;/strong&gt; about &lt;strong&gt;the community&lt;/strong&gt;, sharing your features or components with the community &lt;em&gt;&lt;strong&gt;will be one of the things that make you happy&lt;/strong&gt;&lt;/em&gt;, &lt;strong&gt;helping others is the best thing I ever did.&lt;/strong&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;That’s how &lt;strong&gt;I deal with UI frameworks,&lt;/strong&gt; how about &lt;strong&gt;you&lt;/strong&gt;?  &lt;a href=&quot;https://emojipedia.org/grinning-face-with-smiling-eyes/&quot;&gt;?&lt;/a&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[VueJS,  I can’t ignore you no more]]></title><description><![CDATA[Did sometimes you want to make an interactive web page without using jQuery or a fully framework like Angular (2->5) did that happened to…]]></description><link>https://aymen.co/vuejs-i-cant-ignore-you-no-more/</link><guid isPermaLink="false">https://aymen.co/vuejs-i-cant-ignore-you-no-more/</guid><pubDate>Fri, 11 May 2018 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Did sometimes you want to make an interactive web page without using jQuery or a fully framework like Angular (2-&gt;5) did that happened to you also?&lt;/p&gt;
-&lt;p&gt;Well I discovered Vue/VueJS along time ago but I didn’t want to learn any other JavaScript Framework at this time, but any time I want to make a single interactive page (not a complete project), I found my self in this loop again and ask my self what I will use and if I will use this what if it will disappear in one or two years, and so ON.&lt;/p&gt;
-&lt;p&gt;Let’s talk about why I start learning Vue/VueJS, after two years working with Angular(2-5) on a mobile(NativeScript, Ionic … ) and web apps (Dashboards),  I felt like I want to discover something else, I found VueJS in the trending JavaScript frameworks but before I decide to choose witch Framework I will use, I make the tour by making real word app but with VueJS, for now, I just need it for simple to complex salable web pages so it didn’t take me so much time to test and to found how much fun working with it.&lt;/p&gt;
-&lt;p&gt;In the meantime, we (&lt;a href=&quot;https://vaulab.com/&quot;&gt;Vaulab.com&lt;/a&gt;) start making a new service for hunting jobs (here in &lt;a href=&quot;https://en.wikipedia.org/wiki/Tunisia&quot;&gt;Tunisia&lt;/a&gt;), and we needed front-end UI elements to kickstart the project, we tested a lot but we choose &lt;a href=&quot;https://element.eleme.io/#/en-US/component/installation&quot;&gt;Element-&lt;/a&gt;ui, you can have other opinions about UI frameworks, that’s OK, put them in comments :D&lt;/p&gt;
+&lt;p&gt;That&apos;s how &lt;strong&gt;I deal with UI frameworks,&lt;/strong&gt; how about &lt;strong&gt;you&lt;/strong&gt;?  &lt;a href=&quot;https://emojipedia.org/grinning-face-with-smiling-eyes/&quot;&gt;?&lt;/a&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[VueJS,  I can’t ignore you no more]]></title><description><![CDATA[Did sometimes you want to make an interactive web page without using jQuery or a fully framework like Angular (2->5) did that happened to…]]></description><link>https://aymen.co/vuejs-i-cant-ignore-you-no-more/</link><guid isPermaLink="false">https://aymen.co/vuejs-i-cant-ignore-you-no-more/</guid><pubDate>Fri, 11 May 2018 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Did sometimes you want to make an interactive web page without using jQuery or a fully framework like Angular (2-&gt;5) did that happened to you also?&lt;/p&gt;
+&lt;p&gt;Well I discovered Vue/VueJS along time ago but I didn&apos;t want to learn any other JavaScript Framework at this time, but any time I want to make a single interactive page (not a complete project), I found my self in this loop again and ask my self what I will use and if I will use this what if it will disappear in one or two years, and so ON.&lt;/p&gt;
+&lt;p&gt;Let&apos;s talk about why I start learning Vue/VueJS, after two years working with Angular(2-5) on a mobile(NativeScript, Ionic ... ) and web apps (Dashboards),  I felt like I want to discover something else, I found VueJS in the trending JavaScript frameworks but before I decide to choose witch Framework I will use, I make the tour by making real word app but with VueJS, for now, I just need it for simple to complex salable web pages so it didn&apos;t take me so much time to test and to found how much fun working with it.&lt;/p&gt;
+&lt;p&gt;In the meantime, we (&lt;a href=&quot;https://vaulab.com/&quot;&gt;Vaulab.com&lt;/a&gt;) start making a new service for hunting jobs (here in &lt;a href=&quot;https://en.wikipedia.org/wiki/Tunisia&quot;&gt;Tunisia&lt;/a&gt;), and we needed front-end UI elements to kickstart the project, we tested a lot but we choose &lt;a href=&quot;https://element.eleme.io/#/en-US/component/installation&quot;&gt;Element-&lt;/a&gt;ui, you can have other opinions about UI frameworks, that&apos;s OK, put them in comments :D&lt;/p&gt;
 &lt;p&gt;I still investigation the Vue framework and I will post about the progress on the fly.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Labidi Aymen]]></title><description><![CDATA[A 31 year old, Solution Architect and Dev Manager, a self-educated Tunisian developer who has been initiated to the field of…]]></description><link>https://aymen.co/about/</link><guid isPermaLink="false">https://aymen.co/about/</guid><pubDate>Wed, 09 May 2018 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;A 31 year old, Solution Architect and Dev Manager, a self-educated Tunisian developer who has been initiated to the field of entrepreneurship since 8 years.&lt;/p&gt;
-&lt;p&gt;His ideal is to contribute to the development of the web in Tunisia thinking that it lacks a lot of innovation and needs to integrate new solutions that nowadays are seen essential.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[A NativeScript plugin that works - Making a NativeScript plugin]]></title><description><![CDATA[Before that this pass through my mind I lost a half day searching for plugin to JUST works without any additional tricks to continue my…]]></description><link>https://aymen.co/a-nativescript-plugin-that-works-make-a-nativescript-plugin/</link><guid isPermaLink="false">https://aymen.co/a-nativescript-plugin-that-works-make-a-nativescript-plugin/</guid><pubDate>Wed, 17 Jan 2018 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Before that this pass through my mind I lost a half day searching for plugin to JUST works without any additional tricks to continue my journey, but I didn’t, so that’s why I created this plugin and I call it “A NativeScript plugin that works”, just kidding I call it “nativescript-google-places-autocomplete”.&lt;/p&gt;
-&lt;p&gt;In the current app that I’m working on with a Client, we just want to display autocomplete a search input, with list of place predictions so I tried some plugins and some vanilla Javascript code (not good for code maintainability) but no, I choose to create my own plugin and share it with the community.&lt;/p&gt;
+&lt;p&gt;His ideal is to contribute to the development of the web in Tunisia thinking that it lacks a lot of innovation and needs to integrate new solutions that nowadays are seen essential.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[A NativeScript plugin that works - Making a NativeScript plugin]]></title><description><![CDATA[Before that this pass through my mind I lost a half day searching for plugin to JUST works without any additional tricks to continue my…]]></description><link>https://aymen.co/a-nativescript-plugin-that-works-make-a-nativescript-plugin/</link><guid isPermaLink="false">https://aymen.co/a-nativescript-plugin-that-works-make-a-nativescript-plugin/</guid><pubDate>Wed, 17 Jan 2018 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Before that this pass through my mind I lost a half day searching for plugin to JUST works without any additional tricks to continue my journey, but I didn&apos;t, so that&apos;s why I created this plugin and I call it &quot;A NativeScript plugin that works&quot;, just kidding I call it &quot;nativescript-google-places-autocomplete&quot;.&lt;/p&gt;
+&lt;p&gt;In the current app that I&apos;m working on with a Client, we just want to display autocomplete a search input, with list of place predictions so I tried some plugins and some vanilla Javascript code (not good for code maintainability) but no, I choose to create my own plugin and share it with the community.&lt;/p&gt;
 &lt;p&gt;To start off I need a kickstart project or file structures, I never start a project with plain files, it took times to implement the essential need, so I found a seed project (That I contributed to it&lt;a href=&quot;https://www.google.tn/url?sa=t&amp;#x26;rct=j&amp;#x26;q=&amp;#x26;esrc=s&amp;#x26;source=web&amp;#x26;cd=8&amp;#x26;ved=0ahUKEwjJjriVmd_YAhWEOxQKHV7WAC4QFgg8MAc&amp;#x26;url=https%3A%2F%2Femojipedia.org%2Fsmiling-face-with-open-mouth-and-smiling-eyes%2F&amp;#x26;usg=AOvVaw3FsYUcJ_jXLdva7w3mRdau&quot;&gt;????&lt;/a&gt;) on the Nativescript GitHub account: &lt;a href=&quot;https://github.com/NativeScript/nativescript-plugin-seed&quot;&gt;https://github.com/NativeScript/nativescript-plugin-seed&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Then I created my own API key and I start implementing my own things.&lt;/p&gt;
 &lt;p&gt;&lt;img src=&quot;https://aymen.co/wp-content/uploads/2018/01/Capture-d%E2%80%99e%CC%81cran-2018-01-17-a%CC%80-15.31.37.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
@@ -205,41 +224,41 @@ std::cout &amp;#x3C;&amp;#x3C; “Is valid ASCII ” &amp;#x3C;&amp;#x3C; isASCI
 &lt;p&gt;google-places-autocomplete.ios.d.ts&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;These files are auto-generated with Typescript and hold the types &amp;#x26; definition of the TS files.&lt;/p&gt;
-&lt;p&gt;So all work will be on the &lt;em&gt;google-places-autocomplete.common.ts&lt;/em&gt; file because we will use the Nativescript modules that support both of the platforms and here’s our file.&lt;/p&gt;
-&lt;p&gt;First, let’s &lt;em&gt;import&lt;/em&gt; the module that we will use&lt;/p&gt;
+&lt;p&gt;So all work will be on the &lt;em&gt;google-places-autocomplete.common.ts&lt;/em&gt; file because we will use the Nativescript modules that support both of the platforms and here&apos;s our file.&lt;/p&gt;
+&lt;p&gt;First, let&apos;s &lt;em&gt;import&lt;/em&gt; the module that we will use&lt;/p&gt;
 &lt;p&gt;&lt;img src=&quot;https://aymen.co/wp-content/uploads/2018/01/Capture-d%E2%80%99e%CC%81cran-2018-01-17-a%CC%80-17.13.45.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
 &lt;p&gt;The plugin does two things, search places from a query, and display place detail from place id.&lt;/p&gt;
 &lt;p&gt;&lt;img src=&quot;https://aymen.co/wp-content/uploads/2018/01/Capture-d%E2%80%99e%CC%81cran-2018-01-17-a%CC%80-17.13.55.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img src=&quot;https://aymen.co/wp-content/uploads/2018/01/Capture-d%E2%80%99e%CC%81cran-2018-01-17-a%CC%80-17.14.04.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
 &lt;p&gt;In this two functions, we did two simple requests (using HTTP module from nativescript) to the google places API&lt;/p&gt;
-&lt;p&gt;Here’s the final product and to know more about the module or to check to demo go to this link: &lt;a href=&quot;https://github.com/labidiaymen/nativescript-google-places-autocomplete&quot;&gt;https://github.com/labidiaymen/nativescript-google-places-autocomplete&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Here&apos;s the final product and to know more about the module or to check to demo go to this link: &lt;a href=&quot;https://github.com/labidiaymen/nativescript-google-places-autocomplete&quot;&gt;https://github.com/labidiaymen/nativescript-google-places-autocomplete&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt; &lt;/p&gt;
 &lt;p&gt;&lt;img src=&quot;https://user-images.githubusercontent.com/3775924/35034560-e0519724-fb6e-11e7-857c-0caaa6499d6a.gif&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
 &lt;p&gt;This package is hosted on npmjs.com&lt;/p&gt;
 &lt;p&gt;&lt;img src=&quot;https://badge.fury.io/js/nativescript-google-places-autocomplete.svg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://www.npmjs.com/package/nativescript-google-places-autocomplete&quot;&gt;https://www.npmjs.com/package/nativescript-google-places-autocomplete&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;**Hope it helps, **&lt;strong&gt;thanks&lt;/strong&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Hybrid mobile framework - NativeScript, Ionic, ReactNative]]></title><description><![CDATA[Nowadays if you wanna make a low budget mobile App, definitely you will pass by one of the hybrid mobile application frameworks, let’s cite…]]></description><link>https://aymen.co/hybrid-mobile-framework-nativescript-ionic-reactnative/</link><guid isPermaLink="false">https://aymen.co/hybrid-mobile-framework-nativescript-ionic-reactnative/</guid><pubDate>Mon, 15 Jan 2018 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Nowadays if you wanna make a low budget mobile App, definitely you will pass by one of the hybrid mobile application frameworks, let’s cite some :&lt;/p&gt;
+&lt;p&gt;**Hope it helps, **&lt;strong&gt;thanks&lt;/strong&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Hybrid mobile framework - NativeScript, Ionic, ReactNative]]></title><description><![CDATA[Nowadays if you wanna make a low budget mobile App, definitely you will pass by one of the hybrid mobile application frameworks, let's cite…]]></description><link>https://aymen.co/hybrid-mobile-framework-nativescript-ionic-reactnative/</link><guid isPermaLink="false">https://aymen.co/hybrid-mobile-framework-nativescript-ionic-reactnative/</guid><pubDate>Mon, 15 Jan 2018 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Nowadays if you wanna make a low budget mobile App, definitely you will pass by one of the hybrid mobile application frameworks, let&apos;s cite some :&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Ionic&lt;/strong&gt;, any web developer wants to make a mobile app he will occur this framework, why?, because Ionic is built on top of &lt;a href=&quot;https://cordova.apache.org/&quot;&gt;Apache Cordova&lt;/a&gt; using &lt;a href=&quot;https://angular.io/&quot;&gt;Angular&lt;/a&gt; and WebView, the Ionic team made Ionic1 with Angularjs 1.* and the Ionic 2&amp;#x26;3 with Angular 2+, to know more: &lt;a href=&quot;https://ionicframework.com&quot;&gt;ionicframework.com  &lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Nativescript&lt;/strong&gt; (my favorite one, keep reading to know why): &lt;em&gt;is how you build cross-platform, native iOS and Android apps without web views.&lt;/em&gt; (&lt;a href=&quot;https://www.nativescript.org/about&quot;&gt;https://www.nativescript.org/about&lt;/a&gt;), with Nativescript you get access to native APIs via JavaScript, also you can use &lt;a href=&quot;https://www.npmjs.com/&quot;&gt;npmjs.com&lt;/a&gt; packages, CocoaPods(iOS) and Gradle (Android) &lt;em&gt;I will explain how (next article)&lt;/em&gt;.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Xamarin&lt;/strong&gt; I didn’t use it until now but here’s what they said about it: &lt;em&gt;Xamarin’s&lt;/em&gt; mobile application development platform with native user interfaces enables sharing of code across all platforms with a single C# codebase (&lt;a href=&quot;https://www.xamarin.com/platform&quot;&gt;www.xamarin.com/platform&lt;/a&gt;)&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;ReactNative&lt;/strong&gt; made by Facebook based on React.js philosophies same like Nativescript but it required some Objective-C or Swift for iOS and/or Java for Androids skills to write Bridge, (ReactNative Bridge) and that’s the main difference between Nativescript and ReactNative, the first does not require to write bridges the second does.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Xamarin&lt;/strong&gt; I didn&apos;t use it until now but here&apos;s what they said about it: &lt;em&gt;Xamarin&apos;s&lt;/em&gt; mobile application development platform with native user interfaces enables sharing of code across all platforms with a single C# codebase (&lt;a href=&quot;https://www.xamarin.com/platform&quot;&gt;www.xamarin.com/platform&lt;/a&gt;)&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;ReactNative&lt;/strong&gt; made by Facebook based on React.js philosophies same like Nativescript but it required some Objective-C or Swift for iOS and/or Java for Androids skills to write Bridge, (ReactNative Bridge) and that&apos;s the main difference between Nativescript and ReactNative, the first does not require to write bridges the second does.&lt;/p&gt;
 &lt;blockquote&gt;
-&lt;p&gt;&lt;em&gt;If you know other mobile frameworks put them in comments …&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;If you know other mobile frameworks put them in comments ...&lt;/em&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;There are two main sides, the first side has &lt;strong&gt;Nativescript &amp;#x26; Reactnative &amp;#x26; Xamarin&lt;/strong&gt; and the other side has only &lt;strong&gt;Ionic,&lt;/strong&gt; the first use Native UI like UILabel(iOS) TextView(Android) with single XML tag &lt;a href=&quot;https://docs.nativescript.org/cookbook/ui/text-view&quot;&gt;&lt;em&gt;text-view&lt;/em&gt;&lt;/a&gt; the other side use WebView (HTML input &amp;#x26; tags) which make the first side much better and smoother for complex UI even hot performance for simple UI.&lt;/p&gt;
 &lt;p&gt;And of course, I definitely choose native UI  over Web UI.&lt;/p&gt;
 &lt;p&gt; &lt;/p&gt;
-&lt;p&gt;Let’s talk about why I choose &lt;strong&gt;Nativescript&lt;/strong&gt; and talk about my &lt;strong&gt;experience&lt;/strong&gt;.&lt;/p&gt;
-&lt;p&gt;Android &amp;#x26; iOS, each mobile platform has its own ecosystem and offers completely different development tools and languages, in order to translate JavaScript code to the corresponding native APIs so they made a runtime for each platform, let’s call it &lt;strong&gt;the Bridge&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Let’s take an example, if we want to use &lt;a href=&quot;https://sentry.io/&quot;&gt;sentry.io&lt;/a&gt; (Open-source error tracking) to track bugs on mobile devices in real-time, we can use this plugin &lt;a href=&quot;https://www.npmjs.com/package/nativescript-sentry.io&quot;&gt;npmjs.com/package/nativescript-sentry.io&lt;/a&gt; which is hosted on &lt;a href=&quot;https://www.npmjs.com/&quot;&gt;npmjs&lt;/a&gt; and immediately we can start using it in Javascript or Typescript.&lt;/p&gt;
+&lt;p&gt;Let&apos;s talk about why I choose &lt;strong&gt;Nativescript&lt;/strong&gt; and talk about my &lt;strong&gt;experience&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;Android &amp;#x26; iOS, each mobile platform has its own ecosystem and offers completely different development tools and languages, in order to translate JavaScript code to the corresponding native APIs so they made a runtime for each platform, let&apos;s call it &lt;strong&gt;the Bridge&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Let&apos;s take an example, if we want to use &lt;a href=&quot;https://sentry.io/&quot;&gt;sentry.io&lt;/a&gt; (Open-source error tracking) to track bugs on mobile devices in real-time, we can use this plugin &lt;a href=&quot;https://www.npmjs.com/package/nativescript-sentry.io&quot;&gt;npmjs.com/package/nativescript-sentry.io&lt;/a&gt; which is hosted on &lt;a href=&quot;https://www.npmjs.com/&quot;&gt;npmjs&lt;/a&gt; and immediately we can start using it in Javascript or Typescript.&lt;/p&gt;
 &lt;p&gt;So how this plugin made?&lt;/p&gt;
-&lt;p&gt;This plugin adds some &lt;strong&gt;dependencies&lt;/strong&gt; with Gradle in Android And CocoaPods in iOS, and with &lt;strong&gt;The bridge,&lt;/strong&gt; we can immediately start using them in plain Javascript code without any tweaks,(&lt;em&gt;&lt;strong&gt;that’s the main part&lt;/strong&gt;&lt;/em&gt; why I love Nativescript over all other platforms/frameworks) then we have the implementations parts wich done with javascript, no other languages or skills required .&lt;/p&gt;
+&lt;p&gt;This plugin adds some &lt;strong&gt;dependencies&lt;/strong&gt; with Gradle in Android And CocoaPods in iOS, and with &lt;strong&gt;The bridge,&lt;/strong&gt; we can immediately start using them in plain Javascript code without any tweaks,(&lt;em&gt;&lt;strong&gt;that&apos;s the main part&lt;/strong&gt;&lt;/em&gt; why I love Nativescript over all other platforms/frameworks) then we have the implementations parts wich done with javascript, no other languages or skills required .&lt;/p&gt;
 &lt;h3&gt;&lt;strong&gt;My Experience&lt;/strong&gt;&lt;/h3&gt;
-&lt;p&gt;&lt;strong&gt;The Garbage collector&lt;/strong&gt;: I wrote two application with NativeScript one of them is in production right now, with iOS always works like charm but the Android version with google machine V8 I’ve got some lags, and that because the synchronisation between garbage collector of the JavaScript and the garbage collector of Java (GC), they announce a fix for that on the version 3.2 of Nativescript (&lt;a href=&quot;https://www.nativescript.org/blog/announcing-the-release-of-nativescript-3.2&quot;&gt;Announcing the Release of NativeScript 3.2 &amp;#x26; New Experimental GC Mode for Android&lt;/a&gt;), they add an experimental flag and it solves the lags for now.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Google maps:&lt;/strong&gt; Also when I used Google maps plugin I had some issues, one of them is (Of course it works like a charm on iOS, I got the issue on Android) when you create a page that contains a Google map card and you enter to a child route (i’m using Angular with Nativescript) and you press back button the app crash, so I switch to MapBox.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;The Garbage collector&lt;/strong&gt;: I wrote two application with NativeScript one of them is in production right now, with iOS always works like charm but the Android version with google machine V8 I&apos;ve got some lags, and that because the synchronisation between garbage collector of the JavaScript and the garbage collector of Java (GC), they announce a fix for that on the version 3.2 of Nativescript (&lt;a href=&quot;https://www.nativescript.org/blog/announcing-the-release-of-nativescript-3.2&quot;&gt;Announcing the Release of NativeScript 3.2 &amp;#x26; New Experimental GC Mode for Android&lt;/a&gt;), they add an experimental flag and it solves the lags for now.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Google maps:&lt;/strong&gt; Also when I used Google maps plugin I had some issues, one of them is (Of course it works like a charm on iOS, I got the issue on Android) when you create a page that contains a Google map card and you enter to a child route (i&apos;m using Angular with Nativescript) and you press back button the app crash, so I switch to MapBox.&lt;/p&gt;
 &lt;p&gt;I started making plugins for Nativescript, you can follow them at &lt;a href=&quot;https://github.com/labidiaymen&quot;&gt;Github.com/labidiaymen&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;If you wanna contribute to this articles or to one of my plugins you can make a comment or you can reach me: labidi{at}aymen.co&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Thanks&lt;/strong&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Why NativeScript ?]]></title><description><![CDATA[First of all i’m an Angular  developer, and i Like how Angular structure the project, especially the style guide by Team Angular,  So why…]]></description><link>https://aymen.co/why-nativescript/</link><guid isPermaLink="false">https://aymen.co/why-nativescript/</guid><pubDate>Sat, 02 Dec 2017 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;First of all i’m an Angular  developer, and i Like how Angular structure the project, especially the style guide by Team Angular,  So why NativeScript ?&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Thanks&lt;/strong&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Why NativeScript ?]]></title><description><![CDATA[First of all i'm an Angular  developer, and i Like how Angular structure the project, especially the style guide by Team Angular,  So why…]]></description><link>https://aymen.co/why-nativescript/</link><guid isPermaLink="false">https://aymen.co/why-nativescript/</guid><pubDate>Sat, 02 Dec 2017 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;First of all i&apos;m an Angular  developer, and i Like how Angular structure the project, especially the style guide by Team Angular,  So why NativeScript ?&lt;/p&gt;
 &lt;p&gt;With NativeScript&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;You can take your Angular knowledge with you when you want to make a Mobile App&lt;/li&gt;
@@ -257,32 +276,32 @@ std::cout &amp;#x3C;&amp;#x3C; “Is valid ASCII ” &amp;#x3C;&amp;#x3C; isASCI
 &lt;h2&gt;What is D-Day or Developers Days?&lt;/h2&gt;
 &lt;p&gt;D-Day is a Meetup hosted by Labidi Aymen (Founder of Vaulab, Architect, and JavaScript Developer Advocate) and guests, take place every 15Days (twice in a month) to discuss and share Technologies especially Javascript language and frameworks&lt;/p&gt;
 &lt;h2&gt;Day #1 : Why Angular for WebApps ?&lt;/h2&gt;
-&lt;p&gt;D-Day is a meetup and it’s limited to &lt;strong&gt;10 persons&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;D-Day is a meetup and it&apos;s limited to &lt;strong&gt;10 persons&lt;/strong&gt;&lt;/p&gt;
 &lt;h2&gt;Tickets prices&lt;/h2&gt;
-&lt;p&gt;It’s &lt;strong&gt;Free.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;It&apos;s &lt;strong&gt;Free.&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;[vfb id=5]&lt;/p&gt;
 &lt;h2&gt;Where?&lt;/h2&gt;
-&lt;p&gt;@vaulab : Elgazala Technopark, Raoued, Gouvernorat de l’Ariana, Tunisie&lt;/p&gt;
-&lt;iframe src=&quot;https://www.google.com/maps/d/embed?mid=1PtWMhZX3S3HqXB6z2CBDEb1nwnARQRhR&quot; width=&quot;100%&quot; height=&quot;480&quot;&gt;&lt;/iframe&gt;</content:encoded></item><item><title><![CDATA[Get File Extension]]></title><description><![CDATA[Ho do you get File Extension in JavaScript ? Using split() and pop() methods var fileName = “my-picture.jpeg”;
+&lt;p&gt;@vaulab : Elgazala Technopark, Raoued, Gouvernorat de l&apos;Ariana, Tunisie&lt;/p&gt;
+&lt;iframe src=&quot;https://www.google.com/maps/d/embed?mid=1PtWMhZX3S3HqXB6z2CBDEb1nwnARQRhR&quot; width=&quot;100%&quot; height=&quot;480&quot;&gt;&lt;/iframe&gt;</content:encoded></item><item><title><![CDATA[Get File Extension]]></title><description><![CDATA[Ho do you get File Extension in JavaScript ? Using split() and pop() methods var fileName = "my-picture.jpeg";
 var ext = fileName.split…]]></description><link>https://aymen.co/get-file-extension/</link><guid isPermaLink="false">https://aymen.co/get-file-extension/</guid><pubDate>Thu, 24 Aug 2017 00:00:00 GMT</pubDate><content:encoded>&lt;h1&gt;Ho do you get File Extension in &lt;strong&gt;JavaScript&lt;/strong&gt; ?&lt;/h1&gt;
 &lt;p&gt;Using &lt;strong&gt;split()&lt;/strong&gt; and &lt;strong&gt;pop()&lt;/strong&gt; methods&lt;/p&gt;
-&lt;p&gt;var fileName = “my-picture.jpeg”;
-var ext = fileName.split(’.‘).pop();&lt;/p&gt;
+&lt;p&gt;var fileName = &quot;my-picture.jpeg&quot;;
+var ext = fileName.split(&apos;.&apos;).pop();&lt;/p&gt;
 &lt;p&gt;console.log(ext) // jpeg&lt;/p&gt;
 &lt;p&gt;How about Regular Expression ?&lt;/p&gt;
-&lt;p&gt;var fileName = “my-picture.jpeg”;
+&lt;p&gt;var fileName = &quot;my-picture.jpeg&quot;;
 var ext = /[^.]+$/.exec(fileName)[0];&lt;/p&gt;
 &lt;p&gt;console.log(ext) // jpeg&lt;/p&gt;
 &lt;p&gt;If you have any other methods &lt;strong&gt;leave a comment.&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;:)&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Formation complete JavaScript]]></title><description><![CDATA[[vfb id=4]]]></description><link>https://aymen.co/formation-complete-javascript/</link><guid isPermaLink="false">https://aymen.co/formation-complete-javascript/</guid><pubDate>Mon, 01 May 2017 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;[vfb id=4]&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Formation React Native]]></title><description><![CDATA[[vfb id=3]]]></description><link>https://aymen.co/formation-react-native/</link><guid isPermaLink="false">https://aymen.co/formation-react-native/</guid><pubDate>Thu, 27 Apr 2017 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;[vfb id=3]&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Ionic 3 / Angular 4]]></title><description><![CDATA[Ionic has released Ionic 3, a new major version that means we will have incompatible API changes. Let’s take a look at what changes were…]]></description><link>https://aymen.co/ionic-3-angular-4/</link><guid isPermaLink="false">https://aymen.co/ionic-3-angular-4/</guid><pubDate>Thu, 13 Apr 2017 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Ionic has released Ionic 3, a new major version that means we will have incompatible API changes.&lt;/p&gt;
-&lt;p&gt;Let’s take a look at what changes were introduced by Ionic Team :&lt;/p&gt;
+&lt;p&gt;:)&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Formation complete JavaScript]]></title><description><![CDATA[[vfb id=4]]]></description><link>https://aymen.co/formation-complete-javascript/</link><guid isPermaLink="false">https://aymen.co/formation-complete-javascript/</guid><pubDate>Mon, 01 May 2017 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;[vfb id=4]&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Formation React Native]]></title><description><![CDATA[[vfb id=3]]]></description><link>https://aymen.co/formation-react-native/</link><guid isPermaLink="false">https://aymen.co/formation-react-native/</guid><pubDate>Thu, 27 Apr 2017 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;[vfb id=3]&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Ionic 3 / Angular 4]]></title><description><![CDATA[Ionic has released Ionic 3, a new major version that means we will have incompatible API changes. Let's take a look at what changes were…]]></description><link>https://aymen.co/ionic-3-angular-4/</link><guid isPermaLink="false">https://aymen.co/ionic-3-angular-4/</guid><pubDate>Thu, 13 Apr 2017 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Ionic has released Ionic 3, a new major version that means we will have incompatible API changes.&lt;/p&gt;
+&lt;p&gt;Let&apos;s take a look at what changes were introduced by Ionic Team :&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Ionic 3 shipped with latest version of Angular 4&lt;/li&gt;
 &lt;li&gt;IonicPage Decorator, a new way to deep link your pages and add support to lazy loading&lt;/li&gt;
 &lt;li&gt;Lazy Loading: This change affects the file structure and navigation of your application, but they will ultimately speed the application up&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;And you can start your app always with —v2 flag&lt;/p&gt;
-&lt;p&gt;ionic start ionic3App —v2&lt;/p&gt;
+&lt;p&gt;And you can start your app always with --v2 flag&lt;/p&gt;
+&lt;p&gt;ionic start ionic3App --v2&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;also I will cover any changes made by the Ionic Team&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;If you know something about this topic please feel free to contribute to this article&lt;/strong&gt;&lt;/p&gt;
@@ -297,7 +316,7 @@ var ext = /[^.]+$/.exec(fileName)[0];&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Fiber&lt;/strong&gt; has enhanced the user experience by letting the interaction with the user inputs &lt;strong&gt;high priority&lt;/strong&gt;.&lt;/p&gt;
 &lt;p&gt;To make this happened, react fiber come with &lt;strong&gt;two phases&lt;/strong&gt;:&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Render:&lt;/strong&gt; the magic function in react world, it can be interrupting.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Commit:&lt;/strong&gt;  it’s not interruptible&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Commit:&lt;/strong&gt;  it&apos;s not interruptible&lt;/p&gt;
 &lt;p&gt; &lt;/p&gt;
 &lt;p&gt;Ok when the Fiber interrupt a render phase, where it goes?&lt;/p&gt;
 &lt;p&gt;It’s goes to the &lt;strong&gt;requestIdleCallback&lt;/strong&gt; this api manage the low priority function to be called during an &lt;strong&gt;idle&lt;/strong&gt; period.&lt;/p&gt;
@@ -305,7 +324,7 @@ var ext = /[^.]+$/.exec(fileName)[0];&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;React fiber is not ready yet&lt;/strong&gt; but it could be the &lt;strong&gt;next version&lt;/strong&gt; of Reactjs and the new foundation of react.&lt;/p&gt;
 &lt;p&gt;You can follow the state here : &lt;a href=&quot;http://isfiberreadyyet.com/&quot;&gt;isfiberreadyyet.com&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt; &lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Another&lt;/strong&gt; thing worth mentioning that the Fiber can render &lt;strong&gt;multiples components&lt;/strong&gt;, also it’s written in &lt;a href=&quot;https://flow.org/&quot;&gt;&lt;strong&gt;flow&lt;/strong&gt;&lt;/a&gt; to make change with more confidence.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Another&lt;/strong&gt; thing worth mentioning that the Fiber can render &lt;strong&gt;multiples components&lt;/strong&gt;, also it&apos;s written in &lt;a href=&quot;https://flow.org/&quot;&gt;&lt;strong&gt;flow&lt;/strong&gt;&lt;/a&gt; to make change with more confidence.&lt;/p&gt;
 &lt;p&gt;Have  you tried React Fiber ? if yes , share your experience with us&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;&lt;strong&gt;This is a work in progress. If you know something about this topic please feel free to contribute to this article&lt;/strong&gt;&lt;/p&gt;
@@ -315,24 +334,24 @@ var ext = /[^.]+$/.exec(fileName)[0];&lt;/p&gt;
 &lt;p&gt;A progressive Web-app uses modern web capabilities to deliver an App-like user experience.&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;Progressive web apps describe a collection of technologies design and concept, an web API that work together to provide  an app-like experience on the mobile web.&lt;/p&gt;
-&lt;p&gt;Let’s start with the powerful technology behind the progressive web app (PWA)&lt;/p&gt;
+&lt;p&gt;Let&apos;s start with the powerful technology behind the progressive web app (PWA)&lt;/p&gt;
 &lt;p&gt; &lt;/p&gt;
 &lt;h2&gt;&lt;strong&gt;Service Workers&lt;/strong&gt;&lt;/h2&gt;
 &lt;p&gt;They power the basic of what a mobile app provide, like offline functionality, push notifications, background content caching and much more.&lt;/p&gt;
 &lt;p&gt;So how the service workers WORK ?&lt;/p&gt;
-&lt;p&gt;it’s just a JavaScript code that run on background independent of the application and runs in response to events like network requests, push notifications, connectivity changes …&lt;/p&gt;
+&lt;p&gt;it&apos;s just a JavaScript code that run on background independent of the application and runs in response to events like network requests, push notifications, connectivity changes ...&lt;/p&gt;
 &lt;p&gt;Just like that.&lt;/p&gt;
 &lt;p&gt; &lt;/p&gt;
 &lt;h2&gt;&lt;strong&gt;App shell&lt;/strong&gt;&lt;/h2&gt;
-&lt;p&gt;It’s a  design concept whereby the initial load of a mobile web app provides a basic shell of a app UI, and the content for the app is loaded after, with this model we can improve the UX and the load time.&lt;/p&gt;
+&lt;p&gt;It&apos;s a  design concept whereby the initial load of a mobile web app provides a basic shell of a app UI, and the content for the app is loaded after, with this model we can improve the UX and the load time.&lt;/p&gt;
 &lt;p&gt; &lt;/p&gt;
 &lt;h2&gt;&lt;strong&gt;App Manifest&lt;/strong&gt;&lt;/h2&gt;
-&lt;p&gt;“Manifest” this word it’s not new for the android developer, how about this file (AndroidManifest.xml) Android developer ?&lt;/p&gt;
+&lt;p&gt;&quot;Manifest&quot; this word it&apos;s not new for the android developer, how about this file (AndroidManifest.xml) Android developer ?&lt;/p&gt;
 &lt;p&gt;Yes you guess it, each install-able application need to tell the OS some info, in this case we need a manifest.json file and link it to the main HTML page (index.html) file to tell the browser that this Web-app is install-able&lt;/p&gt;
 &lt;p&gt; &lt;/p&gt;
 &lt;h2&gt;&lt;strong&gt;Conclusion&lt;/strong&gt;&lt;/h2&gt;
-&lt;p&gt;Progressive Web Apps (WPA) are equal parts new Web APIs, design patterns, also they push to the web developer, by using the web technologies anywhere to make an app-like web-app.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[What is RxJS?]]></title><description><![CDATA[RxJS it’s Reactive Extensions for JavaScript , you can treat events as collections and you can manipulate these sets of events with…]]></description><link>https://aymen.co/what-is-rxjs/</link><guid isPermaLink="false">https://aymen.co/what-is-rxjs/</guid><pubDate>Fri, 06 Jan 2017 00:00:00 GMT</pubDate><content:encoded>&lt;blockquote&gt;
-&lt;p&gt;RxJS it’s &lt;strong&gt;Reactive Extensions for JavaScript&lt;/strong&gt; , you can treat &lt;strong&gt;events&lt;/strong&gt; as collections and you can manipulate these sets of events with &lt;strong&gt;operators.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Progressive Web Apps (WPA) are equal parts new Web APIs, design patterns, also they push to the web developer, by using the web technologies anywhere to make an app-like web-app.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[What is RxJS?]]></title><description><![CDATA[RxJS it's Reactive Extensions for JavaScript , you can treat events as collections and you can manipulate these sets of events with…]]></description><link>https://aymen.co/what-is-rxjs/</link><guid isPermaLink="false">https://aymen.co/what-is-rxjs/</guid><pubDate>Fri, 06 Jan 2017 00:00:00 GMT</pubDate><content:encoded>&lt;blockquote&gt;
+&lt;p&gt;RxJS it&apos;s &lt;strong&gt;Reactive Extensions for JavaScript&lt;/strong&gt; , you can treat &lt;strong&gt;events&lt;/strong&gt; as collections and you can manipulate these sets of events with &lt;strong&gt;operators.&lt;/strong&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;More details about Reactive programming : &lt;a href=&quot;https://aymen.co/javascript/what-is-reactive-programming/&quot;&gt;What is Reactive programming ?&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;RxJS is like Lodash or Underscore for async, because you can treat all events as a set.&lt;/p&gt;
@@ -341,24 +360,24 @@ var ext = /[^.]+$/.exec(fileName)[0];&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Observable&lt;/strong&gt; streams or sets of &lt;strong&gt;zero or n things&lt;/strong&gt; over any amount of &lt;strong&gt;time&lt;/strong&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;Huh ?!&lt;/p&gt;
-&lt;p&gt;They’re lazy, and cancelable.&lt;/p&gt;
-&lt;p&gt;You didn’t understand anything ? yeah me too, let’s break it up&lt;/p&gt;
-&lt;p&gt;When working with JavaScript we usually do some &lt;strong&gt;Synchronous&lt;/strong&gt; code using &lt;strong&gt;callbacks&lt;/strong&gt; and it’s easy to get to the &lt;strong&gt;callback-hell&lt;/strong&gt; case, so what are callbacks and what the hell is the callback-hell :&lt;/p&gt;
+&lt;p&gt;They&apos;re lazy, and cancelable.&lt;/p&gt;
+&lt;p&gt;You didn&apos;t understand anything ? yeah me too, let&apos;s break it up&lt;/p&gt;
+&lt;p&gt;When working with JavaScript we usually do some &lt;strong&gt;Synchronous&lt;/strong&gt; code using &lt;strong&gt;callbacks&lt;/strong&gt; and it&apos;s easy to get to the &lt;strong&gt;callback-hell&lt;/strong&gt; case, so what are callbacks and what the hell is the callback-hell :&lt;/p&gt;
 &lt;p&gt;**What are callbacks ? **&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;A callback function is a function which is passed as an argument to another function, and,is invoked after some kind of event&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;Example of callback :&lt;/p&gt;
-&lt;p&gt;getData(‘/api/users’, function(err, data) {&lt;br&gt;
-console.log(‘users object:’, data);
+&lt;p&gt;getData(&apos;/api/users&apos;, function(err, data) {&lt;br&gt;
+console.log(&apos;users object:&apos;, data);
 });&lt;/p&gt;
-&lt;p&gt;And here’s the callback-hell :&lt;/p&gt;
+&lt;p&gt;And here&apos;s the callback-hell :&lt;/p&gt;
 &lt;p&gt;getData(function(a){&lt;br&gt;
 getMoreData(a, function(b){
 getMoreData(b, function(c){
 getMoreData(c, function(d){
 getMoreData(d, function(e){
-…
+...
 });
 });
 });
@@ -381,45 +400,45 @@ getMoreData(d, function(e){
 }, function(){
 // rejected
 });&lt;/p&gt;
-&lt;p&gt;That’s what a &lt;strong&gt;Promise&lt;/strong&gt; is.&lt;/p&gt;
+&lt;p&gt;That&apos;s what a &lt;strong&gt;Promise&lt;/strong&gt; is.&lt;/p&gt;
 &lt;p&gt;Ok the why we you use &lt;strong&gt;RxJS&lt;/strong&gt; and in witch cases?:&lt;/p&gt;
 &lt;p&gt;We have in &lt;strong&gt;modern web application&lt;/strong&gt; that the five most common will you run into :&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Ajax  calls&lt;/li&gt;
-&lt;li&gt;User events like mouse clicks mouse movements , keyup …&lt;/li&gt;
+&lt;li&gt;User events like mouse clicks mouse movements , keyup ...&lt;/li&gt;
 &lt;li&gt;Animations&lt;/li&gt;
 &lt;li&gt;Sockets&lt;/li&gt;
 &lt;li&gt;Workers (JavaScript running in the background, without affecting the performance of the page)&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;Only one of these are works well with single value, it’s &lt;strong&gt;Ajax&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;Only one of these are works well with single value, it&apos;s &lt;strong&gt;Ajax&lt;/strong&gt;.&lt;/p&gt;
 &lt;h2&gt;So how about a cancelable streams?&lt;/h2&gt;
 &lt;p&gt;RxJS Observables provide a feed, so that you can receive data from the same object multiple time,so Observables work like streams of data.&lt;/p&gt;
 &lt;p&gt;So when we use Observable we stream data over events and we can cancel to stop receiving data over the stream.&lt;/p&gt;
 &lt;h2&gt;What are Observables ?&lt;/h2&gt;
-&lt;p&gt;Observables are just function, there’s no deep magic inside of them.&lt;/p&gt;
+&lt;p&gt;Observables are just function, there&apos;s no deep magic inside of them.&lt;/p&gt;
 &lt;p&gt;to receive data from Obeservables we need to subscribe to them, and if we want to stop receiving data we call unsubscribe method or compete() to end the stream.&lt;/p&gt;
 &lt;p&gt;If error, complete, unsubscribe, the observer is done and it will die.&lt;/p&gt;
-&lt;p&gt;Here’s an example:&lt;/p&gt;
+&lt;p&gt;Here&apos;s an example:&lt;/p&gt;
 &lt;p&gt;var source = Rx.Observable.create(function (observer) {
 // Yield a single value and complete
 // here we pass the data
-observer.onNext(“Jhon”);
+observer.onNext(&quot;Jhon&quot;);
 observer.onCompleted();&lt;/p&gt;
 &lt;p&gt;// Any cleanup logic might go here
 return function () {
-console.log(‘unsubscribe’);
+console.log(&apos;unsubscribe&apos;);
 }
 });&lt;/p&gt;
 &lt;p&gt;var subscription = source.subscribe(
-function (x) { console.log(‘name: %s’, x); },
-function (e) { console.log(‘onError: %s’, e); },
-function () { console.log(‘onCompleted’); });
+function (x) { console.log(&apos;name: %s&apos;, x); },
+function (e) { console.log(&apos;onError: %s&apos;, e); },
+function () { console.log(&apos;onCompleted&apos;); });
 // we can unsubscribe when we are done with the stream
 subscription.unsubscribe();&lt;/p&gt;
-&lt;p&gt;But wait don’t Rx everything,  Rx is a domain-specific language, it’s take a while to learn it.&lt;/p&gt;
-&lt;p&gt;You need to think about your Goal and you think about what all of your event streams that you’r going to read to reach your Goal, to build together like Lego pieces to get that Goal.&lt;/p&gt;
+&lt;p&gt;But wait don&apos;t Rx everything,  Rx is a domain-specific language, it&apos;s take a while to learn it.&lt;/p&gt;
+&lt;p&gt;You need to think about your Goal and you think about what all of your event streams that you&apos;r going to read to reach your Goal, to build together like Lego pieces to get that Goal.&lt;/p&gt;
 &lt;blockquote&gt;
-&lt;p&gt;A value that changes over Time, it’ can be represented as an Observable&lt;/p&gt;
+&lt;p&gt;A value that changes over Time, it&apos; can be represented as an Observable&lt;/p&gt;
 &lt;/blockquote&gt;</content:encoded></item><item><title><![CDATA[What is Reactive programming ?]]></title><description><![CDATA[Reactive programming is learning to program completely around synchronous data streams So what the deference between Imperative programming…]]></description><link>https://aymen.co/what-is-reactive-programming/</link><guid isPermaLink="false">https://aymen.co/what-is-reactive-programming/</guid><pubDate>Thu, 05 Jan 2017 00:00:00 GMT</pubDate><content:encoded>&lt;blockquote&gt;
 &lt;p&gt;&lt;strong&gt;Reactive programming&lt;/strong&gt; is learning to program completely around &lt;strong&gt;synchronous&lt;/strong&gt; data &lt;strong&gt;streams&lt;/strong&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -429,7 +448,7 @@ subscription.unsubscribe();&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;&lt;strong&gt;Reactive programming&lt;/strong&gt; is completely different from the &lt;strong&gt;sequential work flow&lt;/strong&gt;. They &lt;strong&gt;react&lt;/strong&gt; when something is done.&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;Let’s take an example from  Rx(Reactive-Extensions) : The **_combineLatest _**operator combine the latest expression is used to synchronize 2 &lt;strong&gt;Observable streams&lt;/strong&gt; into single Observable stream.&lt;/p&gt;
+&lt;p&gt;Let&apos;s take an example from  Rx(Reactive-Extensions) : The **_combineLatest _**operator combine the latest expression is used to synchronize 2 &lt;strong&gt;Observable streams&lt;/strong&gt; into single Observable stream.&lt;/p&gt;
 &lt;p&gt;The &lt;strong&gt;Combine Latest&lt;/strong&gt; doesn’t using queue, as it name suggest it only remember the latest value of each stream.&lt;/p&gt;
 &lt;p&gt; &lt;/p&gt;
 &lt;p&gt;&lt;img src=&quot;https://aymen.co/wp-content/uploads/2017/01/reactive-programming-1.jpg&quot; alt=&quot;reactive-programming&quot;&gt; We can see that when the &lt;strong&gt;y stream&lt;/strong&gt; observed the &lt;strong&gt;b&lt;/strong&gt; value, the **result stream **&lt;strong&gt;combine&lt;/strong&gt; it with the &lt;strong&gt;latest&lt;/strong&gt; value observed on &lt;strong&gt;x stream&lt;/strong&gt; (3) and latter the same value will be &lt;strong&gt;combine&lt;/strong&gt; into the result stream when the &lt;strong&gt;x stream&lt;/strong&gt; will &lt;strong&gt;observed&lt;/strong&gt; the &lt;strong&gt;4&lt;/strong&gt; value.&lt;/p&gt;
@@ -437,20 +456,20 @@ subscription.unsubscribe();&lt;/p&gt;
 &lt;p&gt;will &lt;strong&gt;complete&lt;/strong&gt; or &lt;strong&gt;throw exception,&lt;/strong&gt; in this case y Stream run &lt;strong&gt;complete&lt;/strong&gt;(&lt;strong&gt;onComplete&lt;/strong&gt; before &lt;strong&gt;RxJS5&lt;/strong&gt;)&lt;/p&gt;
 &lt;p&gt;---&lt;/p&gt;
 &lt;h2&gt;Did you feel lost ?&lt;/h2&gt;
-&lt;p&gt;I felt the same thing the first time i read about reactive programming and RxJS, the hardest part of the learning journey is &lt;strong&gt;thinking in Reactive&lt;/strong&gt;. It’s a lot about letting go of old imperative and stateful habits of typical programming, and forcing your brain to work in a different paradigm.&lt;/p&gt;
+&lt;p&gt;I felt the same thing the first time i read about reactive programming and RxJS, the hardest part of the learning journey is &lt;strong&gt;thinking in Reactive&lt;/strong&gt;. It&apos;s a lot about letting go of old imperative and stateful habits of typical programming, and forcing your brain to work in a different paradigm.&lt;/p&gt;
 &lt;p&gt;What about you? it worth learning nowadays ?&lt;/p&gt;
 &lt;p&gt; &lt;/p&gt;
 &lt;p&gt;If you have any corrections you can pull a request on GitHub : &lt;a href=&quot;https://github.com/labidiaymen/aymen.co/blob/master/javascript/what-is-reactive-programming.md&quot;&gt;What is Reactive programming ? on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Angular CLI]]></title><description><![CDATA[One of the easiest ways to start a new Angular application is to use Angular’s command-line interface (CLI). To work with the command line…]]></description><link>https://aymen.co/angular-cli/</link><guid isPermaLink="false">https://aymen.co/angular-cli/</guid><pubDate>Tue, 03 Jan 2017 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;One of the easiest ways to start a new Angular application is to use Angular’s &lt;a href=&quot;https://github.com/angular/angular-cli&quot;&gt;command-line interface&lt;/a&gt; (CLI).&lt;/p&gt;
 &lt;p&gt;To work with the command line we need to install it from the NPM(Node Package Manager):&lt;/p&gt;
 &lt;p&gt;npm install -g angular-cli&lt;/p&gt;
-&lt;p&gt;A new global command  &lt;code class=&quot;language-text&quot;&gt;ng&lt;/code&gt; will be available in our system.&lt;/p&gt;
+&lt;p&gt;A new global command  &lt;code&gt;ng&lt;/code&gt; will be available in our system.&lt;/p&gt;
 &lt;p&gt;To verify whether your installation completed successfully, run:&lt;/p&gt;
 &lt;p&gt;ng version&lt;/p&gt;
 &lt;p&gt;If you see an output like bellow everything is OK:&lt;/p&gt;
 &lt;p&gt;angular-cli: 1.0.0-beta.21
 node: 6.9.1
 os: win32 x64&lt;/p&gt;
-&lt;p&gt;Let’s make our new App:&lt;/p&gt;
+&lt;p&gt;Let&apos;s make our new App:&lt;/p&gt;
 &lt;p&gt;ng new hello-app&lt;/p&gt;
 &lt;p&gt;This creates a new directory with all files you need to get started:&lt;/p&gt;
 &lt;p&gt;hello-app
@@ -493,8 +512,8 @@ os: win32 x64&lt;/p&gt;
 &lt;p&gt;&lt;img src=&quot;https://aymen.co/wp-content/uploads/2017/01/ng-app.png&quot; alt=&quot;ng-app&quot;&gt;&lt;/p&gt;
 &lt;h3&gt;Source on&lt;/h3&gt;
 &lt;h3&gt; &lt;a href=&quot;http://aymen.co/l/4GRQcB&quot;&gt;&lt;img src=&quot;https://aymen.co/wp-content/uploads/2017/01/github.jpg&quot; alt=&quot;github&quot;&gt;&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;&lt;strong&gt;Wanna know more details, check : &lt;a href=&quot;http://aymen.co/l/sbd431&quot;&gt;Start your Angular WebApp&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Start your Angular WebApp]]></title><description><![CDATA[To learn more about Angular : Angular4 ? Where’s the version 3 ? why the hurry ? Let’s start : These steps are for discovering how the…]]></description><link>https://aymen.co/start-your-angular-webapp/</link><guid isPermaLink="false">https://aymen.co/start-your-angular-webapp/</guid><pubDate>Tue, 03 Jan 2017 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;To learn more about Angular : &lt;a href=&quot;https://aymen.co/javascript/angular-4-wheres-the-version-3-why-the-hurry/&quot;&gt;Angular4 ? Where’s the version 3 ? why the hurry ?&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Let’s start :&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Wanna know more details, check : &lt;a href=&quot;http://aymen.co/l/sbd431&quot;&gt;Start your Angular WebApp&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Start your Angular WebApp]]></title><description><![CDATA[To learn more about Angular : Angular4 ? Where’s the version 3 ? why the hurry ? Let's start : These steps are for discovering how the…]]></description><link>https://aymen.co/start-your-angular-webapp/</link><guid isPermaLink="false">https://aymen.co/start-your-angular-webapp/</guid><pubDate>Tue, 03 Jan 2017 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;To learn more about Angular : &lt;a href=&quot;https://aymen.co/javascript/angular-4-wheres-the-version-3-why-the-hurry/&quot;&gt;Angular4 ? Where’s the version 3 ? why the hurry ?&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Let&apos;s start :&lt;/p&gt;
 &lt;p&gt;These steps are for discovering how the Angular work.&lt;/p&gt;
 &lt;p&gt;To run Angular 2, we depend on these four libraries:&lt;/p&gt;
 &lt;ul&gt;
@@ -510,7 +529,7 @@ os: win32 x64&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Reflect Metadata&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Angular itself was written in Typescript, and Typescript provides annotations for adding metadata to code. Roughly speaking, the reflect-metadata package is a polyfill that lets us use this metadata.&lt;/p&gt;
 &lt;p&gt;Find more about TypeScript : &lt;a href=&quot;https://aymen.co/javascript/what-is-typescript-its-worth-learning/&quot;&gt;What is Typescript ? it’s worth learning ?&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;First let’s create our &lt;strong&gt;index.html&lt;/strong&gt; to host the App:&lt;/p&gt;
+&lt;p&gt;First let&apos;s create our &lt;strong&gt;index.html&lt;/strong&gt; to host the App:&lt;/p&gt;
 &lt;!doctype html&gt;
 &lt;html&gt;
 &lt;head&gt;
@@ -540,12 +559,12 @@ os: win32 x64&lt;/p&gt;
 &lt;body&gt;
 &lt;/body&gt;
 &lt;/html&gt;
-&lt;p&gt;Now we need to define our Angular app, so let’s create a file called app.ts ( .ts for TypeScript files)&lt;/p&gt;
-&lt;p&gt;import { NgModule, Component} from ‘@angular/core’;
-import { BrowserModule } from ‘@angular/platform-browser’;
-import { platformBrowserDynamic } from “@angular/platform-browser-dynamic”;&lt;/p&gt;
+&lt;p&gt;Now we need to define our Angular app, so let&apos;s create a file called app.ts ( .ts for TypeScript files)&lt;/p&gt;
+&lt;p&gt;import { NgModule, Component} from &apos;@angular/core&apos;;
+import { BrowserModule } from &apos;@angular/platform-browser&apos;;
+import { platformBrowserDynamic } from &quot;@angular/platform-browser-dynamic&quot;;&lt;/p&gt;
 &lt;p&gt;@Component({
-selector: ‘hello-angular’,
+selector: &apos;hello-angular&apos;,
 template: `&lt;/p&gt;
  &lt;div&gt; Hello Angular developers&lt;/div&gt;
  \`
@@ -561,12 +580,12 @@ class HelloAngularAppModule {}&lt;/p&gt;
 &lt;p&gt;platformBrowserDynamic().bootstrapModule(HelloAngularAppModule);&lt;/p&gt;
 &lt;p&gt;Wow what was that ?&lt;/p&gt;
 &lt;p&gt;Don’t worry. We’re going to walk through it step by step :&lt;/p&gt;
-&lt;p&gt;The &lt;em&gt;import&lt;/em&gt; statements define the modules we want to use to write our code, in this case we’re importing  &lt;strong&gt;&lt;em&gt;NgModule&lt;/em&gt;&lt;/strong&gt;, &lt;strong&gt;_Component _&lt;/strong&gt; from the module ”&lt;strong&gt;@angular/core&lt;/strong&gt;“, &lt;strong&gt;_BrowserModule  _&lt;strong&gt;from the module &lt;strong&gt;“@angular/platform-browser&lt;/strong&gt;” and  &lt;strong&gt;&lt;em&gt;platformBrowserDynamic&lt;/em&gt;&lt;/strong&gt; from the module ”&lt;/strong&gt;@angular/platform-browser-dynamic&lt;/strong&gt;“.&lt;/p&gt;
+&lt;p&gt;The &lt;em&gt;import&lt;/em&gt; statements define the modules we want to use to write our code, in this case we’re importing  &lt;strong&gt;&lt;em&gt;NgModule&lt;/em&gt;&lt;/strong&gt;, &lt;strong&gt;_Component _&lt;/strong&gt; from the module &quot;&lt;strong&gt;@angular/core&lt;/strong&gt;&quot;, &lt;strong&gt;_BrowserModule  _&lt;strong&gt;from the module &lt;strong&gt;&quot;@angular/platform-browser&lt;/strong&gt;&quot; and  &lt;strong&gt;&lt;em&gt;platformBrowserDynamic&lt;/em&gt;&lt;/strong&gt; from the module &quot;&lt;/strong&gt;@angular/platform-browser-dynamic&lt;/strong&gt;&quot;.&lt;/p&gt;
 &lt;blockquote&gt;
-&lt;p&gt;import { &lt;em&gt;&lt;strong&gt;things&lt;/strong&gt;&lt;/em&gt; } from _**wherever **_is called destructuring and it’s a feature provided by ES6&lt;/p&gt;
+&lt;p&gt;import { &lt;em&gt;&lt;strong&gt;things&lt;/strong&gt;&lt;/em&gt; } from _**wherever **_is called destructuring and it&apos;s a feature provided by ES6&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;Now we need a &lt;strong&gt;Component&lt;/strong&gt;, a what ? yes a Component : One of the big ideas behind Angular 2 is the idea of components.&lt;/p&gt;
-&lt;p&gt;So what’s a component ?&lt;/p&gt;
+&lt;p&gt;So what&apos;s a component ?&lt;/p&gt;
 &lt;p&gt;The idea behind components is that when we create a component we teach the browser new tags that have new functionality, example : &lt;login&gt;&lt;/login&gt;&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;If you have a background in &lt;strong&gt;Angular 1&lt;/strong&gt;, Components are the new version of &lt;strong&gt;directives&lt;/strong&gt;.&lt;/p&gt;
@@ -582,17 +601,17 @@ class HelloAngularAppModule {}&lt;/p&gt;
 &lt;p&gt;A Component annotation ? What is going on here?&lt;/p&gt;
 &lt;p&gt;If you’ve been programming in JavaScript for a while then this next statement might seem a little weird:&lt;/p&gt;
 &lt;p&gt;@Component({
-…
+...
 })&lt;/p&gt;
 &lt;p&gt;If you have a Java background it may look familiar to you: they are &lt;strong&gt;annotations&lt;/strong&gt;.&lt;/p&gt;
 &lt;p&gt;Think of &lt;strong&gt;annotations&lt;/strong&gt; as metadata added to your code. When we use &lt;strong&gt;@Component&lt;/strong&gt; on the HelloAngular class, we are “&lt;strong&gt;decorating&lt;/strong&gt;” the HelloAngular as a Component. We want to be able to use this component in our markup by using a tag.&lt;/p&gt;
 &lt;p&gt;To do that we configure the &lt;strong&gt;@Component&lt;/strong&gt; and specify the selector as hello-angular.&lt;/p&gt;
 &lt;p&gt;@Component({
-selector: ‘hello-angular’
+selector: &apos;hello-angular&apos;
 })&lt;/p&gt;
 &lt;p&gt;Each component has a template, and we can add a template to our @Component by passing the &lt;em&gt;template&lt;/em&gt; option like :&lt;/p&gt;
 &lt;p&gt;@Component({
-selector: ‘hello-angular’,
+selector: &apos;hello-angular&apos;,
 template: `
 &lt;div&gt;
 Hello Angular developers
@@ -626,51 +645,51 @@ Hello Angular developers
  &lt;/body&gt;
  &lt;/html&gt;
 &lt;p&gt;Since our application is written in TypeScript, we used a file called &lt;strong&gt;app.ts&lt;/strong&gt;. The next step is to &lt;strong&gt;compile&lt;/strong&gt; it to JavaScript, so that the browser can understand it.&lt;/p&gt;
-&lt;p&gt;If you don’t have TypeScript complier you can install it from &lt;strong&gt;NPM&lt;/strong&gt; (node package mannger):&lt;/p&gt;
+&lt;p&gt;If you don&apos;t have TypeScript complier you can install it from &lt;strong&gt;NPM&lt;/strong&gt; (node package mannger):&lt;/p&gt;
 &lt;p&gt;npm install -g typescript&lt;/p&gt;
 &lt;p&gt;Create a new file that hold typescript configurtaion : tsconfig.json&lt;/p&gt;
 &lt;p&gt;{
-“compilerOptions”: {
-“target”: “ES5”,
-“module”: “system”,
-“moduleResolution”: “node”,
-“sourceMap”: true,
-“emitDecoratorMetadata”: true,
-“experimentalDecorators”: true,
-“removeComments”: false,
-“noImplicitAny”: false
+&quot;compilerOptions&quot;: {
+&quot;target&quot;: &quot;ES5&quot;,
+&quot;module&quot;: &quot;system&quot;,
+&quot;moduleResolution&quot;: &quot;node&quot;,
+&quot;sourceMap&quot;: true,
+&quot;emitDecoratorMetadata&quot;: true,
+&quot;experimentalDecorators&quot;: true,
+&quot;removeComments&quot;: false,
+&quot;noImplicitAny&quot;: false
 },
-“exclude”: [
-“node_modules”
+&quot;exclude&quot;: [
+&quot;node_modules&quot;
 ]
 }&lt;/p&gt;
 &lt;p&gt;Then run on the root folder of our application&lt;/p&gt;
 &lt;p&gt;tsc app.ts&lt;/p&gt;
-&lt;p&gt;Also we need to add SystemJS config file (don’t worry about this file)&lt;/p&gt;
+&lt;p&gt;Also we need to add SystemJS config file (don&apos;t worry about this file)&lt;/p&gt;
 &lt;p&gt;System.config({
 paths: {
 // paths serve as alias
-‘npm:’: ‘node_modules/’
+&apos;npm:&apos;: &apos;node_modules/&apos;
 },
 // map tells the System loader where to look for things
 map: {
 // angular bundles
-‘@angular/core’: ‘npm:@angular/core/bundles/core.umd.js’,
-‘@angular/common’: ‘npm:@angular/common/bundles/common.umd.js’,
-‘@angular/compiler’: ‘npm:@angular/compiler/bundles/compiler.umd.js’,
-‘@angular/platform-browser’: ‘npm:@angular/platform-browser/bundles/platform-browser.umd.js’,
-‘@angular/platform-browser-dynamic’: ‘npm:@angular/platform-browser-dynamic/bundles/platform-browser-dynamic.umd.js’,
-‘@angular/http’: ‘npm:@angular/http/bundles/http.umd.js’,
-‘@angular/router’: ‘npm:@angular/router/bundles/router.umd.js’,
-‘@angular/forms’: ‘npm:@angular/forms/bundles/forms.umd.js’,
+&apos;@angular/core&apos;: &apos;npm:@angular/core/bundles/core.umd.js&apos;,
+&apos;@angular/common&apos;: &apos;npm:@angular/common/bundles/common.umd.js&apos;,
+&apos;@angular/compiler&apos;: &apos;npm:@angular/compiler/bundles/compiler.umd.js&apos;,
+&apos;@angular/platform-browser&apos;: &apos;npm:@angular/platform-browser/bundles/platform-browser.umd.js&apos;,
+&apos;@angular/platform-browser-dynamic&apos;: &apos;npm:@angular/platform-browser-dynamic/bundles/platform-browser-dynamic.umd.js&apos;,
+&apos;@angular/http&apos;: &apos;npm:@angular/http/bundles/http.umd.js&apos;,
+&apos;@angular/router&apos;: &apos;npm:@angular/router/bundles/router.umd.js&apos;,
+&apos;@angular/forms&apos;: &apos;npm:@angular/forms/bundles/forms.umd.js&apos;,
 // other libraries
-rxjs: ‘node_modules/rxjs’
+rxjs: &apos;node_modules/rxjs&apos;
 },
 packages: {
-rxjs: { defaultExtension: ‘js’ },&lt;br&gt;
+rxjs: { defaultExtension: &apos;js&apos; },&lt;br&gt;
 app: {
-format: ‘register’,
-defaultExtension: ‘js’
+format: &apos;register&apos;,
+defaultExtension: &apos;js&apos;
 }
 }
 });&lt;/p&gt;
@@ -687,7 +706,7 @@ defaultExtension: ‘js’
  &lt;body&gt;
 &lt;script src=&quot;resources/systemjsconfig.js&quot; &gt; &lt;/script&gt;
  &lt;script&gt;
-&lt;p&gt;System.import(‘app.js’)
+&lt;p&gt;System.import(&apos;app.js&apos;)
 .then(null, console.error.bind(console));
 &lt;/script&gt;&lt;/p&gt;
 &lt;p&gt;&lt;hello-angular&gt;&lt;/hello-angular&gt;&lt;/p&gt;
@@ -714,14 +733,14 @@ defaultExtension: ‘js’
 &lt;p&gt;&lt;img src=&quot;https://aymen.co/wp-content/uploads/2016/12/es5-es6-typescript-circle-diagram-300x300.png&quot; alt=&quot;es5-es6-typescript-circle-diagram&quot;&gt;&lt;/p&gt;
 &lt;p&gt;What is &lt;strong&gt;ES5&lt;/strong&gt;? What is &lt;strong&gt;ES6&lt;/strong&gt;? ES5 is short for &lt;strong&gt;“&lt;a href=&quot;https://www.ecma-international.org/ecma-262/5.1/&quot;&gt;ECMAScript 5&lt;/a&gt;”&lt;/strong&gt;, otherwise known as “regular &lt;strong&gt;Javascript&lt;/strong&gt;”. ES5 is the &lt;strong&gt;normal Javascript&lt;/strong&gt;. It runs in more-or-less every browser. &lt;strong&gt;ES6&lt;/strong&gt; is the &lt;strong&gt;next&lt;/strong&gt; version of Javascript.&lt;/p&gt;
 &lt;p&gt;Also, we can mention that TypeScript is an official collaboration between &lt;strong&gt;Microsoft&lt;/strong&gt; and &lt;strong&gt;Google&lt;/strong&gt;&lt;/p&gt;
-&lt;h3&gt;&lt;strong&gt;It’s worth learning ?&lt;/strong&gt;&lt;/h3&gt;
+&lt;h3&gt;&lt;strong&gt;It&apos;s worth learning ?&lt;/strong&gt;&lt;/h3&gt;
 &lt;p&gt;With two tech heavyweights ( &lt;strong&gt;Microsoft&lt;/strong&gt; and &lt;strong&gt;Google&lt;/strong&gt;) behind it we know that it will be supported for a long time. Both groups are committed to moving the web forward and as developers we win because of it.&lt;/p&gt;
 &lt;p&gt;Also &lt;a href=&quot;https://angular.io/&quot;&gt;&lt;strong&gt;Angular2&lt;/strong&gt;&lt;/a&gt; is built in TypeScript and there are a lot of reasons to use TypeScript instead of plain Javascript&lt;/p&gt;
-&lt;p&gt;How do you think ? it’s worth learning ?&lt;/p&gt;
+&lt;p&gt;How do you think ? it&apos;s worth learning ?&lt;/p&gt;
 &lt;p&gt;If you have any more questions, news or contribution, comment below.&lt;/p&gt;
 &lt;p&gt;See also** &lt;a href=&quot;https://aymen.co/javascript/angular-4-wheres-the-version-3-why-the-hurry/&quot; title=&quot;Angular4 ? Where’s the version 3 ? why the hurry ?&quot;&gt;Angular4 ? Where’s the version 3 ? why the hurry ?&lt;/a&gt;**&lt;/p&gt;
 &lt;p&gt; &lt;/p&gt;
-&lt;p&gt;If you have any corrections you can pull a request on GitHub : &lt;a href=&quot;https://github.com/labidiaymen/aymen.co/blob/master/javascript/what-is-typescript-its-worth-learning.md&quot;&gt;What is Typescript ? it’s worth learning ? on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Angular4 ? Where’s the version 3 ? why the hurry ?]]></title><description><![CDATA[First of all let’s start with what is AngularJS : AngularJS is a complete JavaScript based Open source web application framework. Using…]]></description><link>https://aymen.co/angular-4-wheres-the-version-3-why-the-hurry/</link><guid isPermaLink="false">https://aymen.co/angular-4-wheres-the-version-3-why-the-hurry/</guid><pubDate>Sat, 24 Dec 2016 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;First of all let’s start with what is &lt;a href=&quot;https://angularjs.org/&quot;&gt;&lt;strong&gt;AngularJS&lt;/strong&gt;&lt;/a&gt; :&lt;/p&gt;
+&lt;p&gt;If you have any corrections you can pull a request on GitHub : &lt;a href=&quot;https://github.com/labidiaymen/aymen.co/blob/master/javascript/what-is-typescript-its-worth-learning.md&quot;&gt;What is Typescript ? it&apos;s worth learning ? on GitHub&lt;/a&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Angular4 ? Where’s the version 3 ? why the hurry ?]]></title><description><![CDATA[First of all let’s start with what is AngularJS : AngularJS is a complete JavaScript based Open source web application framework. Using…]]></description><link>https://aymen.co/angular-4-wheres-the-version-3-why-the-hurry/</link><guid isPermaLink="false">https://aymen.co/angular-4-wheres-the-version-3-why-the-hurry/</guid><pubDate>Sat, 24 Dec 2016 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;First of all let’s start with what is &lt;a href=&quot;https://angularjs.org/&quot;&gt;&lt;strong&gt;AngularJS&lt;/strong&gt;&lt;/a&gt; :&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://angularjs.org/&quot;&gt;&lt;strong&gt;AngularJS&lt;/strong&gt;&lt;/a&gt; is a complete JavaScript based Open source web application &lt;strong&gt;framework&lt;/strong&gt;.&lt;/p&gt;
 &lt;p&gt;Using &lt;strong&gt;&lt;a href=&quot;https://ionicframework.com/&quot;&gt;Ionic&lt;/a&gt;&lt;/strong&gt; we can build mobile application using AngularJS.&lt;/p&gt;
 &lt;p&gt;That’s really what AngularJS is.&lt;/p&gt;
@@ -766,25 +785,25 @@ defaultExtension: ‘js’
 &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.kitchenet.tn/education&quot;&gt;Visit Kitchenet.tn/education&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Assisty]]></title><description><![CDATA[Assisty is a mobile service of daily life to help Tunisians can analyze your request in different languages including Tunisian dialect http…]]></description><link>https://aymen.co/assisty-tn/</link><guid isPermaLink="false">https://aymen.co/assisty-tn/</guid><pubDate>Tue, 18 Oct 2016 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Assisty is a mobile service of daily life to help Tunisians can analyze your request in different languages including Tunisian dialect&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;http://assisty.tn&quot;&gt;http://assisty.tn&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt; &lt;/p&gt;
-&lt;h2&gt;[edsbportman layout_type=“single_project” id=“1” ]&lt;/h2&gt;
+&lt;h2&gt;[edsbportman layout_type=&quot;single_project&quot; id=&quot;1&quot; ]&lt;/h2&gt;
 &lt;p&gt; &lt;/p&gt;
 &lt;h2&gt; Video presentation&lt;/h2&gt;
 &lt;p&gt; &lt;/p&gt;
-&lt;div class=&quot;gatsby-resp-iframe-wrapper&quot; style=&quot;padding-bottom: 200%; position: relative; height: 0; overflow: hidden; margin-bottom: 1.0725rem&quot; &gt; &lt;iframe style=&quot;border: none; overflow: hidden; position: absolute; top: 0; left: 0; width: 100%; height: 100%; &quot; src=&quot;https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fkitchenet.tn%2Fvideos%2F1632729617025893%2F&amp;amp;show_text=0&amp;amp;width=400&quot; frameborder=&quot;0&quot; scrolling=&quot;no&quot; allowfullscreen=&quot;allowfullscreen&quot;&gt;&lt;/iframe&gt; &lt;/div&gt;
+&lt;iframe style=&quot;border: none; overflow: hidden;&quot; src=&quot;https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fkitchenet.tn%2Fvideos%2F1632729617025893%2F&amp;amp;show_text=0&amp;amp;width=400&quot; width=&quot;300&quot; height=&quot;600&quot; frameborder=&quot;0&quot; scrolling=&quot;no&quot; allowfullscreen=&quot;allowfullscreen&quot;&gt;&lt;/iframe&gt;
 &lt;p&gt;&lt;a href=&quot;https://play.google.com/store/apps/details?id=com.assisty.tn&quot;&gt;&lt;strong&gt;Download the App&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Inscription - Formation Mean stack]]></title><description><![CDATA[[vfb id=1]]]></description><link>https://aymen.co/formation-mean-stack/</link><guid isPermaLink="false">https://aymen.co/formation-mean-stack/</guid><pubDate>Fri, 16 Sep 2016 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;[vfb id=1]&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Jobs]]></title><description><![CDATA[JavaScript internship You love JavaScript ?Join us , You’ll focus on building the JavaScript components of digital products. You’ll work as…]]></description><link>https://aymen.co/jobs/</link><guid isPermaLink="false">https://aymen.co/jobs/</guid><pubDate>Thu, 19 May 2016 00:00:00 GMT</pubDate><content:encoded>&lt;h2&gt;JavaScript internship&lt;/h2&gt;
 &lt;p&gt;You love JavaScript ?Join us , You’ll focus on building the JavaScript components of digital products. You’ll work as part of a team – involved during the strategy and design processes. You’ll work with other developers to bring each product to life.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Mean.io it’s been good to know you, i’m moving to Meteor.js]]></title><description><![CDATA[I have been  using Mean.io for 7 months building scalable application, i followed the default package system of mean.io and it seemed…]]></description><link>https://aymen.co/mean-io-its-been-good-to-know-you-im-moving-to-meteor-js/</link><guid isPermaLink="false">https://aymen.co/mean-io-its-been-good-to-know-you-im-moving-to-meteor-js/</guid><pubDate>Tue, 29 Mar 2016 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;I have been  using Mean.io for 7 months building scalable application, i followed the default package system of mean.io and it seemed organased.&lt;/p&gt;
 &lt;p&gt;The application like other app has a backoffice and admin panel, i used the built-in role system to seprate the admin from the users.&lt;/p&gt;
 &lt;p&gt;And the first problem was : The packages(modules) name are public, Mean.io load all the modules name whether logged or not using this url (/_getModules)&lt;/p&gt;
 &lt;p&gt;The second is by accessing to this link (/api/admin/menu/admin) you can know which are the admin modules and the users modules.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Mean.io&lt;/strong&gt; loads everything he needs to the client browser then he manages everything, it’s really great to use this strategy but the app will be vulnerable if standard users can see the admin modules and know how to access to them.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Mean.io&lt;/strong&gt; loads everything he needs to the client browser then he manages everything, it&apos;s really great to use this strategy but the app will be vulnerable if standard users can see the admin modules and know how to access to them.&lt;/p&gt;
 &lt;p&gt;Then i Found &lt;strong&gt;Meteor.js&lt;/strong&gt;.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Meteor&lt;/strong&gt; is a complete platform for building web and mobile apps in pure &lt;em&gt;JavaScript&lt;/em&gt;. (&lt;a href=&quot;https://www.meteor.com&quot;&gt;https://www.meteor.com&lt;/a&gt;)&lt;/p&gt;
 &lt;p&gt;Why i moved to &lt;strong&gt;Meteor.js&lt;/strong&gt; ?&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;&lt;strong&gt;Metoer&lt;/strong&gt;&lt;/em&gt; is using DDP, the Distributed Data _Protocol , why ? _&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;DDP&lt;/strong&gt; is a simple &lt;em&gt;protocol&lt;/em&gt; for fetching structured data from a server, and receiving live updates when that data changes.&lt;/p&gt;
-&lt;p&gt;Still don’t get it ? Meteor synchronise your data (mongodb collections …)  between the server and the client and it handle everything by itself.&lt;/p&gt;
+&lt;p&gt;Still don&apos;t get it ? Meteor synchronise your data (mongodb collections ...)  between the server and the client and it handle everything by itself.&lt;/p&gt;
 &lt;p&gt;** Socket.io** Meteor use socket.io than Http requests and all of us know that socket.io is so much faster than Http requests.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Meteor.&lt;strong&gt;&lt;strong&gt;i&lt;/strong&gt;&lt;/strong&gt;sServer&lt;/strong&gt; &lt;strong&gt;and&lt;/strong&gt;** Me****teor.**&lt;strong&gt;isClient&lt;/strong&gt;,__ you will use this if you will build one file app, in the same file you can define wich code will run on server and wich code will run on the client, and there’s other ways relieve you from using this method.__&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Meteor.&lt;strong&gt;&lt;strong&gt;i&lt;/strong&gt;&lt;/strong&gt;sServer&lt;/strong&gt; &lt;strong&gt;and&lt;/strong&gt;** Me****teor.**&lt;strong&gt;isClient&lt;/strong&gt;,__ you will use this if you will build one file app, in the same file you can define wich code will run on server and wich code will run on the client, and there&apos;s other ways relieve you from using this method.__&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Structure&lt;/strong&gt; with Meteor  you can define your file structure, you can use one file to build your app or use known folders name, Ok how? when we create a &lt;strong&gt;client&lt;/strong&gt; folder, Meteor will considaret that all file in this folder belongs to the client, also with the server, when we create a s&lt;strong&gt;erver&lt;/strong&gt; folder Meteor will considaret that all file in this folder belongs to the server.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Collections&lt;/strong&gt; Metoer use Schema to define collections, when you put them in a folder named **collections  **Meteor will run these files on both side, on the server and the client.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Atmospherejs&lt;/strong&gt; Metoer has a greet community that already built a banch modules that let you kicksatrt your project,&lt;/p&gt;
@@ -794,20 +813,20 @@ defaultExtension: ‘js’
 &lt;p&gt;When the EventEmitter object emits an event, all of the Functions attached to that specific event are called synchronously. Any values returned by the called listeners are ignored and will be discarded.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://nodejs.org/api/events.html&quot;&gt;Ref : nodejs.org&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;To use events in Node we need to include &lt;em&gt;events&lt;/em&gt; module, also we will need &lt;em&gt;util&lt;/em&gt; module for the inherit :&lt;/p&gt;
-&lt;p&gt;[js] var events = require(‘events’), util = require(‘util’); [/js]&lt;/p&gt;
+&lt;p&gt;[js] var events = require(&apos;events&apos;), util = require(&apos;util&apos;); [/js]&lt;/p&gt;
 &lt;p&gt;Then  we init our &lt;em&gt;Observed&lt;/em&gt; object :&lt;/p&gt;
 &lt;p&gt;[js] var Observed = function() {}; [/js]&lt;/p&gt;
 &lt;p&gt;Now we need to inherit &lt;em&gt;EventEmitter&lt;/em&gt; Object from &lt;em&gt;events&lt;/em&gt; module :&lt;/p&gt;
 &lt;p&gt;[js] util.inherits(Observed, events.EventEmitter); [/js]&lt;/p&gt;
 &lt;p&gt;Next, defining our listner :&lt;/p&gt;
-&lt;p&gt;[js] var ob = new Observed(); ob.on(‘data’, function(data) { console.log(data.message); }); [/js]&lt;/p&gt;
+&lt;p&gt;[js] var ob = new Observed(); ob.on(&apos;data&apos;, function(data) { console.log(data.message); }); [/js]&lt;/p&gt;
 &lt;p&gt;To fire the event all what we need is to emit an action :&lt;/p&gt;
-&lt;p&gt;[js] ob.emit(‘data’, { message: “Hello world ! ” }); [/js]&lt;/p&gt;
+&lt;p&gt;[js] ob.emit(&apos;data&apos;, { message: &quot;Hello world ! &quot; }); [/js]&lt;/p&gt;
 &lt;p&gt;Full source :&lt;/p&gt;
-&lt;p&gt;[js] var events = require(‘events’), util = require(‘util’); var Observed = function() {}; var EventEmitter = events.EventEmitter; util.inherits(Observed, events.EventEmitter); var ob = new Observed(); ob.on(‘data’, function(data) { console.log(data.message); }); setTimeout(function() { ob.emit(‘data’, { message: “hello world” }); }, 1000); [/js]&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Presentation - Introduction to ECMAScript 6]]></title><description><![CDATA[ECMAScript 6 reached feature complete status in 2015 was formally dubbed “ECMAScript 2015” and here are some key features.]]></description><link>https://aymen.co/presentation-introduction-to-ecmascript-6/</link><guid isPermaLink="false">https://aymen.co/presentation-introduction-to-ecmascript-6/</guid><pubDate>Wed, 06 Jan 2016 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;ECMAScript 6 reached feature complete status in 2015 was formally dubbed “ECMAScript 2015” and here are some key features.&lt;/p&gt;
-&lt;div class=&quot;gatsby-resp-iframe-wrapper&quot; style=&quot;padding-bottom: 72.91666666666666%; position: relative; height: 0; overflow: hidden; margin-bottom: 1.0725rem&quot; &gt; &lt;iframe src=&quot;//slides.com/labidiaymen/ecmascript6/embed&quot; scrolling=&quot;no&quot; frameborder=&quot;0&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen=&quot;&quot; style=&quot; position: absolute; top: 0; left: 0; width: 100%; height: 100%; &quot;&gt;&lt;/iframe&gt; &lt;/div&gt;</content:encoded></item><item><title><![CDATA[The power of lodash]]></title><description><![CDATA[A JavaScript utility library delivering consistency, modularity, performance, & extras.  - Source : lodash.com In production life, it’s a…]]></description><link>https://aymen.co/the-power-of-lodash/</link><guid isPermaLink="false">https://aymen.co/the-power-of-lodash/</guid><pubDate>Tue, 05 Jan 2016 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;A JavaScript utility library delivering consistency, modularity, performance, &amp;#x26; extras.&lt;/p&gt;
+&lt;p&gt;[js] var events = require(&apos;events&apos;), util = require(&apos;util&apos;); var Observed = function() {}; var EventEmitter = events.EventEmitter; util.inherits(Observed, events.EventEmitter); var ob = new Observed(); ob.on(&apos;data&apos;, function(data) { console.log(data.message); }); setTimeout(function() { ob.emit(&apos;data&apos;, { message: &quot;hello world&quot; }); }, 1000); [/js]&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Presentation - Introduction to ECMAScript 6]]></title><description><![CDATA[ECMAScript 6 reached feature complete status in 2015 was formally dubbed “ECMAScript 2015” and here are some key features.]]></description><link>https://aymen.co/presentation-introduction-to-ecmascript-6/</link><guid isPermaLink="false">https://aymen.co/presentation-introduction-to-ecmascript-6/</guid><pubDate>Wed, 06 Jan 2016 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;ECMAScript 6 reached feature complete status in 2015 was formally dubbed “ECMAScript 2015” and here are some key features.&lt;/p&gt;
+&lt;iframe src=&quot;//slides.com/labidiaymen/ecmascript6/embed&quot; width=&quot;576&quot; height=&quot;420&quot; scrolling=&quot;no&quot; frameborder=&quot;0&quot; webkitallowfullscreen mozallowfullscreen=&quot;&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;</content:encoded></item><item><title><![CDATA[The power of lodash]]></title><description><![CDATA[A JavaScript utility library delivering consistency, modularity, performance, & extras.  - Source : lodash.com In production life, it's a…]]></description><link>https://aymen.co/the-power-of-lodash/</link><guid isPermaLink="false">https://aymen.co/the-power-of-lodash/</guid><pubDate>Tue, 05 Jan 2016 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;A JavaScript utility library delivering consistency, modularity, performance, &amp;#x26; extras.&lt;/p&gt;
 &lt;p&gt; - Source : lodash.com&lt;/p&gt;
-&lt;p&gt;In production life, it’s a waste of time doing what is already done. In javascript we have a pretty cool  library called “Lodash” it’s tiny and smart, let’s see how :&lt;/p&gt;
+&lt;p&gt;In production life, it&apos;s a waste of time doing what is already done. In javascript we have a pretty cool  library called &quot;Lodash&quot; it&apos;s tiny and smart, let&apos;s see how :&lt;/p&gt;
 &lt;p&gt;Example :&lt;/p&gt;
 &lt;p&gt;Really famous routine, removing an element from simple Javascript Array&lt;/p&gt;
 &lt;p&gt;Native javascript :&lt;/p&gt;
@@ -815,42 +834,42 @@ defaultExtension: ‘js’
 &lt;p&gt; With lodash : &lt;/p&gt;
 &lt;p&gt;[js] _.pull(tagContainer ,removedTag); [/js]&lt;/p&gt;
 &lt;p&gt;How about assigning/getting a value to an element using a string as a name/key?&lt;/p&gt;
-&lt;p&gt;[js] var user = {}; _.set(user,‘fullname.name’, ‘Aymen’ ); // get name _.get(user,‘fullname.name’); // Aymen [/js]&lt;/p&gt;
-&lt;p&gt;Download : &lt;a href=&quot;https://lodash.com/&quot;&gt;lodash.com&lt;/a&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Be patient]]></title><description><![CDATA[Have you been thinking to blow the world from the first days when you are trying to start a new project? Ok, let’s get to the point, that’s…]]></description><link>https://aymen.co/be-patient/</link><guid isPermaLink="false">https://aymen.co/be-patient/</guid><pubDate>Wed, 28 Oct 2015 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Have you been thinking to blow the world from the first days when you are trying to start a new project? Ok, let’s get to the point, that’s totally wrong. Normally, if you launch a new project and it has a good support you can make a good pitch at the first days, but after that is you that decide to make it greater or not, your project can’t guide himself, you do that.&lt;/p&gt;
+&lt;p&gt;[js] var user = {}; _.set(user,&apos;fullname.name&apos;, &apos;Aymen&apos; ); // get name _.get(user,&apos;fullname.name&apos;); // Aymen [/js]&lt;/p&gt;
+&lt;p&gt;Download : &lt;a href=&quot;https://lodash.com/&quot;&gt;lodash.com&lt;/a&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Be patient]]></title><description><![CDATA[Have you been thinking to blow the world from the first days when you are trying to start a new project? Ok, let's get to the point, that's…]]></description><link>https://aymen.co/be-patient/</link><guid isPermaLink="false">https://aymen.co/be-patient/</guid><pubDate>Wed, 28 Oct 2015 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Have you been thinking to blow the world from the first days when you are trying to start a new project? Ok, let&apos;s get to the point, that&apos;s totally wrong. Normally, if you launch a new project and it has a good support you can make a good pitch at the first days, but after that is you that decide to make it greater or not, your project can&apos;t guide himself, you do that.&lt;/p&gt;
 &lt;p&gt;So &lt;strong&gt;Be patient&lt;/strong&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[ES6 arrow functions]]></title><description><![CDATA[ES6 come with a new syntax to resolve  several common pain points of traditional Function Expression. ES6  introduce a new shorter…]]></description><link>https://aymen.co/es6-arrow-functions/</link><guid isPermaLink="false">https://aymen.co/es6-arrow-functions/</guid><pubDate>Tue, 20 Oct 2015 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;ES6 come with a new syntax to resolve  several common pain points of traditional Function Expression.&lt;/p&gt;
-&lt;p&gt;ES6  introduce a new shorter syntactical for (&lt;code class=&quot;language-text&quot;&gt;function (x) {}&lt;/code&gt;)&lt;br&gt;
+&lt;p&gt;ES6  introduce a new shorter syntactical for (&lt;code&gt;function (x) {}&lt;/code&gt;)&lt;br&gt;
 &lt;strong&gt;ES5&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;[js]&lt;/p&gt;
-&lt;p&gt;‘use strict’; var numbers = [8, 5, 4, 0] ; numbers.map( function(x) { console.log(x); }); [/js]&lt;/p&gt;
+&lt;p&gt;&apos;use strict&apos;; var numbers = [8, 5, 4, 0] ; numbers.map( function(x) { console.log(x); }); [/js]&lt;/p&gt;
 &lt;p&gt; &lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;ES6&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;[js] ‘use strict’; var numbers = [8, 5, 4, 0] ; numbers.map( (x)=&gt; { console.log(x); }) ; [/js]&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Changing the world]]></title><description><![CDATA[Changing the world, that what each of us say, but how? do we need to start from all over or start from the begin? All these questions come…]]></description><link>https://aymen.co/changing-the-world/</link><guid isPermaLink="false">https://aymen.co/changing-the-world/</guid><pubDate>Mon, 19 Oct 2015 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Changing the world, that what each of us say, but how? do we need to start from all over or start from the begin?&lt;/p&gt;
+&lt;p&gt;[js] &apos;use strict&apos;; var numbers = [8, 5, 4, 0] ; numbers.map( (x)=&gt; { console.log(x); }) ; [/js]&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Changing the world]]></title><description><![CDATA[Changing the world, that what each of us say, but how? do we need to start from all over or start from the begin? All these questions come…]]></description><link>https://aymen.co/changing-the-world/</link><guid isPermaLink="false">https://aymen.co/changing-the-world/</guid><pubDate>Mon, 19 Oct 2015 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Changing the world, that what each of us say, but how? do we need to start from all over or start from the begin?&lt;/p&gt;
 &lt;p&gt;All these questions come to us when we think to start a project we want that is changing the world.&lt;/p&gt;
 &lt;p&gt;But how about start solving the problems that we have in our real life?, or improving an existent one.&lt;/p&gt;
 &lt;p&gt;Responding to this question may clear something and start doing than living inside the loop of thinking.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Start doing today&lt;/strong&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[NODE.JS 4 CLASSES]]></title><description><![CDATA[ES6 classes are not something new, they mainly provide more convenient syntax to create old-school constructor functions. We also use es…]]></description><link>https://aymen.co/node-js-4-classes/</link><guid isPermaLink="false">https://aymen.co/node-js-4-classes/</guid><pubDate>Sun, 18 Oct 2015 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;ES6 classes are not something new, they mainly provide more convenient syntax to create old-school constructor functions.&lt;/p&gt;
 &lt;p&gt;We also use es6 string template in the example :&lt;/p&gt;
-&lt;p&gt;[js] ‘use strict’&lt;/p&gt;
+&lt;p&gt;[js] &apos;use strict&apos;&lt;/p&gt;
 &lt;p&gt;class Person{ constructor(p){ this.name = p.name; this.lastname = p.lastname; }&lt;/p&gt;
 &lt;p&gt;fullName(){ return `${this.name} ${this.lastname}` } }&lt;/p&gt;
-&lt;p&gt;console.log( new Person({ name : “Aymen”, lastname : “Labidi” }).fullName() );&lt;/p&gt;
+&lt;p&gt;console.log( new Person({ name : &quot;Aymen&quot;, lastname : &quot;Labidi&quot; }).fullName() );&lt;/p&gt;
 &lt;p&gt;[/js]&lt;/p&gt;
 &lt;p&gt; &lt;/p&gt;
 &lt;p&gt;  Classic class and subclass example :&lt;/p&gt;
 &lt;p&gt; &lt;/p&gt;
 &lt;p&gt;[js] class Point { constructor(x, y) { this.x = x; this.y = y; } toString() { return `(${this.x}, ${this.y})`; } }&lt;/p&gt;
-&lt;p&gt;class ColorPoint extends Point { constructor(x, y, color) { super(x, y); this.color = color; } toString() { return super.toString() + ’ in ’ + this.color; } } [/js]&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Node.js 4 generators]]></title><description><![CDATA[Node.js version 4 contains V8 v4.5 shipped with a raft of new ES6 features that are enabled by default including block scoping, classes…]]></description><link>https://aymen.co/node-js-4-generators/</link><guid isPermaLink="false">https://aymen.co/node-js-4-generators/</guid><pubDate>Fri, 16 Oct 2015 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Node.js version 4 contains V8 v4.5 shipped with a raft of new ES6 features that are enabled by default including block scoping, classes, typed arrays (Node’s Buffer is now backed by Uint8Array), generators, Promises, Symbols, template strings, collections (Map, Set, etc.) and, new to V8 v4.5, arrow functions.&lt;/p&gt;
+&lt;p&gt;class ColorPoint extends Point { constructor(x, y, color) { super(x, y); this.color = color; } toString() { return super.toString() + &apos; in &apos; + this.color; } } [/js]&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Node.js 4 generators]]></title><description><![CDATA[Node.js version 4 contains V8 v4.5 shipped with a raft of new ES6 features that are enabled by default including block scoping, classes…]]></description><link>https://aymen.co/node-js-4-generators/</link><guid isPermaLink="false">https://aymen.co/node-js-4-generators/</guid><pubDate>Fri, 16 Oct 2015 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Node.js version 4 contains V8 v4.5 shipped with a raft of new ES6 features that are enabled by default including block scoping, classes, typed arrays (Node&apos;s Buffer is now backed by Uint8Array), generators, Promises, Symbols, template strings, collections (Map, Set, etc.) and, new to V8 v4.5, arrow functions.&lt;/p&gt;
 &lt;p&gt;Example of using generators :&lt;/p&gt;
 &lt;p&gt;[js]&lt;/p&gt;
-&lt;p&gt;‘use strict’ var unirest = require(‘unirest’), co = require(‘co’);&lt;/p&gt;
-&lt;p&gt;co(function*(){ console.log(“Start loading &lt;a href=&quot;http://www.google.tn&quot;&gt;www.google.tn&lt;/a&gt;”); yield loadGoogle().then(function(body){ console.log(body); }); console.log(“end”);&lt;/p&gt;
+&lt;p&gt;&apos;use strict&apos; var unirest = require(&apos;unirest&apos;), co = require(&apos;co&apos;);&lt;/p&gt;
+&lt;p&gt;co(function*(){ console.log(&quot;Start loading &lt;a href=&quot;http://www.google.tn&quot;&gt;www.google.tn&lt;/a&gt;&quot;); yield loadGoogle().then(function(body){ console.log(body); }); console.log(&quot;end&quot;);&lt;/p&gt;
 &lt;p&gt;}).catch(function(err){ console.log(err.stack) });&lt;/p&gt;
-&lt;p&gt;function loadGoogle(){ var deffered = Promise.defer(); unirest.get(’&lt;a href=&quot;http://www.google.tn/&quot;&gt;http://www.google.tn/&lt;/a&gt;’) .end(function (response) { if (response.statusCode == 200) { deffered.resolve(response.body); }else{ deffered.reject(err); } }); return deffered.promise; }&lt;/p&gt;
+&lt;p&gt;function loadGoogle(){ var deffered = Promise.defer(); unirest.get(&apos;&lt;a href=&quot;http://www.google.tn/&quot;&gt;http://www.google.tn/&lt;/a&gt;&apos;) .end(function (response) { if (response.statusCode == 200) { deffered.resolve(response.body); }else{ deffered.reject(err); } }); return deffered.promise; }&lt;/p&gt;
 &lt;p&gt;[/js]&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Docteury]]></title><description><![CDATA[Docteury is a medical appointments management platform that searches for practitioner’s contacts in a specific area selected by its users…]]></description><link>https://aymen.co/docteury/</link><guid isPermaLink="false">https://aymen.co/docteury/</guid><pubDate>Thu, 06 Aug 2015 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;strong&gt;Docteury&lt;/strong&gt; is a medical appointments management platform that searches for practitioner’s contacts in a specific area selected by its users allowing them to make appointments online.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;http://www.docteury.tn/&quot;&gt;www.docteury.tn&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;[edsbportman layout_type=“single_project” id=“2” ]&lt;/p&gt;
+&lt;p&gt;[edsbportman layout_type=&quot;single_project&quot; id=&quot;2&quot; ]&lt;/p&gt;
 &lt;p&gt; &lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;For more : &lt;a href=&quot;http://www.docteury.tn/&quot;&gt;www.docteury.tn&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Nodejs.tn]]></title><description><![CDATA[The ”Nodejs Tunisian Community” is a Tunisian community that has been founded for the purpose of sensitizing other Tunisian developers over…]]></description><link>https://aymen.co/nodejs-tn/</link><guid isPermaLink="false">https://aymen.co/nodejs-tn/</guid><pubDate>Thu, 06 Aug 2015 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;The ”&lt;strong&gt;Nodejs Tunisian Community”&lt;/strong&gt; is a Tunisian community that has been founded for the purpose of sensitizing other Tunisian developers over Nodejs’ contribution in the World Wide Web and thus, raise the value of web development in Tunisia&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;For more : &lt;a href=&quot;http://www.docteury.tn/&quot;&gt;www.docteury.tn&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Nodejs.tn]]></title><description><![CDATA[The "Nodejs Tunisian Community" is a Tunisian community that has been founded for the purpose of sensitizing other Tunisian developers over…]]></description><link>https://aymen.co/nodejs-tn/</link><guid isPermaLink="false">https://aymen.co/nodejs-tn/</guid><pubDate>Thu, 06 Aug 2015 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;The &quot;&lt;strong&gt;Nodejs Tunisian Community&quot;&lt;/strong&gt; is a Tunisian community that has been founded for the purpose of sensitizing other Tunisian developers over Nodejs’ contribution in the World Wide Web and thus, raise the value of web development in Tunisia&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;http://www.nodejs.tn/&quot;&gt;www.nodejs.tn&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img src=&quot;https://aymen.co/wp-content/uploads/2016/12/node-js.jpg&quot; alt=&quot;node-js&quot;&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Quit social networks]]></title><description><![CDATA[The social network is a wealth for those who know how to exploit it. I used to collect information and follow the news about technologies. I…]]></description><link>https://aymen.co/quit-social-networks/</link><guid isPermaLink="false">https://aymen.co/quit-social-networks/</guid><pubDate>Wed, 05 Aug 2015 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;The social network is a wealth for those who know how to exploit it. I used to collect information and follow the news about technologies. I had fun sharing some of them. But lastly, what did I get?&lt;/p&gt;
 &lt;p&gt;Certainly, a mind full of information but a mind that can’t focus on one thing.&lt;/p&gt;
@@ -927,7 +946,7 @@ copy.&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;The copy warned the Little Blind Text, that where it came from it would have
 been rewritten a thousand times and everything that was left from its origin
-would be the word “and” and the Little Blind Text should turn around and
+would be the word &quot;and&quot; and the Little Blind Text should turn around and
 return to its own, safe country.&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;But nothing the copy said could convince her and so it didn’t take long until a
@@ -956,19 +975,19 @@ met a copy.&lt;/p&gt;
 &lt;h6&gt;Slapped cozy a that lightheartedly and far&lt;/h6&gt;
 &lt;p&gt;The copy warned the Little Blind Text, that where it came from it would have
 been rewritten a thousand times and everything that was left from its origin
-would be the word “and” and the Little Blind Text should turn around and return
+would be the word &quot;and&quot; and the Little Blind Text should turn around and return
 to its own, safe country. But nothing the copy said could convince her and so it
 didn’t take long until a few insidious Copy Writers ambushed her, made her drunk
 with Longe and Parole and dragged her into their agency, where they abused her
-for their projects again and again.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[My Second Post! 22]]></title><description><![CDATA[Wow! I love blogging so much already. Did you know that “despite its name, salted duck eggs can also be made from
+for their projects again and again.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[My Second Post! 22]]></title><description><![CDATA[Wow! I love blogging so much already. Did you know that "despite its name, salted duck eggs can also be made from
 chicken eggs, though the…]]></description><link>https://aymen.co/my-second-post/</link><guid isPermaLink="false">https://aymen.co/my-second-post/</guid><pubDate>Wed, 06 May 2015 23:46:37 GMT</pubDate><content:encoded>&lt;p&gt;Wow! I love blogging so much already.&lt;/p&gt;
-&lt;p&gt;Did you know that “despite its name, salted duck eggs can also be made from
+&lt;p&gt;Did you know that &quot;despite its name, salted duck eggs can also be made from
 chicken eggs, though the taste and texture will be somewhat different, and the
-egg yolk will be less rich.”?
+egg yolk will be less rich.&quot;?
 (&lt;a href=&quot;https://en.wikipedia.org/wiki/Salted_duck_egg&quot;&gt;Wikipedia Link&lt;/a&gt;)&lt;/p&gt;
-&lt;p&gt;Yeah, I didn’t either.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Hello World]]></title><description><![CDATA[This is my first post on my new fake blog! How exciting! I’m sure I’ll write a lot more interesting things in the future. Oh, and here’s a…]]></description><link>https://aymen.co/hello-world/</link><guid isPermaLink="false">https://aymen.co/hello-world/</guid><pubDate>Fri, 01 May 2015 22:12:03 GMT</pubDate><content:encoded>&lt;p&gt;This is my first post on my new fake blog! How exciting!&lt;/p&gt;
-&lt;p&gt;I’m sure I’ll write a lot more interesting things in the future.&lt;/p&gt;
-&lt;p&gt;Oh, and here’s a great quote from this Wikipedia on
+&lt;p&gt;Yeah, I didn&apos;t either.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Hello World]]></title><description><![CDATA[This is my first post on my new fake blog! How exciting! I'm sure I'll write a lot more interesting things in the future. Oh, and here's a…]]></description><link>https://aymen.co/hello-world/</link><guid isPermaLink="false">https://aymen.co/hello-world/</guid><pubDate>Fri, 01 May 2015 22:12:03 GMT</pubDate><content:encoded>&lt;p&gt;This is my first post on my new fake blog! How exciting!&lt;/p&gt;
+&lt;p&gt;I&apos;m sure I&apos;ll write a lot more interesting things in the future.&lt;/p&gt;
+&lt;p&gt;Oh, and here&apos;s a great quote from this Wikipedia on
 &lt;a href=&quot;https://en.wikipedia.org/wiki/Salted_duck_egg&quot;&gt;salted duck eggs&lt;/a&gt;.&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;A salted duck egg is a Chinese preserved food product made by soaking duck
@@ -979,41 +998,10 @@ wrapped in plastic, and vacuum packed. From the salt curing process, the
 salted duck eggs have a briny aroma, a gelatin-like egg white and a
 firm-textured, round yolk that is bright orange-red in color.&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;&lt;span
-      class=&quot;gatsby-resp-image-wrapper&quot;
-      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
-    &gt;
-      &lt;a
-    class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/8058f3f26913fea3b6a89a73344fe94a/e1596/salty_egg.jpg&quot;
-    style=&quot;display: block&quot;
-    target=&quot;_blank&quot;
-    rel=&quot;noopener&quot;
-  &gt;
-    &lt;span
-    class=&quot;gatsby-resp-image-background-image&quot;
-    style=&quot;padding-bottom: 75.31645569620254%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAPABQDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAMB/8QAFwEAAwEAAAAAAAAAAAAAAAAAAAEEBf/aAAwDAQACEAMQAAABgik0dWC//8QAGRABAAMBAQAAAAAAAAAAAAAAAQACERJC/9oACAEBAAEFAkqW7B5Zovtvk//EABcRAQADAAAAAAAAAAAAAAAAAAAREkH/2gAIAQMBAT8B1WX/xAAWEQEBAQAAAAAAAAAAAAAAAAAAESL/2gAIAQIBAT8BjT//xAAbEAABBAMAAAAAAAAAAAAAAAAAAQIRISIxMv/aAAgBAQAGPwK9GNocyS8hCj//xAAaEAADAQEBAQAAAAAAAAAAAAAAAREhQYGx/9oACAEBAAE/IXOrA43oOyg9wgU86OZMfwZKypT/2gAMAwEAAgADAAAAEMjv/8QAFxEBAQEBAAAAAAAAAAAAAAAAAQARIf/aAAgBAwEBPxARwyusv//EABcRAQEBAQAAAAAAAAAAAAAAAAEAIVH/2gAIAQIBAT8QOoVoX//EAB0QAQEAAgIDAQAAAAAAAAAAAAERADFhgSFB0eH/2gAIAQEAAT8QSpwaGjrBSrtHyF9iY8RpUnGRBGqtOcsiDE6fM3AgiXf5M//Z&apos;); background-size: cover; display: block;&quot;
-  &gt;&lt;/span&gt;
-  &lt;img
-        class=&quot;gatsby-resp-image-image&quot;
-        alt=&quot;Chinese Salty Egg&quot;
-        title=&quot;Chinese Salty Egg&quot;
-        src=&quot;/static/8058f3f26913fea3b6a89a73344fe94a/828fb/salty_egg.jpg&quot;
-        srcset=&quot;/static/8058f3f26913fea3b6a89a73344fe94a/ff44c/salty_egg.jpg 158w,
-/static/8058f3f26913fea3b6a89a73344fe94a/a6688/salty_egg.jpg 315w,
-/static/8058f3f26913fea3b6a89a73344fe94a/828fb/salty_egg.jpg 630w,
-/static/8058f3f26913fea3b6a89a73344fe94a/0ede0/salty_egg.jpg 945w,
-/static/8058f3f26913fea3b6a89a73344fe94a/3ac88/salty_egg.jpg 1260w,
-/static/8058f3f26913fea3b6a89a73344fe94a/e1596/salty_egg.jpg 2048w&quot;
-        sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
-        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
-        loading=&quot;lazy&quot;
-        decoding=&quot;async&quot;
-      /&gt;
-  &lt;/a&gt;
-    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;./salty_egg.jpg&quot; alt=&quot;Chinese Salty Egg&quot;&gt;&lt;/p&gt;
 &lt;p&gt;You can also write code blocks here!&lt;/p&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;js&quot;&gt;&lt;pre class=&quot;language-js&quot;&gt;&lt;code class=&quot;language-js&quot;&gt;&lt;span class=&quot;token keyword&quot;&gt;const&lt;/span&gt; saltyDuckEgg &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&quot;chinese preserved food product&quot;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;pre&gt;&lt;code class=&quot;language-js&quot;&gt;const saltyDuckEgg = &quot;chinese preserved food product&quot;
+&lt;/code&gt;&lt;/pre&gt;
 &lt;table&gt;
 &lt;thead&gt;
 &lt;tr&gt;
@@ -1042,58 +1030,65 @@ firm-textured, round yolk that is bright orange-red in color.&lt;/p&gt;
 &lt;/table&gt;
 &lt;p&gt;&lt;a href=&quot;https://raw.github.com/adamschwartz/github-markdown-kitchen-sink/master/README.md&quot;&gt;View raw (TEST.md)&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;This is a paragraph.&lt;/p&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;This is a paragraph.&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;pre&gt;&lt;code&gt;This is a paragraph.
+&lt;/code&gt;&lt;/pre&gt;
 &lt;h1&gt;Header 1&lt;/h1&gt;
 &lt;h2&gt;Header 2&lt;/h2&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;Header 1
+&lt;pre&gt;&lt;code&gt;Header 1
 ========
 
 Header 2
---------&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+--------
+&lt;/code&gt;&lt;/pre&gt;
 &lt;h1&gt;Header 1&lt;/h1&gt;
 &lt;h2&gt;Header 2&lt;/h2&gt;
 &lt;h3&gt;Header 3&lt;/h3&gt;
 &lt;h4&gt;Header 4&lt;/h4&gt;
 &lt;h5&gt;Header 5&lt;/h5&gt;
 &lt;h6&gt;Header 6&lt;/h6&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;# Header 1
+&lt;pre&gt;&lt;code&gt;# Header 1
 ## Header 2
 ### Header 3
 #### Header 4
 ##### Header 5
-###### Header 6&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+###### Header 6
+&lt;/code&gt;&lt;/pre&gt;
 &lt;h1&gt;Header 1&lt;/h1&gt;
 &lt;h2&gt;Header 2&lt;/h2&gt;
 &lt;h3&gt;Header 3&lt;/h3&gt;
 &lt;h4&gt;Header 4&lt;/h4&gt;
 &lt;h5&gt;Header 5&lt;/h5&gt;
 &lt;h6&gt;Header 6&lt;/h6&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;# Header 1 #
+&lt;pre&gt;&lt;code&gt;# Header 1 #
 ## Header 2 ##
 ### Header 3 ###
 #### Header 4 ####
 ##### Header 5 #####
-###### Header 6 ######&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+###### Header 6 ######
+&lt;/code&gt;&lt;/pre&gt;
 &lt;blockquote&gt;
 &lt;p&gt;Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aliquam hendrerit mi posuere lectus. Vestibulum enim wisi, viverra nec, fringilla in, laoreet vitae, risus.&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;&gt; Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aliquam hendrerit mi posuere lectus. Vestibulum enim wisi, viverra nec, fringilla in, laoreet vitae, risus.&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;pre&gt;&lt;code&gt;&gt; Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aliquam hendrerit mi posuere lectus. Vestibulum enim wisi, viverra nec, fringilla in, laoreet vitae, risus.
+&lt;/code&gt;&lt;/pre&gt;
 &lt;blockquote&gt;
 &lt;h2&gt;This is a header.&lt;/h2&gt;
 &lt;ol&gt;
 &lt;li&gt;This is the first list item.&lt;/li&gt;
 &lt;li&gt;This is the second list item.&lt;/li&gt;
 &lt;/ol&gt;
-&lt;p&gt;Here’s some example code:&lt;/p&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;Markdown.generate();&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;Here&apos;s some example code:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;Markdown.generate();
+&lt;/code&gt;&lt;/pre&gt;
 &lt;/blockquote&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;&gt; ## This is a header.
+&lt;pre&gt;&lt;code&gt;&gt; ## This is a header.
 &gt; 1. This is the first list item.
 &gt; 2. This is the second list item.
 &gt;
 &gt; Here&apos;s some example code:
 &gt;
-&gt;     Markdown.generate();&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&gt;     Markdown.generate();
+&lt;/code&gt;&lt;/pre&gt;
 &lt;ul&gt;
 &lt;li&gt;Red&lt;/li&gt;
 &lt;li&gt;Green&lt;/li&gt;
@@ -1109,49 +1104,55 @@ Header 2
 &lt;li&gt;Green&lt;/li&gt;
 &lt;li&gt;Blue&lt;/li&gt;
 &lt;/ul&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;markdown&quot;&gt;&lt;pre class=&quot;language-markdown&quot;&gt;&lt;code class=&quot;language-markdown&quot;&gt;&lt;span class=&quot;token list punctuation&quot;&gt;-&lt;/span&gt; Red
-&lt;span class=&quot;token list punctuation&quot;&gt;-&lt;/span&gt; Green
-&lt;span class=&quot;token list punctuation&quot;&gt;-&lt;/span&gt; Blue
+&lt;pre&gt;&lt;code class=&quot;language-markdown&quot;&gt;- Red
+- Green
+- Blue
 
-&lt;span class=&quot;token list punctuation&quot;&gt;*&lt;/span&gt; Red
-&lt;span class=&quot;token list punctuation&quot;&gt;*&lt;/span&gt; Green
-&lt;span class=&quot;token list punctuation&quot;&gt;*&lt;/span&gt; Blue
+* Red
+* Green
+* Blue
 
-&lt;span class=&quot;token list punctuation&quot;&gt;-&lt;/span&gt; Red
-&lt;span class=&quot;token list punctuation&quot;&gt;-&lt;/span&gt; Green
-&lt;span class=&quot;token list punctuation&quot;&gt;-&lt;/span&gt; Blue&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+- Red
+- Green
+- Blue
+&lt;/code&gt;&lt;/pre&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;code class=&quot;language-text&quot;&gt;code goes&lt;/code&gt; here in this line&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;code goes&lt;/code&gt; here in this line&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;bold&lt;/strong&gt; goes here&lt;/li&gt;
 &lt;/ul&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;markdown&quot;&gt;&lt;pre class=&quot;language-markdown&quot;&gt;&lt;code class=&quot;language-markdown&quot;&gt;&lt;span class=&quot;token list punctuation&quot;&gt;-&lt;/span&gt; &lt;span class=&quot;token code-snippet code keyword&quot;&gt;`code goes`&lt;/span&gt; here in this line
-&lt;span class=&quot;token list punctuation&quot;&gt;-&lt;/span&gt; &lt;span class=&quot;token bold&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;**&lt;/span&gt;&lt;span class=&quot;token content&quot;&gt;bold&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;**&lt;/span&gt;&lt;/span&gt; goes here&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;pre&gt;&lt;code class=&quot;language-markdown&quot;&gt;- `code goes` here in this line
+- **bold** goes here
+&lt;/code&gt;&lt;/pre&gt;
 &lt;ol&gt;
 &lt;li&gt;Buy flour and salt&lt;/li&gt;
 &lt;li&gt;Mix together with water&lt;/li&gt;
 &lt;li&gt;Bake&lt;/li&gt;
 &lt;/ol&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;markdown&quot;&gt;&lt;pre class=&quot;language-markdown&quot;&gt;&lt;code class=&quot;language-markdown&quot;&gt;&lt;span class=&quot;token list punctuation&quot;&gt;1.&lt;/span&gt; Buy flour and salt
-&lt;span class=&quot;token list punctuation&quot;&gt;1.&lt;/span&gt; Mix together with water
-&lt;span class=&quot;token list punctuation&quot;&gt;1.&lt;/span&gt; Bake&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;pre&gt;&lt;code class=&quot;language-markdown&quot;&gt;1. Buy flour and salt
+1. Mix together with water
+1. Bake
+&lt;/code&gt;&lt;/pre&gt;
 &lt;ol&gt;
-&lt;li&gt;&lt;code class=&quot;language-text&quot;&gt;code goes&lt;/code&gt; here in this line&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;code goes&lt;/code&gt; here in this line&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;bold&lt;/strong&gt; goes here&lt;/li&gt;
 &lt;/ol&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;markdown&quot;&gt;&lt;pre class=&quot;language-markdown&quot;&gt;&lt;code class=&quot;language-markdown&quot;&gt;&lt;span class=&quot;token list punctuation&quot;&gt;1.&lt;/span&gt; &lt;span class=&quot;token code-snippet code keyword&quot;&gt;`code goes`&lt;/span&gt; here in this line
-&lt;span class=&quot;token list punctuation&quot;&gt;1.&lt;/span&gt; &lt;span class=&quot;token bold&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;**&lt;/span&gt;&lt;span class=&quot;token content&quot;&gt;bold&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;**&lt;/span&gt;&lt;/span&gt; goes here&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;pre&gt;&lt;code class=&quot;language-markdown&quot;&gt;1. `code goes` here in this line
+1. **bold** goes here
+&lt;/code&gt;&lt;/pre&gt;
 &lt;p&gt;Paragraph:&lt;/p&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;Code&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;pre&gt;&lt;code&gt;Code
+&lt;/code&gt;&lt;/pre&gt;
 &lt;!-- --&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;Paragraph:
+&lt;pre&gt;&lt;code&gt;Paragraph:
 
-    Code&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+    Code
+&lt;/code&gt;&lt;/pre&gt;
 &lt;hr&gt;
 &lt;hr&gt;
 &lt;hr&gt;
 &lt;hr&gt;
 &lt;hr&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;* * *
+&lt;pre&gt;&lt;code&gt;* * *
 
 ***
 
@@ -1159,32 +1160,37 @@ Header 2
 
 - - -
 
----------------------------------------&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+---------------------------------------
+&lt;/code&gt;&lt;/pre&gt;
 &lt;p&gt;This is &lt;a href=&quot;http://example.com&quot; title=&quot;Example&quot;&gt;an example&lt;/a&gt; link.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;http://example.com&quot;&gt;This link&lt;/a&gt; has no title attr.&lt;/p&gt;
 &lt;p&gt;This is &lt;a href=&quot;http://example.com&quot; title=&quot;Optional Title&quot;&gt;an example&lt;/a&gt; reference-style link.&lt;/p&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;This is [an example](http://example.com &quot;Example&quot;) link.
+&lt;pre&gt;&lt;code&gt;This is [an example](http://example.com &quot;Example&quot;) link.
 
 [This link](http://example.com) has no title attr.
 
 This is [an example] [id] reference-style link.
 
-[id]: http://example.com &quot;Optional Title&quot;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+[id]: http://example.com &quot;Optional Title&quot;
+&lt;/code&gt;&lt;/pre&gt;
 &lt;p&gt;&lt;em&gt;single asterisks&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;single underscores&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;double asterisks&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;double underscores&lt;/strong&gt;&lt;/p&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;*single asterisks*
+&lt;pre&gt;&lt;code&gt;*single asterisks*
 
 _single underscores_
 
 **double asterisks**
 
-__double underscores__&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;p&gt;This paragraph has some &lt;code class=&quot;language-text&quot;&gt;code&lt;/code&gt; in it.&lt;/p&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;This paragraph has some `code` in it.&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+__double underscores__
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;This paragraph has some &lt;code&gt;code&lt;/code&gt; in it.&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;This paragraph has some `code` in it.
+&lt;/code&gt;&lt;/pre&gt;
 &lt;p&gt;&lt;img src=&quot;https://placehold.it/200x50&quot; alt=&quot;Alt Text&quot; title=&quot;Image Title&quot;&gt;&lt;/p&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;![Alt Text](https://placehold.it/200x50 &quot;Image Title&quot;)&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</content:encoded></item><item><title><![CDATA[Script.tn]]></title><description><![CDATA[Script.tn is an online code editor let you run node.js or javascript snippet in your browser and require() any package from npm directly…]]></description><link>https://aymen.co/script-tn/</link><guid isPermaLink="false">https://aymen.co/script-tn/</guid><pubDate>Fri, 06 Feb 2015 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Script.tn is an online code editor let you run node.js or javascript snippet in your browser and require() any package from npm directly, without installing.&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;![Alt Text](https://placehold.it/200x50 &quot;Image Title&quot;)
+&lt;/code&gt;&lt;/pre&gt;</content:encoded></item><item><title><![CDATA[Script.tn]]></title><description><![CDATA[Script.tn is an online code editor let you run node.js or javascript snippet in your browser and require() any package from npm directly…]]></description><link>https://aymen.co/script-tn/</link><guid isPermaLink="false">https://aymen.co/script-tn/</guid><pubDate>Fri, 06 Feb 2015 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Script.tn is an online code editor let you run node.js or javascript snippet in your browser and require() any package from npm directly, without installing.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;http://script.tn&quot;&gt;http://script.tn&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img src=&quot;https://aymen.co/wp-content/uploads/2016/12/script-tn.jpg&quot; alt=&quot;script.tn_&quot;&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Hire me]]></title><description><![CDATA[get-in-touch-kitchenetDo you have an idea for an innovative startup? Don’t start alone, Vaulab is here to help you! So feel free to contact…]]></description><link>https://aymen.co/get-in-touch/</link><guid isPermaLink="false">https://aymen.co/get-in-touch/</guid><pubDate>Wed, 21 Jan 2015 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;img src=&quot;https://aymen.co/cn/uploads/2017/01/get-in-touch-kitchenet-300x252.png&quot; alt=&quot;get-in-touch-kitchenet&quot;&gt;Do you have an idea for an innovative startup?&lt;/p&gt;
 &lt;p&gt;Don’t start alone, &lt;a href=&quot;https://vaulab.com/&quot;&gt;&lt;strong&gt;Vaulab&lt;/strong&gt;&lt;/a&gt; is here to help you!&lt;/p&gt;
