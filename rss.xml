@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Gatsby Starter Blog RSS Feed]]></title><description><![CDATA[A starter blog demonstrating what Gatsby can do.]]></description><link>https://aymen.co</link><generator>GatsbyJS</generator><lastBuildDate>Thu, 09 Jun 2022 15:51:13 GMT</lastBuildDate><item><title><![CDATA[No title]]></title><link>https://aymen.co/angular-standalone-components/</link><guid isPermaLink="false">https://aymen.co/angular-standalone-components/</guid><content:encoded>&lt;!-- ---
-title: &quot;Angular 14: Standalone components&quot;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Gatsby Starter Blog RSS Feed]]></title><description><![CDATA[A starter blog demonstrating what Gatsby can do.]]></description><link>https://aymen.co</link><generator>GatsbyJS</generator><lastBuildDate>Mon, 13 Jun 2022 21:29:24 GMT</lastBuildDate><item><title><![CDATA[No title]]></title><link>https://aymen.co/ecmascript/2022/</link><guid isPermaLink="false">https://aymen.co/ecmascript/2022/</guid><content:encoded>&lt;!-- ---
+title: &quot;ECMAScript 2022&quot;
 author: &quot;Aymen&quot;
-date: &quot;2022-06-12&quot;
+date: &quot;2022-06-183&quot;
 categories:
   - javascript
   - angular
@@ -9,15 +9,493 @@ tags: &quot;&quot;
 cover: ../images/angular-standalone-component.PNG
 ---
 
-## Introduction
-
-lorem ipsum lorem ipsumlorem ipsumlorem ipsumlorem ipsumlorem ipsumlorem ipsumlorem ipsumlorem ipsumlorem ipsumlorem ipsumlorem ipsumlorem ipsumlorem ipsumlorem ipsumlorem ipsumlorem ipsumlorem ipsumlorem ipsumlorem ipsumlorem ipsumlorem ipsumlorem ipsumlorem ipsumlorem ipsumlorem ipsumlorem ipsumlorem ipsumlorem ipsumlorem ipsumlorem ipsumlorem ipsumlorem ipsum --&gt;</content:encoded></item><item><title><![CDATA[What you need to know about Tech Job in Tunisia]]></title><description><![CDATA[I start my career like the majority of the developers as a freelancer, and after a good amount of projects, I start building a Team, after…]]></description><link>https://aymen.co/Invalid DateTime-/</link><guid isPermaLink="false">https://aymen.co/Invalid DateTime-/</guid><pubDate>Invalid Date</pubDate><content:encoded>&lt;p&gt;I start my career like the majority of the developers as a freelancer, and after a good amount of projects, I start building a Team, after that, I look forward and I started a Startup, Why? simply to put up the good culture that I didn&apos;t find in any company that I worked for.&lt;/p&gt;
+## --&gt;</content:encoded></item><item><title><![CDATA[What you need to know about Tech Job in Tunisia]]></title><description><![CDATA[I start my career like the majority of the developers as a freelancer, and after a good amount of projects, I start building a Team, after…]]></description><link>https://aymen.co/Invalid DateTime-/</link><guid isPermaLink="false">https://aymen.co/Invalid DateTime-/</guid><pubDate>Invalid Date</pubDate><content:encoded>&lt;p&gt;I start my career like the majority of the developers as a freelancer, and after a good amount of projects, I start building a Team, after that, I look forward and I started a Startup, Why? simply to put up the good culture that I didn&apos;t find in any company that I worked for.&lt;/p&gt;
 &lt;p&gt;After I start my consulting journey, I start working for companies in their office and manage my Team remotely, and It was very hard at first Then I get used to and everything goes right.&lt;/p&gt;
 &lt;p&gt;BUT and that&apos;s a big BUT, when you make a good culture at your Startup and you enter another culture, you need to adapt to their culture and it&apos;s been OK.&lt;/p&gt;
 &lt;p&gt;BUT, this another big BUT, how about if you start working with a very good and supportive CTO and a bad manager that trait the peoples working in his open space as machine working in specific hours, and make people fear of contacting him when seeking information. I&apos;ve been OK  and I didn&apos;t have an issue communication with him.&lt;/p&gt;
 &lt;p&gt;Let&apos;s take a step back. I said a supportive CTO and a BAD manager.&lt;/p&gt;
 &lt;p&gt;For me, I always participate in the respectful conversation, other than that I cut off any direct conversion and ask the other parts to start a title thread with the subject and the CTO in it, here you can start a respectful conversation and start discussing the subject, like that you did get your respect and continue your challenge with the good CTO, because we can&apos;t find everything like we what, sometimes we need to adapt.&lt;/p&gt;
-&lt;p&gt;how about you? how you will manage this situation?&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Angular 14: CLI Auto completion]]></title><description><![CDATA[Introduction As Front-end Architect, choosing the right Framework can impact the whole company even the group, that’s why we choose…]]></description><link>https://aymen.co/angular-cli-auto-completion/</link><guid isPermaLink="false">https://aymen.co/angular-cli-auto-completion/</guid><pubDate>Sun, 12 Jun 2022 00:00:00 GMT</pubDate><content:encoded>&lt;h2&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;how about you? how you will manage this situation?&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Angular 14: Standalone components]]></title><description><![CDATA[At ReactConfg 2018 Event, Dan Abramov explained the Logo of React, he said that the user interface can be splitted into a small independent…]]></description><link>https://aymen.co/angular-standalone-components/</link><guid isPermaLink="false">https://aymen.co/angular-standalone-components/</guid><pubDate>Mon, 13 Jun 2022 00:00:00 GMT</pubDate><content:encoded>&lt;h2&gt;&lt;/h2&gt;
+&lt;p&gt;At ReactConfg 2018 Event, Dan Abramov explained the Logo of React, he said that the user interface can be splitted into a small independent units called components - similar to an Atom - and they will focus, in the next few years, on Hooks: “Electrons” as he named them.&lt;/p&gt;
+&lt;p&gt;On the other side of the Javascript world, Angular started focusing on smaller units as Component, Directive and Pipes rather than modules.&lt;/p&gt;
+&lt;p&gt;Starting from Angular 14, Components can be standalone and imported into modules or other components without the need for a dedicated module.&lt;/p&gt;
+&lt;h2&gt;Standalone Component in Action.&lt;/h2&gt;
+&lt;p&gt;To test this feature, I created a blank project and activated the routing option.&lt;/p&gt;
+&lt;p&gt;Then, I created a basic component &lt;code&gt;UserDetailComponent &lt;/code&gt; , the metadata looks like the following.&lt;/p&gt;
+&lt;p&gt;&lt;div id=&quot;gist116763322&quot; class=&quot;gist&quot;&gt;
+    &lt;div class=&quot;gist-file&quot; translate=&quot;no&quot;&gt;
+      &lt;div class=&quot;gist-data&quot;&gt;
+        &lt;div class=&quot;js-gist-file-update-container js-task-list-container file-box&quot;&gt;
+  &lt;div id=&quot;file-standalone-component-ts&quot; class=&quot;file my-2&quot;&gt;
+    
+    &lt;div itemprop=&quot;text&quot; class=&quot;Box-body p-0 blob-wrapper data type-typescript  &quot;&gt;
+
+        
+&lt;div class=&quot;js-check-bidi js-blob-code-container blob-code-content&quot;&gt;
+
+  &lt;template class=&quot;js-file-alert-template&quot;&gt;
+  &lt;div data-view-component=&quot;true&quot; class=&quot;flash flash-warn flash-full d-flex flex-items-center&quot;&gt;
+  &lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; viewBox=&quot;0 0 16 16&quot; version=&quot;1.1&quot; width=&quot;16&quot; data-view-component=&quot;true&quot; class=&quot;octicon octicon-alert&quot;&gt;
+    &lt;path fill-rule=&quot;evenodd&quot; d=&quot;M8.22 1.754a.25.25 0 00-.44 0L1.698 13.132a.25.25 0 00.22.368h12.164a.25.25 0 00.22-.368L8.22 1.754zm-1.763-.707c.659-1.234 2.427-1.234 3.086 0l6.082 11.378A1.75 1.75 0 0114.082 15H1.918a1.75 1.75 0 01-1.543-2.575L6.457 1.047zM9 11a1 1 0 11-2 0 1 1 0 012 0zm-.25-5.25a.75.75 0 00-1.5 0v2.5a.75.75 0 001.5 0v-2.5z&quot;&gt;&lt;/path&gt;
+&lt;/svg&gt;
+  
+    &lt;span&gt;
+      This file contains bidirectional Unicode text that may be interpreted or compiled differently than what appears below. To review, open the file in an editor that reveals hidden Unicode characters.
+      &lt;a href=&quot;https://github.co/hiddenchars&quot; target=&quot;_blank&quot;&gt;Learn more about bidirectional Unicode characters&lt;/a&gt;
+    &lt;/span&gt;
+
+
+  &lt;div data-view-component=&quot;true&quot; class=&quot;flash-action&quot;&gt;      &lt;a href=&quot;{{ revealButtonHref }}&quot; data-view-component=&quot;true&quot; class=&quot;btn-sm btn&quot;&gt;  Show hidden characters
+  
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;/template&gt;
+&lt;template class=&quot;js-line-alert-template&quot;&gt;
+  &lt;span aria-label=&quot;This line has hidden Unicode characters&quot; data-view-component=&quot;true&quot; class=&quot;line-alert tooltipped tooltipped-e&quot;&gt;
+    &lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; viewBox=&quot;0 0 16 16&quot; version=&quot;1.1&quot; width=&quot;16&quot; data-view-component=&quot;true&quot; class=&quot;octicon octicon-alert&quot;&gt;
+    &lt;path fill-rule=&quot;evenodd&quot; d=&quot;M8.22 1.754a.25.25 0 00-.44 0L1.698 13.132a.25.25 0 00.22.368h12.164a.25.25 0 00.22-.368L8.22 1.754zm-1.763-.707c.659-1.234 2.427-1.234 3.086 0l6.082 11.378A1.75 1.75 0 0114.082 15H1.918a1.75 1.75 0 01-1.543-2.575L6.457 1.047zM9 11a1 1 0 11-2 0 1 1 0 012 0zm-.25-5.25a.75.75 0 00-1.5 0v2.5a.75.75 0 001.5 0v-2.5z&quot;&gt;&lt;/path&gt;
+&lt;/svg&gt;
+&lt;/span&gt;&lt;/template&gt;
+
+  &lt;table class=&quot;highlight tab-size js-file-line-container js-code-nav-container js-tagsearch-file&quot; data-tab-size=&quot;8&quot; data-paste-markdown-skip data-tagsearch-lang=&quot;TypeScript&quot; data-tagsearch-path=&quot;standalone-component.ts&quot;&gt;
+        &lt;tr&gt;
+          &lt;td id=&quot;file-standalone-component-ts-L1&quot; class=&quot;blob-num js-line-number js-code-nav-line-number js-blob-rnum&quot; data-line-number=&quot;1&quot;&gt;&lt;/td&gt;
+          &lt;td id=&quot;file-standalone-component-ts-LC1&quot; class=&quot;blob-code blob-code-inner js-file-line&quot;&gt;...&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+          &lt;td id=&quot;file-standalone-component-ts-L2&quot; class=&quot;blob-num js-line-number js-code-nav-line-number js-blob-rnum&quot; data-line-number=&quot;2&quot;&gt;&lt;/td&gt;
+          &lt;td id=&quot;file-standalone-component-ts-LC2&quot; class=&quot;blob-code blob-code-inner js-file-line&quot;&gt;@&lt;span class=pl-smi&gt;Component&lt;/span&gt;&lt;span class=pl-kos&gt;(&lt;/span&gt;&lt;span class=pl-kos&gt;{&lt;/span&gt;&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+          &lt;td id=&quot;file-standalone-component-ts-L3&quot; class=&quot;blob-num js-line-number js-code-nav-line-number js-blob-rnum&quot; data-line-number=&quot;3&quot;&gt;&lt;/td&gt;
+          &lt;td id=&quot;file-standalone-component-ts-LC3&quot; class=&quot;blob-code blob-code-inner js-file-line&quot;&gt;  &lt;span class=pl-c1&gt;selector&lt;/span&gt;: &lt;span class=pl-s&gt;&amp;#39;app-user-detail&amp;#39;&lt;/span&gt;&lt;span class=pl-kos&gt;,&lt;/span&gt;&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+          &lt;td id=&quot;file-standalone-component-ts-L4&quot; class=&quot;blob-num js-line-number js-code-nav-line-number js-blob-rnum&quot; data-line-number=&quot;4&quot;&gt;&lt;/td&gt;
+          &lt;td id=&quot;file-standalone-component-ts-LC4&quot; class=&quot;blob-code blob-code-inner js-file-line&quot;&gt;  &lt;span class=pl-c1&gt;templateUrl&lt;/span&gt;: &lt;span class=pl-s&gt;&amp;#39;./user-detail.component.html&amp;#39;&lt;/span&gt;&lt;span class=pl-kos&gt;,&lt;/span&gt;&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+          &lt;td id=&quot;file-standalone-component-ts-L5&quot; class=&quot;blob-num js-line-number js-code-nav-line-number js-blob-rnum&quot; data-line-number=&quot;5&quot;&gt;&lt;/td&gt;
+          &lt;td id=&quot;file-standalone-component-ts-LC5&quot; class=&quot;blob-code blob-code-inner js-file-line&quot;&gt;  &lt;span class=pl-c1&gt;styleUrls&lt;/span&gt;: &lt;span class=pl-kos&gt;[&lt;/span&gt;&lt;span class=pl-s&gt;&amp;#39;./user-detail.component.css&amp;#39;&lt;/span&gt;&lt;span class=pl-kos&gt;]&lt;/span&gt;&lt;span class=pl-kos&gt;,&lt;/span&gt;&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+          &lt;td id=&quot;file-standalone-component-ts-L6&quot; class=&quot;blob-num js-line-number js-code-nav-line-number js-blob-rnum&quot; data-line-number=&quot;6&quot;&gt;&lt;/td&gt;
+          &lt;td id=&quot;file-standalone-component-ts-LC6&quot; class=&quot;blob-code blob-code-inner js-file-line&quot;&gt;&lt;span class=pl-kos&gt;}&lt;/span&gt;&lt;span class=pl-kos&gt;)&lt;/span&gt;&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+          &lt;td id=&quot;file-standalone-component-ts-L7&quot; class=&quot;blob-num js-line-number js-code-nav-line-number js-blob-rnum&quot; data-line-number=&quot;7&quot;&gt;&lt;/td&gt;
+          &lt;td id=&quot;file-standalone-component-ts-LC7&quot; class=&quot;blob-code blob-code-inner js-file-line&quot;&gt;...&lt;/td&gt;
+        &lt;/tr&gt;
+  &lt;/table&gt;
+&lt;/div&gt;
+
+
+    &lt;/div&gt;
+
+  &lt;/div&gt;
+&lt;/div&gt;
+
+      &lt;/div&gt;
+      &lt;div class=&quot;gist-meta&quot;&gt;
+        &lt;a href=&quot;https://gist.github.com/labidiaymen/2dd68d910b2d68e230ee15d2b66964ea/raw/4b7d754667a56bd5321100f28913f5b8d41ba9db/standalone-component.ts&quot; style=&quot;float:right&quot;&gt;view raw&lt;/a&gt;
+        &lt;a href=&quot;https://gist.github.com/labidiaymen/2dd68d910b2d68e230ee15d2b66964ea#file-standalone-component-ts&quot;&gt;
+          standalone-component.ts
+        &lt;/a&gt;
+        hosted with &amp;#10084; by &lt;a href=&quot;https://github.com&quot;&gt;GitHub&lt;/a&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;&lt;/p&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p&gt;Then, created a service for the User.
+For the sake of the demo, this service is not provided in the root &lt;code&gt;providedIn: &apos;root&apos;&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;div id=&quot;gist116750988&quot; class=&quot;gist&quot;&gt;
+    &lt;div class=&quot;gist-file&quot; translate=&quot;no&quot;&gt;
+      &lt;div class=&quot;gist-data&quot;&gt;
+        &lt;div class=&quot;js-gist-file-update-container js-task-list-container file-box&quot;&gt;
+  &lt;div id=&quot;file-user-service-ts&quot; class=&quot;file my-2&quot;&gt;
+    
+    &lt;div itemprop=&quot;text&quot; class=&quot;Box-body p-0 blob-wrapper data type-typescript  &quot;&gt;
+
+        
+&lt;div class=&quot;js-check-bidi js-blob-code-container blob-code-content&quot;&gt;
+
+  &lt;template class=&quot;js-file-alert-template&quot;&gt;
+  &lt;div data-view-component=&quot;true&quot; class=&quot;flash flash-warn flash-full d-flex flex-items-center&quot;&gt;
+  &lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; viewBox=&quot;0 0 16 16&quot; version=&quot;1.1&quot; width=&quot;16&quot; data-view-component=&quot;true&quot; class=&quot;octicon octicon-alert&quot;&gt;
+    &lt;path fill-rule=&quot;evenodd&quot; d=&quot;M8.22 1.754a.25.25 0 00-.44 0L1.698 13.132a.25.25 0 00.22.368h12.164a.25.25 0 00.22-.368L8.22 1.754zm-1.763-.707c.659-1.234 2.427-1.234 3.086 0l6.082 11.378A1.75 1.75 0 0114.082 15H1.918a1.75 1.75 0 01-1.543-2.575L6.457 1.047zM9 11a1 1 0 11-2 0 1 1 0 012 0zm-.25-5.25a.75.75 0 00-1.5 0v2.5a.75.75 0 001.5 0v-2.5z&quot;&gt;&lt;/path&gt;
+&lt;/svg&gt;
+  
+    &lt;span&gt;
+      This file contains bidirectional Unicode text that may be interpreted or compiled differently than what appears below. To review, open the file in an editor that reveals hidden Unicode characters.
+      &lt;a href=&quot;https://github.co/hiddenchars&quot; target=&quot;_blank&quot;&gt;Learn more about bidirectional Unicode characters&lt;/a&gt;
+    &lt;/span&gt;
+
+
+  &lt;div data-view-component=&quot;true&quot; class=&quot;flash-action&quot;&gt;      &lt;a href=&quot;{{ revealButtonHref }}&quot; data-view-component=&quot;true&quot; class=&quot;btn-sm btn&quot;&gt;  Show hidden characters
+  
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;/template&gt;
+&lt;template class=&quot;js-line-alert-template&quot;&gt;
+  &lt;span aria-label=&quot;This line has hidden Unicode characters&quot; data-view-component=&quot;true&quot; class=&quot;line-alert tooltipped tooltipped-e&quot;&gt;
+    &lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; viewBox=&quot;0 0 16 16&quot; version=&quot;1.1&quot; width=&quot;16&quot; data-view-component=&quot;true&quot; class=&quot;octicon octicon-alert&quot;&gt;
+    &lt;path fill-rule=&quot;evenodd&quot; d=&quot;M8.22 1.754a.25.25 0 00-.44 0L1.698 13.132a.25.25 0 00.22.368h12.164a.25.25 0 00.22-.368L8.22 1.754zm-1.763-.707c.659-1.234 2.427-1.234 3.086 0l6.082 11.378A1.75 1.75 0 0114.082 15H1.918a1.75 1.75 0 01-1.543-2.575L6.457 1.047zM9 11a1 1 0 11-2 0 1 1 0 012 0zm-.25-5.25a.75.75 0 00-1.5 0v2.5a.75.75 0 001.5 0v-2.5z&quot;&gt;&lt;/path&gt;
+&lt;/svg&gt;
+&lt;/span&gt;&lt;/template&gt;
+
+  &lt;table class=&quot;highlight tab-size js-file-line-container js-code-nav-container js-tagsearch-file&quot; data-tab-size=&quot;8&quot; data-paste-markdown-skip data-tagsearch-lang=&quot;TypeScript&quot; data-tagsearch-path=&quot;user.service.ts&quot;&gt;
+        &lt;tr&gt;
+          &lt;td id=&quot;file-user-service-ts-L1&quot; class=&quot;blob-num js-line-number js-code-nav-line-number js-blob-rnum&quot; data-line-number=&quot;1&quot;&gt;&lt;/td&gt;
+          &lt;td id=&quot;file-user-service-ts-LC1&quot; class=&quot;blob-code blob-code-inner js-file-line&quot;&gt;&lt;span class=pl-k&gt;import&lt;/span&gt; &lt;span class=pl-kos&gt;{&lt;/span&gt; &lt;span class=pl-smi&gt;Injectable&lt;/span&gt; &lt;span class=pl-kos&gt;}&lt;/span&gt; &lt;span class=pl-k&gt;from&lt;/span&gt; &lt;span class=pl-s&gt;&amp;#39;@angular/core&amp;#39;&lt;/span&gt;&lt;span class=pl-kos&gt;;&lt;/span&gt;&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+          &lt;td id=&quot;file-user-service-ts-L2&quot; class=&quot;blob-num js-line-number js-code-nav-line-number js-blob-rnum&quot; data-line-number=&quot;2&quot;&gt;&lt;/td&gt;
+          &lt;td id=&quot;file-user-service-ts-LC2&quot; class=&quot;blob-code blob-code-inner js-file-line&quot;&gt;
+&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+          &lt;td id=&quot;file-user-service-ts-L3&quot; class=&quot;blob-num js-line-number js-code-nav-line-number js-blob-rnum&quot; data-line-number=&quot;3&quot;&gt;&lt;/td&gt;
+          &lt;td id=&quot;file-user-service-ts-LC3&quot; class=&quot;blob-code blob-code-inner js-file-line&quot;&gt;@&lt;span class=pl-smi&gt;Injectable&lt;/span&gt;&lt;span class=pl-kos&gt;(&lt;/span&gt;&lt;span class=pl-kos&gt;)&lt;/span&gt;&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+          &lt;td id=&quot;file-user-service-ts-L4&quot; class=&quot;blob-num js-line-number js-code-nav-line-number js-blob-rnum&quot; data-line-number=&quot;4&quot;&gt;&lt;/td&gt;
+          &lt;td id=&quot;file-user-service-ts-LC4&quot; class=&quot;blob-code blob-code-inner js-file-line&quot;&gt;&lt;span class=pl-k&gt;export&lt;/span&gt; &lt;span class=pl-k&gt;class&lt;/span&gt; &lt;span class=pl-smi&gt;UserService&lt;/span&gt; &lt;span class=pl-kos&gt;{&lt;/span&gt;&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+          &lt;td id=&quot;file-user-service-ts-L5&quot; class=&quot;blob-num js-line-number js-code-nav-line-number js-blob-rnum&quot; data-line-number=&quot;5&quot;&gt;&lt;/td&gt;
+          &lt;td id=&quot;file-user-service-ts-LC5&quot; class=&quot;blob-code blob-code-inner js-file-line&quot;&gt;  &lt;span class=pl-en&gt;constructor&lt;/span&gt;&lt;span class=pl-kos&gt;(&lt;/span&gt;&lt;span class=pl-kos&gt;)&lt;/span&gt; &lt;span class=pl-kos&gt;{&lt;/span&gt;&lt;span class=pl-kos&gt;}&lt;/span&gt;&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+          &lt;td id=&quot;file-user-service-ts-L6&quot; class=&quot;blob-num js-line-number js-code-nav-line-number js-blob-rnum&quot; data-line-number=&quot;6&quot;&gt;&lt;/td&gt;
+          &lt;td id=&quot;file-user-service-ts-LC6&quot; class=&quot;blob-code blob-code-inner js-file-line&quot;&gt;
+&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+          &lt;td id=&quot;file-user-service-ts-L7&quot; class=&quot;blob-num js-line-number js-code-nav-line-number js-blob-rnum&quot; data-line-number=&quot;7&quot;&gt;&lt;/td&gt;
+          &lt;td id=&quot;file-user-service-ts-LC7&quot; class=&quot;blob-code blob-code-inner js-file-line&quot;&gt;  &lt;span class=pl-en&gt;userProfile&lt;/span&gt;&lt;span class=pl-kos&gt;(&lt;/span&gt;&lt;span class=pl-kos&gt;)&lt;/span&gt; &lt;span class=pl-kos&gt;{&lt;/span&gt;&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+          &lt;td id=&quot;file-user-service-ts-L8&quot; class=&quot;blob-num js-line-number js-code-nav-line-number js-blob-rnum&quot; data-line-number=&quot;8&quot;&gt;&lt;/td&gt;
+          &lt;td id=&quot;file-user-service-ts-LC8&quot; class=&quot;blob-code blob-code-inner js-file-line&quot;&gt;    &lt;span class=pl-k&gt;return&lt;/span&gt; &lt;span class=pl-kos&gt;{&lt;/span&gt; &lt;span class=pl-c1&gt;name&lt;/span&gt;: &lt;span class=pl-s&gt;&amp;#39;Awsome User&amp;#39;&lt;/span&gt; &lt;span class=pl-kos&gt;}&lt;/span&gt;&lt;span class=pl-kos&gt;;&lt;/span&gt;&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+          &lt;td id=&quot;file-user-service-ts-L9&quot; class=&quot;blob-num js-line-number js-code-nav-line-number js-blob-rnum&quot; data-line-number=&quot;9&quot;&gt;&lt;/td&gt;
+          &lt;td id=&quot;file-user-service-ts-LC9&quot; class=&quot;blob-code blob-code-inner js-file-line&quot;&gt;  &lt;span class=pl-kos&gt;}&lt;/span&gt;&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+          &lt;td id=&quot;file-user-service-ts-L10&quot; class=&quot;blob-num js-line-number js-code-nav-line-number js-blob-rnum&quot; data-line-number=&quot;10&quot;&gt;&lt;/td&gt;
+          &lt;td id=&quot;file-user-service-ts-LC10&quot; class=&quot;blob-code blob-code-inner js-file-line&quot;&gt;&lt;span class=pl-kos&gt;}&lt;/span&gt;&lt;/td&gt;
+        &lt;/tr&gt;
+  &lt;/table&gt;
+&lt;/div&gt;
+
+
+    &lt;/div&gt;
+
+  &lt;/div&gt;
+&lt;/div&gt;
+
+      &lt;/div&gt;
+      &lt;div class=&quot;gist-meta&quot;&gt;
+        &lt;a href=&quot;https://gist.github.com/labidiaymen/5706440fbf88bf979b264b6413d90b36/raw/bdc64d17aede1ad143527cd11885781f0f447adf/user.service.ts&quot; style=&quot;float:right&quot;&gt;view raw&lt;/a&gt;
+        &lt;a href=&quot;https://gist.github.com/labidiaymen/5706440fbf88bf979b264b6413d90b36#file-user-service-ts&quot;&gt;
+          user.service.ts
+        &lt;/a&gt;
+        hosted with &amp;#10084; by &lt;a href=&quot;https://github.com&quot;&gt;GitHub&lt;/a&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;&lt;/p&gt;
+&lt;p&gt;So now all we have to do is to use the service in the component. Before Angular 14,we had to create a module that defines all providers components and other dependencies or import everything in the &lt;code&gt;AppModule&lt;/code&gt;.&lt;/p&gt;
+&lt;p&gt;Now, we can declare Components as standalone and provide the service directly into the Component
+&lt;div id=&quot;gist116766567&quot; class=&quot;gist&quot;&gt;
+    &lt;div class=&quot;gist-file&quot; translate=&quot;no&quot;&gt;
+      &lt;div class=&quot;gist-data&quot;&gt;
+        &lt;div class=&quot;js-gist-file-update-container js-task-list-container file-box&quot;&gt;
+  &lt;div id=&quot;file-user-detail-component-ts&quot; class=&quot;file my-2&quot;&gt;
+    
+    &lt;div itemprop=&quot;text&quot; class=&quot;Box-body p-0 blob-wrapper data type-typescript  &quot;&gt;
+
+        
+&lt;div class=&quot;js-check-bidi js-blob-code-container blob-code-content&quot;&gt;
+
+  &lt;template class=&quot;js-file-alert-template&quot;&gt;
+  &lt;div data-view-component=&quot;true&quot; class=&quot;flash flash-warn flash-full d-flex flex-items-center&quot;&gt;
+  &lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; viewBox=&quot;0 0 16 16&quot; version=&quot;1.1&quot; width=&quot;16&quot; data-view-component=&quot;true&quot; class=&quot;octicon octicon-alert&quot;&gt;
+    &lt;path fill-rule=&quot;evenodd&quot; d=&quot;M8.22 1.754a.25.25 0 00-.44 0L1.698 13.132a.25.25 0 00.22.368h12.164a.25.25 0 00.22-.368L8.22 1.754zm-1.763-.707c.659-1.234 2.427-1.234 3.086 0l6.082 11.378A1.75 1.75 0 0114.082 15H1.918a1.75 1.75 0 01-1.543-2.575L6.457 1.047zM9 11a1 1 0 11-2 0 1 1 0 012 0zm-.25-5.25a.75.75 0 00-1.5 0v2.5a.75.75 0 001.5 0v-2.5z&quot;&gt;&lt;/path&gt;
+&lt;/svg&gt;
+  
+    &lt;span&gt;
+      This file contains bidirectional Unicode text that may be interpreted or compiled differently than what appears below. To review, open the file in an editor that reveals hidden Unicode characters.
+      &lt;a href=&quot;https://github.co/hiddenchars&quot; target=&quot;_blank&quot;&gt;Learn more about bidirectional Unicode characters&lt;/a&gt;
+    &lt;/span&gt;
+
+
+  &lt;div data-view-component=&quot;true&quot; class=&quot;flash-action&quot;&gt;      &lt;a href=&quot;{{ revealButtonHref }}&quot; data-view-component=&quot;true&quot; class=&quot;btn-sm btn&quot;&gt;  Show hidden characters
+  
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;/template&gt;
+&lt;template class=&quot;js-line-alert-template&quot;&gt;
+  &lt;span aria-label=&quot;This line has hidden Unicode characters&quot; data-view-component=&quot;true&quot; class=&quot;line-alert tooltipped tooltipped-e&quot;&gt;
+    &lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; viewBox=&quot;0 0 16 16&quot; version=&quot;1.1&quot; width=&quot;16&quot; data-view-component=&quot;true&quot; class=&quot;octicon octicon-alert&quot;&gt;
+    &lt;path fill-rule=&quot;evenodd&quot; d=&quot;M8.22 1.754a.25.25 0 00-.44 0L1.698 13.132a.25.25 0 00.22.368h12.164a.25.25 0 00.22-.368L8.22 1.754zm-1.763-.707c.659-1.234 2.427-1.234 3.086 0l6.082 11.378A1.75 1.75 0 0114.082 15H1.918a1.75 1.75 0 01-1.543-2.575L6.457 1.047zM9 11a1 1 0 11-2 0 1 1 0 012 0zm-.25-5.25a.75.75 0 00-1.5 0v2.5a.75.75 0 001.5 0v-2.5z&quot;&gt;&lt;/path&gt;
+&lt;/svg&gt;
+&lt;/span&gt;&lt;/template&gt;
+
+  &lt;table class=&quot;highlight tab-size js-file-line-container js-code-nav-container js-tagsearch-file&quot; data-tab-size=&quot;8&quot; data-paste-markdown-skip data-tagsearch-lang=&quot;TypeScript&quot; data-tagsearch-path=&quot;user-detail.component.ts&quot;&gt;
+        &lt;tr&gt;
+          &lt;td id=&quot;file-user-detail-component-ts-L1&quot; class=&quot;blob-num js-line-number js-code-nav-line-number js-blob-rnum&quot; data-line-number=&quot;1&quot;&gt;&lt;/td&gt;
+          &lt;td id=&quot;file-user-detail-component-ts-LC1&quot; class=&quot;blob-code blob-code-inner js-file-line&quot;&gt;&lt;span class=pl-k&gt;import&lt;/span&gt; &lt;span class=pl-kos&gt;{&lt;/span&gt; &lt;span class=pl-smi&gt;Component&lt;/span&gt;&lt;span class=pl-kos&gt;,&lt;/span&gt; &lt;span class=pl-smi&gt;OnInit&lt;/span&gt; &lt;span class=pl-kos&gt;}&lt;/span&gt; &lt;span class=pl-k&gt;from&lt;/span&gt; &lt;span class=pl-s&gt;&amp;#39;@angular/core&amp;#39;&lt;/span&gt;&lt;span class=pl-kos&gt;;&lt;/span&gt;&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+          &lt;td id=&quot;file-user-detail-component-ts-L2&quot; class=&quot;blob-num js-line-number js-code-nav-line-number js-blob-rnum&quot; data-line-number=&quot;2&quot;&gt;&lt;/td&gt;
+          &lt;td id=&quot;file-user-detail-component-ts-LC2&quot; class=&quot;blob-code blob-code-inner js-file-line&quot;&gt;&lt;span class=pl-k&gt;import&lt;/span&gt; &lt;span class=pl-kos&gt;{&lt;/span&gt; &lt;span class=pl-smi&gt;UserService&lt;/span&gt; &lt;span class=pl-kos&gt;}&lt;/span&gt; &lt;span class=pl-k&gt;from&lt;/span&gt; &lt;span class=pl-s&gt;&amp;#39;./user.service&amp;#39;&lt;/span&gt;&lt;span class=pl-kos&gt;;&lt;/span&gt;&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+          &lt;td id=&quot;file-user-detail-component-ts-L3&quot; class=&quot;blob-num js-line-number js-code-nav-line-number js-blob-rnum&quot; data-line-number=&quot;3&quot;&gt;&lt;/td&gt;
+          &lt;td id=&quot;file-user-detail-component-ts-LC3&quot; class=&quot;blob-code blob-code-inner js-file-line&quot;&gt;
+&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+          &lt;td id=&quot;file-user-detail-component-ts-L4&quot; class=&quot;blob-num js-line-number js-code-nav-line-number js-blob-rnum&quot; data-line-number=&quot;4&quot;&gt;&lt;/td&gt;
+          &lt;td id=&quot;file-user-detail-component-ts-LC4&quot; class=&quot;blob-code blob-code-inner js-file-line&quot;&gt;@&lt;span class=pl-smi&gt;Component&lt;/span&gt;&lt;span class=pl-kos&gt;(&lt;/span&gt;&lt;span class=pl-kos&gt;{&lt;/span&gt;&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+          &lt;td id=&quot;file-user-detail-component-ts-L5&quot; class=&quot;blob-num js-line-number js-code-nav-line-number js-blob-rnum&quot; data-line-number=&quot;5&quot;&gt;&lt;/td&gt;
+          &lt;td id=&quot;file-user-detail-component-ts-LC5&quot; class=&quot;blob-code blob-code-inner js-file-line&quot;&gt;  &lt;span class=pl-c1&gt;standalone&lt;/span&gt;: &lt;span class=pl-c1&gt;true&lt;/span&gt;&lt;span class=pl-kos&gt;,&lt;/span&gt; &lt;span class=pl-c&gt;// &amp;lt;- declare component as standalone&lt;/span&gt;&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+          &lt;td id=&quot;file-user-detail-component-ts-L6&quot; class=&quot;blob-num js-line-number js-code-nav-line-number js-blob-rnum&quot; data-line-number=&quot;6&quot;&gt;&lt;/td&gt;
+          &lt;td id=&quot;file-user-detail-component-ts-LC6&quot; class=&quot;blob-code blob-code-inner js-file-line&quot;&gt;  &lt;span class=pl-c1&gt;selector&lt;/span&gt;: &lt;span class=pl-s&gt;&amp;#39;app-user-detail&amp;#39;&lt;/span&gt;&lt;span class=pl-kos&gt;,&lt;/span&gt;&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+          &lt;td id=&quot;file-user-detail-component-ts-L7&quot; class=&quot;blob-num js-line-number js-code-nav-line-number js-blob-rnum&quot; data-line-number=&quot;7&quot;&gt;&lt;/td&gt;
+          &lt;td id=&quot;file-user-detail-component-ts-LC7&quot; class=&quot;blob-code blob-code-inner js-file-line&quot;&gt;  &lt;span class=pl-c1&gt;providers&lt;/span&gt;: &lt;span class=pl-kos&gt;[&lt;/span&gt;&lt;span class=pl-smi&gt;UserService&lt;/span&gt;&lt;span class=pl-kos&gt;]&lt;/span&gt;&lt;span class=pl-kos&gt;,&lt;/span&gt; &lt;span class=pl-c&gt;// &amp;lt;- provide te user service directly inside the component&lt;/span&gt;&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+          &lt;td id=&quot;file-user-detail-component-ts-L8&quot; class=&quot;blob-num js-line-number js-code-nav-line-number js-blob-rnum&quot; data-line-number=&quot;8&quot;&gt;&lt;/td&gt;
+          &lt;td id=&quot;file-user-detail-component-ts-LC8&quot; class=&quot;blob-code blob-code-inner js-file-line&quot;&gt;  &lt;span class=pl-c1&gt;templateUrl&lt;/span&gt;: &lt;span class=pl-s&gt;&amp;#39;./user-detail.component.html&amp;#39;&lt;/span&gt;&lt;span class=pl-kos&gt;,&lt;/span&gt;&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+          &lt;td id=&quot;file-user-detail-component-ts-L9&quot; class=&quot;blob-num js-line-number js-code-nav-line-number js-blob-rnum&quot; data-line-number=&quot;9&quot;&gt;&lt;/td&gt;
+          &lt;td id=&quot;file-user-detail-component-ts-LC9&quot; class=&quot;blob-code blob-code-inner js-file-line&quot;&gt;  &lt;span class=pl-c1&gt;styleUrls&lt;/span&gt;: &lt;span class=pl-kos&gt;[&lt;/span&gt;&lt;span class=pl-s&gt;&amp;#39;./user-detail.component.css&amp;#39;&lt;/span&gt;&lt;span class=pl-kos&gt;]&lt;/span&gt;&lt;span class=pl-kos&gt;,&lt;/span&gt;&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+          &lt;td id=&quot;file-user-detail-component-ts-L10&quot; class=&quot;blob-num js-line-number js-code-nav-line-number js-blob-rnum&quot; data-line-number=&quot;10&quot;&gt;&lt;/td&gt;
+          &lt;td id=&quot;file-user-detail-component-ts-LC10&quot; class=&quot;blob-code blob-code-inner js-file-line&quot;&gt;&lt;span class=pl-kos&gt;}&lt;/span&gt;&lt;span class=pl-kos&gt;)&lt;/span&gt;&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+          &lt;td id=&quot;file-user-detail-component-ts-L11&quot; class=&quot;blob-num js-line-number js-code-nav-line-number js-blob-rnum&quot; data-line-number=&quot;11&quot;&gt;&lt;/td&gt;
+          &lt;td id=&quot;file-user-detail-component-ts-LC11&quot; class=&quot;blob-code blob-code-inner js-file-line&quot;&gt;&lt;span class=pl-k&gt;export&lt;/span&gt; &lt;span class=pl-k&gt;class&lt;/span&gt; &lt;span class=pl-smi&gt;UserDetailComponent&lt;/span&gt; &lt;span class=pl-k&gt;implements&lt;/span&gt; &lt;span class=pl-smi&gt;OnInit&lt;/span&gt; &lt;span class=pl-kos&gt;{&lt;/span&gt;&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+          &lt;td id=&quot;file-user-detail-component-ts-L12&quot; class=&quot;blob-num js-line-number js-code-nav-line-number js-blob-rnum&quot; data-line-number=&quot;12&quot;&gt;&lt;/td&gt;
+          &lt;td id=&quot;file-user-detail-component-ts-LC12&quot; class=&quot;blob-code blob-code-inner js-file-line&quot;&gt;  &lt;span class=pl-c1&gt;user&lt;/span&gt;: &lt;span class=pl-smi&gt;any&lt;/span&gt;&lt;span class=pl-kos&gt;;&lt;/span&gt;&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+          &lt;td id=&quot;file-user-detail-component-ts-L13&quot; class=&quot;blob-num js-line-number js-code-nav-line-number js-blob-rnum&quot; data-line-number=&quot;13&quot;&gt;&lt;/td&gt;
+          &lt;td id=&quot;file-user-detail-component-ts-LC13&quot; class=&quot;blob-code blob-code-inner js-file-line&quot;&gt;  &lt;span class=pl-en&gt;constructor&lt;/span&gt;&lt;span class=pl-kos&gt;(&lt;/span&gt;&lt;span class=pl-k&gt;private&lt;/span&gt; &lt;span class=pl-s1&gt;userService&lt;/span&gt;: &lt;span class=pl-smi&gt;UserService&lt;/span&gt;&lt;span class=pl-kos&gt;)&lt;/span&gt; &lt;span class=pl-kos&gt;{&lt;/span&gt;&lt;span class=pl-kos&gt;}&lt;/span&gt;&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+          &lt;td id=&quot;file-user-detail-component-ts-L14&quot; class=&quot;blob-num js-line-number js-code-nav-line-number js-blob-rnum&quot; data-line-number=&quot;14&quot;&gt;&lt;/td&gt;
+          &lt;td id=&quot;file-user-detail-component-ts-LC14&quot; class=&quot;blob-code blob-code-inner js-file-line&quot;&gt;
+&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+          &lt;td id=&quot;file-user-detail-component-ts-L15&quot; class=&quot;blob-num js-line-number js-code-nav-line-number js-blob-rnum&quot; data-line-number=&quot;15&quot;&gt;&lt;/td&gt;
+          &lt;td id=&quot;file-user-detail-component-ts-LC15&quot; class=&quot;blob-code blob-code-inner js-file-line&quot;&gt;  &lt;span class=pl-en&gt;ngOnInit&lt;/span&gt;&lt;span class=pl-kos&gt;(&lt;/span&gt;&lt;span class=pl-kos&gt;)&lt;/span&gt; &lt;span class=pl-kos&gt;{&lt;/span&gt;&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+          &lt;td id=&quot;file-user-detail-component-ts-L16&quot; class=&quot;blob-num js-line-number js-code-nav-line-number js-blob-rnum&quot; data-line-number=&quot;16&quot;&gt;&lt;/td&gt;
+          &lt;td id=&quot;file-user-detail-component-ts-LC16&quot; class=&quot;blob-code blob-code-inner js-file-line&quot;&gt;    &lt;span class=pl-smi&gt;this&lt;/span&gt;&lt;span class=pl-kos&gt;.&lt;/span&gt;&lt;span class=pl-c1&gt;user&lt;/span&gt; &lt;span class=pl-c1&gt;=&lt;/span&gt; &lt;span class=pl-smi&gt;this&lt;/span&gt;&lt;span class=pl-kos&gt;.&lt;/span&gt;&lt;span class=pl-c1&gt;userService&lt;/span&gt;&lt;span class=pl-kos&gt;.&lt;/span&gt;&lt;span class=pl-en&gt;userProfile&lt;/span&gt;&lt;span class=pl-kos&gt;(&lt;/span&gt;&lt;span class=pl-kos&gt;)&lt;/span&gt;&lt;span class=pl-kos&gt;;&lt;/span&gt;&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+          &lt;td id=&quot;file-user-detail-component-ts-L17&quot; class=&quot;blob-num js-line-number js-code-nav-line-number js-blob-rnum&quot; data-line-number=&quot;17&quot;&gt;&lt;/td&gt;
+          &lt;td id=&quot;file-user-detail-component-ts-LC17&quot; class=&quot;blob-code blob-code-inner js-file-line&quot;&gt;  &lt;span class=pl-kos&gt;}&lt;/span&gt;&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+          &lt;td id=&quot;file-user-detail-component-ts-L18&quot; class=&quot;blob-num js-line-number js-code-nav-line-number js-blob-rnum&quot; data-line-number=&quot;18&quot;&gt;&lt;/td&gt;
+          &lt;td id=&quot;file-user-detail-component-ts-LC18&quot; class=&quot;blob-code blob-code-inner js-file-line&quot;&gt;&lt;span class=pl-kos&gt;}&lt;/span&gt;&lt;/td&gt;
+        &lt;/tr&gt;
+  &lt;/table&gt;
+&lt;/div&gt;
+
+
+    &lt;/div&gt;
+
+  &lt;/div&gt;
+&lt;/div&gt;
+
+      &lt;/div&gt;
+      &lt;div class=&quot;gist-meta&quot;&gt;
+        &lt;a href=&quot;https://gist.github.com/labidiaymen/20ceddab8dbf00204621cd5c3e12f146/raw/6520ad800af8d1589ed755c143ffe4dad96e1da6/user-detail.component.ts&quot; style=&quot;float:right&quot;&gt;view raw&lt;/a&gt;
+        &lt;a href=&quot;https://gist.github.com/labidiaymen/20ceddab8dbf00204621cd5c3e12f146#file-user-detail-component-ts&quot;&gt;
+          user-detail.component.ts
+        &lt;/a&gt;
+        hosted with &amp;#10084; by &lt;a href=&quot;https://github.com&quot;&gt;GitHub&lt;/a&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;&lt;/p&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p&gt;In the Route Module, now we can directly import the component rather than the Module.&lt;/p&gt;
+&lt;p&gt;&lt;div id=&quot;gist116751011&quot; class=&quot;gist&quot;&gt;
+    &lt;div class=&quot;gist-file&quot; translate=&quot;no&quot;&gt;
+      &lt;div class=&quot;gist-data&quot;&gt;
+        &lt;div class=&quot;js-gist-file-update-container js-task-list-container file-box&quot;&gt;
+  &lt;div id=&quot;file-app-routing-module-ts&quot; class=&quot;file my-2&quot;&gt;
+    
+    &lt;div itemprop=&quot;text&quot; class=&quot;Box-body p-0 blob-wrapper data type-typescript  &quot;&gt;
+
+        
+&lt;div class=&quot;js-check-bidi js-blob-code-container blob-code-content&quot;&gt;
+
+  &lt;template class=&quot;js-file-alert-template&quot;&gt;
+  &lt;div data-view-component=&quot;true&quot; class=&quot;flash flash-warn flash-full d-flex flex-items-center&quot;&gt;
+  &lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; viewBox=&quot;0 0 16 16&quot; version=&quot;1.1&quot; width=&quot;16&quot; data-view-component=&quot;true&quot; class=&quot;octicon octicon-alert&quot;&gt;
+    &lt;path fill-rule=&quot;evenodd&quot; d=&quot;M8.22 1.754a.25.25 0 00-.44 0L1.698 13.132a.25.25 0 00.22.368h12.164a.25.25 0 00.22-.368L8.22 1.754zm-1.763-.707c.659-1.234 2.427-1.234 3.086 0l6.082 11.378A1.75 1.75 0 0114.082 15H1.918a1.75 1.75 0 01-1.543-2.575L6.457 1.047zM9 11a1 1 0 11-2 0 1 1 0 012 0zm-.25-5.25a.75.75 0 00-1.5 0v2.5a.75.75 0 001.5 0v-2.5z&quot;&gt;&lt;/path&gt;
+&lt;/svg&gt;
+  
+    &lt;span&gt;
+      This file contains bidirectional Unicode text that may be interpreted or compiled differently than what appears below. To review, open the file in an editor that reveals hidden Unicode characters.
+      &lt;a href=&quot;https://github.co/hiddenchars&quot; target=&quot;_blank&quot;&gt;Learn more about bidirectional Unicode characters&lt;/a&gt;
+    &lt;/span&gt;
+
+
+  &lt;div data-view-component=&quot;true&quot; class=&quot;flash-action&quot;&gt;      &lt;a href=&quot;{{ revealButtonHref }}&quot; data-view-component=&quot;true&quot; class=&quot;btn-sm btn&quot;&gt;  Show hidden characters
+  
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;/template&gt;
+&lt;template class=&quot;js-line-alert-template&quot;&gt;
+  &lt;span aria-label=&quot;This line has hidden Unicode characters&quot; data-view-component=&quot;true&quot; class=&quot;line-alert tooltipped tooltipped-e&quot;&gt;
+    &lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; viewBox=&quot;0 0 16 16&quot; version=&quot;1.1&quot; width=&quot;16&quot; data-view-component=&quot;true&quot; class=&quot;octicon octicon-alert&quot;&gt;
+    &lt;path fill-rule=&quot;evenodd&quot; d=&quot;M8.22 1.754a.25.25 0 00-.44 0L1.698 13.132a.25.25 0 00.22.368h12.164a.25.25 0 00.22-.368L8.22 1.754zm-1.763-.707c.659-1.234 2.427-1.234 3.086 0l6.082 11.378A1.75 1.75 0 0114.082 15H1.918a1.75 1.75 0 01-1.543-2.575L6.457 1.047zM9 11a1 1 0 11-2 0 1 1 0 012 0zm-.25-5.25a.75.75 0 00-1.5 0v2.5a.75.75 0 001.5 0v-2.5z&quot;&gt;&lt;/path&gt;
+&lt;/svg&gt;
+&lt;/span&gt;&lt;/template&gt;
+
+  &lt;table class=&quot;highlight tab-size js-file-line-container js-code-nav-container js-tagsearch-file&quot; data-tab-size=&quot;8&quot; data-paste-markdown-skip data-tagsearch-lang=&quot;TypeScript&quot; data-tagsearch-path=&quot;app-routing.module.ts&quot;&gt;
+        &lt;tr&gt;
+          &lt;td id=&quot;file-app-routing-module-ts-L1&quot; class=&quot;blob-num js-line-number js-code-nav-line-number js-blob-rnum&quot; data-line-number=&quot;1&quot;&gt;&lt;/td&gt;
+          &lt;td id=&quot;file-app-routing-module-ts-LC1&quot; class=&quot;blob-code blob-code-inner js-file-line&quot;&gt;&lt;span class=pl-k&gt;import&lt;/span&gt; &lt;span class=pl-kos&gt;{&lt;/span&gt; &lt;span class=pl-smi&gt;NgModule&lt;/span&gt; &lt;span class=pl-kos&gt;}&lt;/span&gt; &lt;span class=pl-k&gt;from&lt;/span&gt; &lt;span class=pl-s&gt;&amp;#39;@angular/core&amp;#39;&lt;/span&gt;&lt;span class=pl-kos&gt;;&lt;/span&gt;&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+          &lt;td id=&quot;file-app-routing-module-ts-L2&quot; class=&quot;blob-num js-line-number js-code-nav-line-number js-blob-rnum&quot; data-line-number=&quot;2&quot;&gt;&lt;/td&gt;
+          &lt;td id=&quot;file-app-routing-module-ts-LC2&quot; class=&quot;blob-code blob-code-inner js-file-line&quot;&gt;&lt;span class=pl-k&gt;import&lt;/span&gt; &lt;span class=pl-kos&gt;{&lt;/span&gt; &lt;span class=pl-smi&gt;RouterModule&lt;/span&gt;&lt;span class=pl-kos&gt;,&lt;/span&gt; &lt;span class=pl-smi&gt;Routes&lt;/span&gt; &lt;span class=pl-kos&gt;}&lt;/span&gt; &lt;span class=pl-k&gt;from&lt;/span&gt; &lt;span class=pl-s&gt;&amp;#39;@angular/router&amp;#39;&lt;/span&gt;&lt;span class=pl-kos&gt;;&lt;/span&gt;&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+          &lt;td id=&quot;file-app-routing-module-ts-L3&quot; class=&quot;blob-num js-line-number js-code-nav-line-number js-blob-rnum&quot; data-line-number=&quot;3&quot;&gt;&lt;/td&gt;
+          &lt;td id=&quot;file-app-routing-module-ts-LC3&quot; class=&quot;blob-code blob-code-inner js-file-line&quot;&gt;
+&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+          &lt;td id=&quot;file-app-routing-module-ts-L4&quot; class=&quot;blob-num js-line-number js-code-nav-line-number js-blob-rnum&quot; data-line-number=&quot;4&quot;&gt;&lt;/td&gt;
+          &lt;td id=&quot;file-app-routing-module-ts-LC4&quot; class=&quot;blob-code blob-code-inner js-file-line&quot;&gt;&lt;span class=pl-k&gt;const&lt;/span&gt; &lt;span class=pl-s1&gt;routes&lt;/span&gt;: &lt;span class=pl-smi&gt;Routes&lt;/span&gt; &lt;span class=pl-c1&gt;=&lt;/span&gt; &lt;span class=pl-kos&gt;[&lt;/span&gt;&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+          &lt;td id=&quot;file-app-routing-module-ts-L5&quot; class=&quot;blob-num js-line-number js-code-nav-line-number js-blob-rnum&quot; data-line-number=&quot;5&quot;&gt;&lt;/td&gt;
+          &lt;td id=&quot;file-app-routing-module-ts-LC5&quot; class=&quot;blob-code blob-code-inner js-file-line&quot;&gt;  &lt;span class=pl-kos&gt;{&lt;/span&gt;&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+          &lt;td id=&quot;file-app-routing-module-ts-L6&quot; class=&quot;blob-num js-line-number js-code-nav-line-number js-blob-rnum&quot; data-line-number=&quot;6&quot;&gt;&lt;/td&gt;
+          &lt;td id=&quot;file-app-routing-module-ts-LC6&quot; class=&quot;blob-code blob-code-inner js-file-line&quot;&gt;    &lt;span class=pl-c1&gt;path&lt;/span&gt;: &lt;span class=pl-s&gt;&amp;#39;&amp;#39;&lt;/span&gt;&lt;span class=pl-kos&gt;,&lt;/span&gt;&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+          &lt;td id=&quot;file-app-routing-module-ts-L7&quot; class=&quot;blob-num js-line-number js-code-nav-line-number js-blob-rnum&quot; data-line-number=&quot;7&quot;&gt;&lt;/td&gt;
+          &lt;td id=&quot;file-app-routing-module-ts-LC7&quot; class=&quot;blob-code blob-code-inner js-file-line&quot;&gt;    &lt;span class=pl-en&gt;loadComponent&lt;/span&gt;: &lt;span class=pl-kos&gt;(&lt;/span&gt;&lt;span class=pl-kos&gt;)&lt;/span&gt; &lt;span class=pl-c1&gt;=&amp;gt;&lt;/span&gt;&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+          &lt;td id=&quot;file-app-routing-module-ts-L8&quot; class=&quot;blob-num js-line-number js-code-nav-line-number js-blob-rnum&quot; data-line-number=&quot;8&quot;&gt;&lt;/td&gt;
+          &lt;td id=&quot;file-app-routing-module-ts-LC8&quot; class=&quot;blob-code blob-code-inner js-file-line&quot;&gt;      &lt;span class=pl-k&gt;import&lt;/span&gt;&lt;span class=pl-kos&gt;(&lt;/span&gt;&lt;span class=pl-s&gt;&amp;#39;./user-detail/user-detail.component&amp;#39;&lt;/span&gt;&lt;span class=pl-kos&gt;)&lt;/span&gt;&lt;span class=pl-kos&gt;.&lt;/span&gt;&lt;span class=pl-en&gt;then&lt;/span&gt;&lt;span class=pl-kos&gt;(&lt;/span&gt;&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+          &lt;td id=&quot;file-app-routing-module-ts-L9&quot; class=&quot;blob-num js-line-number js-code-nav-line-number js-blob-rnum&quot; data-line-number=&quot;9&quot;&gt;&lt;/td&gt;
+          &lt;td id=&quot;file-app-routing-module-ts-LC9&quot; class=&quot;blob-code blob-code-inner js-file-line&quot;&gt;        &lt;span class=pl-kos&gt;(&lt;/span&gt;&lt;span class=pl-kos&gt;{&lt;/span&gt; UserDetailComponent &lt;span class=pl-kos&gt;}&lt;/span&gt;&lt;span class=pl-kos&gt;)&lt;/span&gt; &lt;span class=pl-c1&gt;=&amp;gt;&lt;/span&gt; &lt;span class=pl-smi&gt;UserDetailComponent&lt;/span&gt;&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+          &lt;td id=&quot;file-app-routing-module-ts-L10&quot; class=&quot;blob-num js-line-number js-code-nav-line-number js-blob-rnum&quot; data-line-number=&quot;10&quot;&gt;&lt;/td&gt;
+          &lt;td id=&quot;file-app-routing-module-ts-LC10&quot; class=&quot;blob-code blob-code-inner js-file-line&quot;&gt;      &lt;span class=pl-kos&gt;)&lt;/span&gt;&lt;span class=pl-kos&gt;,&lt;/span&gt;&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+          &lt;td id=&quot;file-app-routing-module-ts-L11&quot; class=&quot;blob-num js-line-number js-code-nav-line-number js-blob-rnum&quot; data-line-number=&quot;11&quot;&gt;&lt;/td&gt;
+          &lt;td id=&quot;file-app-routing-module-ts-LC11&quot; class=&quot;blob-code blob-code-inner js-file-line&quot;&gt;  &lt;span class=pl-kos&gt;}&lt;/span&gt;&lt;span class=pl-kos&gt;,&lt;/span&gt;&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+          &lt;td id=&quot;file-app-routing-module-ts-L12&quot; class=&quot;blob-num js-line-number js-code-nav-line-number js-blob-rnum&quot; data-line-number=&quot;12&quot;&gt;&lt;/td&gt;
+          &lt;td id=&quot;file-app-routing-module-ts-LC12&quot; class=&quot;blob-code blob-code-inner js-file-line&quot;&gt;&lt;span class=pl-kos&gt;]&lt;/span&gt;&lt;span class=pl-kos&gt;;&lt;/span&gt;&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+          &lt;td id=&quot;file-app-routing-module-ts-L13&quot; class=&quot;blob-num js-line-number js-code-nav-line-number js-blob-rnum&quot; data-line-number=&quot;13&quot;&gt;&lt;/td&gt;
+          &lt;td id=&quot;file-app-routing-module-ts-LC13&quot; class=&quot;blob-code blob-code-inner js-file-line&quot;&gt;
+&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+          &lt;td id=&quot;file-app-routing-module-ts-L14&quot; class=&quot;blob-num js-line-number js-code-nav-line-number js-blob-rnum&quot; data-line-number=&quot;14&quot;&gt;&lt;/td&gt;
+          &lt;td id=&quot;file-app-routing-module-ts-LC14&quot; class=&quot;blob-code blob-code-inner js-file-line&quot;&gt;@&lt;span class=pl-smi&gt;NgModule&lt;/span&gt;&lt;span class=pl-kos&gt;(&lt;/span&gt;&lt;span class=pl-kos&gt;{&lt;/span&gt;&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+          &lt;td id=&quot;file-app-routing-module-ts-L15&quot; class=&quot;blob-num js-line-number js-code-nav-line-number js-blob-rnum&quot; data-line-number=&quot;15&quot;&gt;&lt;/td&gt;
+          &lt;td id=&quot;file-app-routing-module-ts-LC15&quot; class=&quot;blob-code blob-code-inner js-file-line&quot;&gt;  &lt;span class=pl-c1&gt;imports&lt;/span&gt;: &lt;span class=pl-kos&gt;[&lt;/span&gt;&lt;span class=pl-smi&gt;RouterModule&lt;/span&gt;&lt;span class=pl-kos&gt;.&lt;/span&gt;&lt;span class=pl-en&gt;forRoot&lt;/span&gt;&lt;span class=pl-kos&gt;(&lt;/span&gt;&lt;span class=pl-s1&gt;routes&lt;/span&gt;&lt;span class=pl-kos&gt;)&lt;/span&gt;&lt;span class=pl-kos&gt;]&lt;/span&gt;&lt;span class=pl-kos&gt;,&lt;/span&gt;&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+          &lt;td id=&quot;file-app-routing-module-ts-L16&quot; class=&quot;blob-num js-line-number js-code-nav-line-number js-blob-rnum&quot; data-line-number=&quot;16&quot;&gt;&lt;/td&gt;
+          &lt;td id=&quot;file-app-routing-module-ts-LC16&quot; class=&quot;blob-code blob-code-inner js-file-line&quot;&gt;  &lt;span class=pl-c1&gt;exports&lt;/span&gt;: &lt;span class=pl-kos&gt;[&lt;/span&gt;&lt;span class=pl-smi&gt;RouterModule&lt;/span&gt;&lt;span class=pl-kos&gt;]&lt;/span&gt;&lt;span class=pl-kos&gt;,&lt;/span&gt;&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+          &lt;td id=&quot;file-app-routing-module-ts-L17&quot; class=&quot;blob-num js-line-number js-code-nav-line-number js-blob-rnum&quot; data-line-number=&quot;17&quot;&gt;&lt;/td&gt;
+          &lt;td id=&quot;file-app-routing-module-ts-LC17&quot; class=&quot;blob-code blob-code-inner js-file-line&quot;&gt;&lt;span class=pl-kos&gt;}&lt;/span&gt;&lt;span class=pl-kos&gt;)&lt;/span&gt;&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+          &lt;td id=&quot;file-app-routing-module-ts-L18&quot; class=&quot;blob-num js-line-number js-code-nav-line-number js-blob-rnum&quot; data-line-number=&quot;18&quot;&gt;&lt;/td&gt;
+          &lt;td id=&quot;file-app-routing-module-ts-LC18&quot; class=&quot;blob-code blob-code-inner js-file-line&quot;&gt;&lt;span class=pl-k&gt;export&lt;/span&gt; &lt;span class=pl-k&gt;class&lt;/span&gt; &lt;span class=pl-smi&gt;AppRoutingModule&lt;/span&gt; &lt;span class=pl-kos&gt;{&lt;/span&gt;&lt;span class=pl-kos&gt;}&lt;/span&gt;&lt;/td&gt;
+        &lt;/tr&gt;
+  &lt;/table&gt;
+&lt;/div&gt;
+
+
+    &lt;/div&gt;
+
+  &lt;/div&gt;
+&lt;/div&gt;
+
+      &lt;/div&gt;
+      &lt;div class=&quot;gist-meta&quot;&gt;
+        &lt;a href=&quot;https://gist.github.com/labidiaymen/35fd2acb26b0577ddfaa4f1d1cf42ae1/raw/63809170d8996476a0469e25b5754578fb598e34/app-routing.module.ts&quot; style=&quot;float:right&quot;&gt;view raw&lt;/a&gt;
+        &lt;a href=&quot;https://gist.github.com/labidiaymen/35fd2acb26b0577ddfaa4f1d1cf42ae1#file-app-routing-module-ts&quot;&gt;
+          app-routing.module.ts
+        &lt;/a&gt;
+        hosted with &amp;#10084; by &lt;a href=&quot;https://github.com&quot;&gt;GitHub&lt;/a&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;&lt;/p&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/labidiaymen/angular-standalone-components&quot;&gt;Github Srouce&lt;/a&gt;&lt;/p&gt;
+&lt;!-- [Demo on Stackblitz](https://stackblitz.com/github/labidiaymen/angular-standalone-components) --&gt;
+&lt;p&gt;You can play with the demo directly on Stackblitz&lt;/p&gt;
+&lt;iframe style=&quot;width: 100%;height: 313px;&quot; src=&quot;https://stackblitz.com/edit/github-vpsfla?embed=1&amp;file=src/app/user-detail/user-detail.component.ts&quot;&gt;&lt;/iframe&gt;
+&lt;h2&gt;Motivation&lt;/h2&gt;
+&lt;p&gt;Have you ever thought about why a framework like Angular started to review their vision about modularity?&lt;/p&gt;
+&lt;p&gt;In most Angular applications we used to find some CoreModule, SharedModule and others that contain the common unit which is used in more than one module.&lt;/p&gt;
+&lt;p&gt;Everytime the application grows, there&apos;s a chance that these modules will grow too.&lt;/p&gt;
+&lt;p&gt;That&apos;s fine until we start thinking about performance.&lt;/p&gt;
+&lt;p&gt;In the chart below we will demonstrate the use of a common NgModule and how to import a component directly inside another module without the middle man, Thanks to Angular 14 of course.&lt;/p&gt;
+&lt;h3&gt;Sharing standard component&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&quot;/images/Angular-14-Standalone-components-1.drawio.png&quot; alt=&quot;aa&quot;&gt;&lt;/p&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p&gt;In this case we have three components, two services and more than two modules.&lt;/p&gt;
+&lt;p&gt;These units are used in more than one place, so we created a &lt;code&gt;SharedModule&lt;/code&gt; to package them.
+This ShareModule has been imported in the two modules.&lt;/p&gt;
+&lt;p&gt;When lazyloading the module with LazLoading routes, the SharedModule alongs with the components and services and every unit exported, will be loaded in each module.&lt;/p&gt;
+&lt;h3&gt;Sharing standalone component&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&quot;/images/Angular-14-Standalone-components-2.drawio.png&quot; alt=&quot;aa&quot;&gt;&lt;/p&gt;
+&lt;h2&gt;&lt;/h2&gt;
+&lt;p&gt;In this case we have the same unit (components, pipes, services and modules) but we ditched the SharedModule.&lt;/p&gt;
+&lt;p&gt;We transformed the component in Standalone mode, which means that every component will load the needed providers.&lt;/p&gt;
+&lt;p&gt;The &lt;code&gt;FormatDatePipe&lt;/code&gt; load the &lt;code&gt;DateTimeService&lt;/code&gt; and &lt;code&gt;DocumentViwerComponent&lt;/code&gt; load &lt;code&gt;DocumentService&lt;/code&gt;.&lt;/p&gt;
+&lt;p&gt;Now When lazyloading a Component, only the component that is directly linked to it will be loaded.&lt;/p&gt;
+&lt;h3&gt;Conclusion&lt;/h3&gt;
+&lt;p&gt;Angular started approaching ReactJS with the small independent unit approach by introducing Standalone Component.
+which seems a big step toward enhancing web application performance and building a better and more maintainable web.&lt;/p&gt;
+&lt;p&gt;Personally, I&apos;m not fan of the idea of workking with only one Framework, since we can explore multiple paths at the same time then adopt what was a success in each Framework.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Angular 14: CLI Auto completion]]></title><description><![CDATA[Introduction As Front-end Architect, choosing the right Framework can impact the whole company even the group, that’s why we choose…]]></description><link>https://aymen.co/angular-cli-auto-completion/</link><guid isPermaLink="false">https://aymen.co/angular-cli-auto-completion/</guid><pubDate>Sun, 12 Jun 2022 00:00:00 GMT</pubDate><content:encoded>&lt;h2&gt;Introduction&lt;/h2&gt;
 &lt;p&gt;As Front-end Architect, choosing the right Framework can impact the whole company even the group, that’s why we choose carefully the technologies that we adopt.&lt;/p&gt;
 &lt;p&gt;For many years Angular prove how stable, it is, and when braking change happens, it will be accompanied by a great documentation.&lt;/p&gt;
 &lt;p&gt;Even there a tool to assist you when updating project. &lt;a href=&quot;https://angular.io/cli/update&quot;&gt;&lt;code&gt;ng update&lt;/code&gt;&lt;/a&gt;&lt;/p&gt;
