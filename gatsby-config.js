@@ -1,4 +1,4 @@
-require("dotenv").config();
+require("dotenv").config()
 module.exports = {
   siteMetadata: {
     title: `Labidi Aymen`,
@@ -11,6 +11,7 @@ module.exports = {
     social: {
       twitter: `kylemathews`,
     },
+    siteUrl: `https://aymen.co`,
   },
   pathPrefix: "/",
   plugins: [
@@ -137,28 +138,28 @@ module.exports = {
         // when process.env.NODE_ENV === 'production'
         // required; non-empty string
         prodKey: process.env.SEGMENT_KEY,
-  
+
         // if you have a development env for your segment account, paste that key here
         // when process.env.NODE_ENV === 'development'
         // optional; non-empty string
         devKey: process.env.SEGMENT_KEY,
-  
+
         // boolean (defaults to false) on whether you want
         // to include analytics.page() automatically
         // if false, see below on how to track pageviews manually
         trackPage: false,
-  
+
         // number (defaults to 50); time to wait after a route update before it should
         // track the page change, to implement this, make sure your `trackPage` property is set to `true`
         trackPageDelay: 50,
-  
+
         // If you need to proxy events through a custom endpoint,
         // add a `host` property (defaults to https://cdn.segment.io)
         // Segment docs:
         //   - https://segment.com/docs/connections/sources/custom-domains
         //   - https://segment.com/docs/connections/sources/catalog/libraries/website/javascript/#proxy
         // host: 'https://override-segment-endpoint',
-  
+
         // boolean (defaults to false); whether to delay load Segment
         // ADVANCED FEATURE: only use if you leverage client-side routing (ie, Gatsby <Link>)
         // This feature will force Segment to load _after_ either a page routing change
@@ -174,20 +175,50 @@ module.exports = {
         // TTI: https://github.com/GoogleChrome/lighthouse/blob/master/docs/scoring.md#performance
         // Problem/solution: https://marketingexamples.com/seo/performance
         delayLoad: false,
-  
+
         // number (default to 1000); time to wait after scroll or route change
         // To be used when `delayLoad` is set to `true`
         delayLoadTime: 1000,
-  
+
         // Whether to completely skip calling `analytics.load({writeKey})`.
         // ADVANCED FEATURE: only use if you are calling `analytics.load({writeKey})` manually
         // elsewhere in your code or are using a library
         // like: https://github.com/segmentio/consent-manager that will call it for you.
         // Useful for only loading the tracking script once a user has opted in to being tracked, for example.
         manualLoad: false,
-  
-        }
-    }
+      },
+    },
+    `gatsby-plugin-sitemap`,
+    {
+      resolve: "gatsby-transformer-remark",
+      options: {
+        plugins: [
+          {
+            resolve: "gatsby-remark-embed-gist",
+            options: {
+              // Optional:
+
+              // the github handler whose gists are to be accessed
+              username: "labidiaymen",
+
+              // a flag indicating whether the github default gist css should be included or not
+              // default: true
+              // DEPRECATED (PLEASE USE gistDefaultCssInclude)
+              includeDefaultCss: true || false,
+
+              // a flag indicating whether the github default gist css should be included or not
+              // default: true
+              gistDefaultCssInclude: true || false,
+
+              // a flag indicating whether the github default gist css should be preloaded or not
+              // use this if you want to load the default css asynchronously.
+              // default: false
+              gistCssPreload: true || false,
+            },
+          },
+        ],
+      },
+    },
 
     // this (optional) plugin enables Progressive Web App + Offline functionality
     // To learn more, visit: https://gatsby.dev/offline

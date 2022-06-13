@@ -10,7 +10,11 @@ const BlogPostTemplate = ({ data, location }) => {
   const post = data.markdownRemark
   const siteTitle = data.site.siteMetadata?.title || `Title`
   const { previous, next } = data
-  const { slug, title } = post
+  const {
+    slug,
+    title,
+    frontmatter: { categories },
+  } = post
   const disqusConfig = {
     shortname: process.env.GATSBY_DISQUS_NAME,
     config: { identifier: slug, title },
@@ -45,27 +49,30 @@ const BlogPostTemplate = ({ data, location }) => {
                 {post.frontmatter.title}
               </h1>
             </div>
-            <div className="basis-2/5 block pl-12">
+            <div className="basis-2/5 block self-center pl-0 md:pl-12">
               {post.frontmatter.cover && (
                 <img
-                  className="pr-3"
+                  className="pr-3 md:float-right"
                   src={"/" + post.frontmatter.cover}
                   alt={post.frontmatter.title}
                 ></img>
               )}
             </div>
           </div>
-          <div className="py-6">
-            Last modified: <small>{post.frontmatter.date}</small>
-          </div>
+          
         </header>
         <section
-          className="pt-6"
+          className="pt-0"
           dangerouslySetInnerHTML={{ __html: post.html }}
           itemProp="articleBody"
         />
         <hr />
         <footer>
+        {!categories?.includes("pages") && (
+            <div className="py-1">
+              Last modified: <small>{post.frontmatter.date}</small>
+            </div>
+          )}
           <DiscussionEmbed {...disqusConfig} />
         </footer>
       </article>
@@ -120,6 +127,7 @@ export const pageQuery = graphql`
         title
         date(formatString: "MMMM DD, YYYY")
         description
+        categories
         cover
       }
     }
