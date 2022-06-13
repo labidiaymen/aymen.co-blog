@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Gatsby Starter Blog RSS Feed]]></title><description><![CDATA[A starter blog demonstrating what Gatsby can do.]]></description><link>https://aymen.co</link><generator>GatsbyJS</generator><lastBuildDate>Mon, 13 Jun 2022 21:40:50 GMT</lastBuildDate><item><title><![CDATA[No title]]></title><link>https://aymen.co/ecmascript/2022/</link><guid isPermaLink="false">https://aymen.co/ecmascript/2022/</guid><content:encoded>&lt;!-- ---
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Gatsby Starter Blog RSS Feed]]></title><description><![CDATA[A starter blog demonstrating what Gatsby can do.]]></description><link>https://aymen.co</link><generator>GatsbyJS</generator><lastBuildDate>Mon, 13 Jun 2022 21:45:18 GMT</lastBuildDate><item><title><![CDATA[No title]]></title><link>https://aymen.co/ecmascript/2022/</link><guid isPermaLink="false">https://aymen.co/ecmascript/2022/</guid><content:encoded>&lt;!-- ---
 title: &quot;ECMAScript 2022&quot;
 author: &quot;Aymen&quot;
 date: &quot;2022-06-183&quot;
@@ -205,7 +205,7 @@ For the sake of the demo, this service is not provided in the root &lt;code&gt;p
       &lt;/div&gt;
     &lt;/div&gt;
 &lt;/div&gt;&lt;/p&gt;
-&lt;p&gt;So now all we have to do is to use the service in the component. Before Angular 14,we had to create a module that defines all providers components and other dependencies or import everything in the &lt;code&gt;AppModule&lt;/code&gt;.&lt;/p&gt;
+&lt;p&gt;So now, all we have to do is to use the service in the component. Before Angular 14, we had to create a module that defines all providers components and other dependencies or import everything in the &lt;code&gt;AppModule&lt;/code&gt;.&lt;/p&gt;
 &lt;p&gt;Now, we can declare Components as standalone and provide the service directly into the Component
 &lt;div id=&quot;gist116766567&quot; class=&quot;gist&quot;&gt;
     &lt;div class=&quot;gist-file&quot; translate=&quot;no&quot;&gt;
@@ -337,7 +337,7 @@ For the sake of the demo, this service is not provided in the root &lt;code&gt;p
     &lt;/div&gt;
 &lt;/div&gt;&lt;/p&gt;
 &lt;h2&gt;&lt;/h2&gt;
-&lt;p&gt;In the Route Module, now we can directly import the component rather than the Module.&lt;/p&gt;
+&lt;p&gt;In the Route Module, we can directly import the component rather than the Module.&lt;/p&gt;
 &lt;p&gt;&lt;div id=&quot;gist116751011&quot; class=&quot;gist&quot;&gt;
     &lt;div class=&quot;gist-file&quot; translate=&quot;no&quot;&gt;
       &lt;div class=&quot;gist-data&quot;&gt;
@@ -473,11 +473,11 @@ For the sake of the demo, this service is not provided in the root &lt;code&gt;p
 &lt;p&gt;You can play with the demo directly on Stackblitz&lt;/p&gt;
 &lt;iframe style=&quot;width: 100%;height: 313px;&quot; src=&quot;https://stackblitz.com/edit/github-vpsfla?embed=1&amp;file=src/app/user-detail/user-detail.component.ts&quot;&gt;&lt;/iframe&gt;
 &lt;h2&gt;Motivation&lt;/h2&gt;
-&lt;p&gt;Have you ever thought about why a framework like Angular started to review their vision about modularity?&lt;/p&gt;
-&lt;p&gt;In most Angular applications we used to find some CoreModule, SharedModule and others that contain the common unit which is used in more than one module.&lt;/p&gt;
+&lt;p&gt;Have you ever thought: why a framework like Angular started to review their vision about modularity?&lt;/p&gt;
+&lt;p&gt;In most Angular applications we are used to find some CoreModule, SharedModule and others that contain the common unit which is used in more than one module.&lt;/p&gt;
 &lt;p&gt;Everytime the application grows, there&apos;s a chance that these modules will grow too.&lt;/p&gt;
 &lt;p&gt;That&apos;s fine until we start thinking about performance.&lt;/p&gt;
-&lt;p&gt;In the chart below we will demonstrate the use of a common NgModule and how to import a component directly inside another module without the middle man, Thanks to Angular 14 of course.&lt;/p&gt;
+&lt;p&gt;In the chart below, we will demonstrate the use of a common NgModule and how to import a component directly inside another module without the middle man, Thanks to Angular 14 of course.&lt;/p&gt;
 &lt;h3&gt;Sharing standard component&lt;/h3&gt;
 &lt;p&gt;&lt;img src=&quot;/images/Angular-14-Standalone-components-1.drawio.png&quot; alt=&quot;aa&quot;&gt;&lt;/p&gt;
 &lt;h2&gt;&lt;/h2&gt;
@@ -493,8 +493,7 @@ This ShareModule has been imported in the two modules.&lt;/p&gt;
 &lt;p&gt;The &lt;code&gt;FormatDatePipe&lt;/code&gt; load the &lt;code&gt;DateTimeService&lt;/code&gt; and &lt;code&gt;DocumentViwerComponent&lt;/code&gt; load &lt;code&gt;DocumentService&lt;/code&gt;.&lt;/p&gt;
 &lt;p&gt;Now When lazyloading a Component, only the component that is directly linked to it will be loaded.&lt;/p&gt;
 &lt;h3&gt;Conclusion&lt;/h3&gt;
-&lt;p&gt;Angular started approaching ReactJS with the small independent unit approach by introducing Standalone Component.
-which seems a big step toward enhancing web application performance and building a better and more maintainable web.&lt;/p&gt;
+&lt;p&gt;Angular started approaching ReactJS with the small independent unit approach by introducing Standalone Component, which seems a big step toward enhancing web application performance and building a better and more maintainable web.&lt;/p&gt;
 &lt;p&gt;Personally, I&apos;m not fan of the idea of working with only one Framework, since we can explore multiple paths at the same time then adopt what was a success in each Framework.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Angular 14: CLI Auto completion]]></title><description><![CDATA[Introduction As Front-end Architect, choosing the right Framework can impact the whole company even the group, that’s why we choose…]]></description><link>https://aymen.co/angular-cli-auto-completion/</link><guid isPermaLink="false">https://aymen.co/angular-cli-auto-completion/</guid><pubDate>Sun, 12 Jun 2022 00:00:00 GMT</pubDate><content:encoded>&lt;h2&gt;Introduction&lt;/h2&gt;
 &lt;p&gt;As Front-end Architect, choosing the right Framework can impact the whole company even the group, that’s why we choose carefully the technologies that we adopt.&lt;/p&gt;
 &lt;p&gt;For many years Angular prove how stable, it is, and when braking change happens, it will be accompanied by a great documentation.&lt;/p&gt;
