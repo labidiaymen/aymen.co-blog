@@ -11,7 +11,7 @@ cover: ../images/angular-standalone-component.PNG
 
 ##
 
-At ReactConfg 2018 Event, Dan Abramov explained the Logo of React, he said that the user interface can be splitted into a small independent units called components - similar to an Atom - and they will focus, in the next few years, on Hooks: “Electrons” as he named them.
+At ReactConfg 2018 Event, Dan Abramov explained the Logo of React, he said that the user interface can be splitted into small independent units called components - similar to an Atom - and they will focus, in the next few years, on Hooks: “Electrons” as he named them.
  
 On the other side of the Javascript world, Angular started focusing on smaller units as Component, Directive and Pipes rather than modules.
  
@@ -32,14 +32,14 @@ For the sake of the demo, this service is not provided in the root `providedIn: 
 
 `gist:labidiaymen/5706440fbf88bf979b264b6413d90b36`
 
-So now all we have to do is to use the service in the component. Before Angular 14,we had to create a module that defines all providers components and other dependencies or import everything in the `AppModule`.
+So now, all we have to do is to use the service in the component. Before Angular 14, we had to create a module that defines all providers components and other dependencies or import everything in the `AppModule`.
 
 Now, we can declare Components as standalone and provide the service directly into the Component
 `gist:labidiaymen/20ceddab8dbf00204621cd5c3e12f146`
 
 ##
 
-In the Route Module, now we can directly import the component rather than the Module.
+In the Route Module, we can directly import the component rather than the Module.
 
 `gist:labidiaymen/35fd2acb26b0577ddfaa4f1d1cf42ae1`
 
@@ -55,16 +55,16 @@ You can play with the demo directly on Stackblitz
 
 ## Motivation
 
-Have you ever thought about why a framework like Angular started to review their vision about modularity?
+Have you ever thought: why a framework like Angular started to review their vision about modularity?
 
-In most Angular applications we used to find some CoreModule, SharedModule and others that contain the common unit which is used in more than one module.
+In most Angular applications we are used to find some CoreModule, SharedModule and others that contain the common unit which is used in more than one module.
 
 
 Everytime the application grows, there's a chance that these modules will grow too.
 
 That's fine until we start thinking about performance.
  
-In the chart below we will demonstrate the use of a common NgModule and how to import a component directly inside another module without the middle man, Thanks to Angular 14 of course.
+In the chart below, we will demonstrate the use of a common NgModule and how to import a component directly inside another module without the middle man, Thanks to Angular 14 of course.
 
 ### Sharing standard component
 
@@ -93,7 +93,6 @@ Now When lazyloading a Component, only the component that is directly linked to 
 
 ### Conclusion
 
-Angular started approaching ReactJS with the small independent unit approach by introducing Standalone Component.
-which seems a big step toward enhancing web application performance and building a better and more maintainable web.
+Angular started approaching ReactJS with the small independent unit approach by introducing Standalone Component, which seems a big step toward enhancing web application performance and building a better and more maintainable web.
 
-Personally, I'm not a fan of the idea of having one Framework, because we can explore multiple paths at the same time then we can adopt what was a success in each framework.
+Personally, I'm not fan of the idea of working with only one Framework, since we can explore multiple paths at the same time then adopt what was a success in each Framework.
