@@ -26,7 +26,153 @@ analytics.load('bvDH6C0F5Oj4aYq6sYCF2bbEEFIoHNea');
 <p>Now when I (or anyone else in the same repository ) push a commit, Gitlab will run the test, build and generate an APK file (for Android) for me and show me If there are issues white building.</p>
 <p>I will share with you how I've Done it.</p>
 <p>You can achieve this <strong>workflow</strong> by adding .gitlab-ci.yml</p>
-<script src="https://gist.github.com/labidiaymen/27f0e2dd6f2de278ca68c550d89c78fb.js"></script>
+<p><div id="gist89554558" class="gist">
+    <div class="gist-file" translate="no">
+      <div class="gist-data">
+        <div class="js-gist-file-update-container js-task-list-container file-box">
+  <div id="file-gitlab-ci-yml" class="file my-2">
+    
+    <div itemprop="text" class="Box-body p-0 blob-wrapper data type-yaml  ">
+
+        
+<div class="js-check-bidi js-blob-code-container blob-code-content">
+
+  <template class="js-file-alert-template">
+  <div data-view-component="true" class="flash flash-warn flash-full d-flex flex-items-center">
+  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-alert">
+    <path fill-rule="evenodd" d="M8.22 1.754a.25.25 0 00-.44 0L1.698 13.132a.25.25 0 00.22.368h12.164a.25.25 0 00.22-.368L8.22 1.754zm-1.763-.707c.659-1.234 2.427-1.234 3.086 0l6.082 11.378A1.75 1.75 0 0114.082 15H1.918a1.75 1.75 0 01-1.543-2.575L6.457 1.047zM9 11a1 1 0 11-2 0 1 1 0 012 0zm-.25-5.25a.75.75 0 00-1.5 0v2.5a.75.75 0 001.5 0v-2.5z"></path>
+</svg>
+  
+    <span>
+      This file contains bidirectional Unicode text that may be interpreted or compiled differently than what appears below. To review, open the file in an editor that reveals hidden Unicode characters.
+      <a href="https://github.co/hiddenchars" target="_blank">Learn more about bidirectional Unicode characters</a>
+    </span>
+
+
+  <div data-view-component="true" class="flash-action">      <a href="{{ revealButtonHref }}" data-view-component="true" class="btn-sm btn">  Show hidden characters
+  
+</a>
+</div>
+</div></template>
+<template class="js-line-alert-template">
+  <span aria-label="This line has hidden Unicode characters" data-view-component="true" class="line-alert tooltipped tooltipped-e">
+    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-alert">
+    <path fill-rule="evenodd" d="M8.22 1.754a.25.25 0 00-.44 0L1.698 13.132a.25.25 0 00.22.368h12.164a.25.25 0 00.22-.368L8.22 1.754zm-1.763-.707c.659-1.234 2.427-1.234 3.086 0l6.082 11.378A1.75 1.75 0 0114.082 15H1.918a1.75 1.75 0 01-1.543-2.575L6.457 1.047zM9 11a1 1 0 11-2 0 1 1 0 012 0zm-.25-5.25a.75.75 0 00-1.5 0v2.5a.75.75 0 001.5 0v-2.5z"></path>
+</svg>
+</span></template>
+
+  <table class="highlight tab-size js-file-line-container js-code-nav-container js-tagsearch-file" data-tab-size="8" data-paste-markdown-skip data-tagsearch-lang="YAML" data-tagsearch-path=".gitlab-ci.yml">
+        <tr>
+          <td id="file-gitlab-ci-yml-L1" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="1"></td>
+          <td id="file-gitlab-ci-yml-LC1" class="blob-code blob-code-inner js-file-line"><span class="pl-ent">build_job</span>:</td>
+        </tr>
+        <tr>
+          <td id="file-gitlab-ci-yml-L2" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="2"></td>
+          <td id="file-gitlab-ci-yml-LC2" class="blob-code blob-code-inner js-file-line">  <span class="pl-ent">image</span>: <span class="pl-s">runmymind/docker-android-sdk:ubuntu-standalone</span></td>
+        </tr>
+        <tr>
+          <td id="file-gitlab-ci-yml-L3" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="3"></td>
+          <td id="file-gitlab-ci-yml-LC3" class="blob-code blob-code-inner js-file-line">  <span class="pl-ent">variables</span>:</td>
+        </tr>
+        <tr>
+          <td id="file-gitlab-ci-yml-L4" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="4"></td>
+          <td id="file-gitlab-ci-yml-LC4" class="blob-code blob-code-inner js-file-line">    <span class="pl-ent">NODE_VERSION</span>: <span class="pl-s">8.9.4</span></td>
+        </tr>
+        <tr>
+          <td id="file-gitlab-ci-yml-L5" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="5"></td>
+          <td id="file-gitlab-ci-yml-LC5" class="blob-code blob-code-inner js-file-line">  <span class="pl-ent">stage</span>: <span class="pl-s">build</span></td>
+        </tr>
+        <tr>
+          <td id="file-gitlab-ci-yml-L6" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="6"></td>
+          <td id="file-gitlab-ci-yml-LC6" class="blob-code blob-code-inner js-file-line">  <span class="pl-ent">only</span>:</td>
+        </tr>
+        <tr>
+          <td id="file-gitlab-ci-yml-L7" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="7"></td>
+          <td id="file-gitlab-ci-yml-LC7" class="blob-code blob-code-inner js-file-line">    - <span class="pl-s">master</span></td>
+        </tr>
+        <tr>
+          <td id="file-gitlab-ci-yml-L8" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="8"></td>
+          <td id="file-gitlab-ci-yml-LC8" class="blob-code blob-code-inner js-file-line">  <span class="pl-ent">script</span>: </td>
+        </tr>
+        <tr>
+          <td id="file-gitlab-ci-yml-L9" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="9"></td>
+          <td id="file-gitlab-ci-yml-LC9" class="blob-code blob-code-inner js-file-line">    - <span class="pl-s">git submodule update --init --recursive</span></td>
+        </tr>
+        <tr>
+          <td id="file-gitlab-ci-yml-L10" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="10"></td>
+          <td id="file-gitlab-ci-yml-LC10" class="blob-code blob-code-inner js-file-line">    - <span class="pl-s">wget -q http://nodejs.org/dist/v${NODE_VERSION}/node-v${NODE_VERSION}-linux-x64.tar.gz</span></td>
+        </tr>
+        <tr>
+          <td id="file-gitlab-ci-yml-L11" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="11"></td>
+          <td id="file-gitlab-ci-yml-LC11" class="blob-code blob-code-inner js-file-line">    - <span class="pl-s">tar -xzf node-v${NODE_VERSION}-linux-x64.tar.gz</span></td>
+        </tr>
+        <tr>
+          <td id="file-gitlab-ci-yml-L12" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="12"></td>
+          <td id="file-gitlab-ci-yml-LC12" class="blob-code blob-code-inner js-file-line">    - <span class="pl-s">mv node-v${NODE_VERSION}-linux-x64 /opt/node</span></td>
+        </tr>
+        <tr>
+          <td id="file-gitlab-ci-yml-L13" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="13"></td>
+          <td id="file-gitlab-ci-yml-LC13" class="blob-code blob-code-inner js-file-line">    - <span class="pl-s">rm node-v${NODE_VERSION}-linux-x64.tar.gz</span></td>
+        </tr>
+        <tr>
+          <td id="file-gitlab-ci-yml-L14" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="14"></td>
+          <td id="file-gitlab-ci-yml-LC14" class="blob-code blob-code-inner js-file-line">    - <span class="pl-s">PATH=${PATH}:/opt/node/bin</span></td>
+        </tr>
+        <tr>
+          <td id="file-gitlab-ci-yml-L15" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="15"></td>
+          <td id="file-gitlab-ci-yml-LC15" class="blob-code blob-code-inner js-file-line">    - <span class="pl-s">npm install -g nativescript --unsafe-perm</span></td>
+        </tr>
+        <tr>
+          <td id="file-gitlab-ci-yml-L16" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="16"></td>
+          <td id="file-gitlab-ci-yml-LC16" class="blob-code blob-code-inner js-file-line">    - <span class="pl-s">npm install nativescript --unsafe-perm</span></td>
+        </tr>
+        <tr>
+          <td id="file-gitlab-ci-yml-L17" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="17"></td>
+          <td id="file-gitlab-ci-yml-LC17" class="blob-code blob-code-inner js-file-line">    - <span class="pl-s">$ANDROID_HOME/tools/bin/sdkmanager &quot;tools&quot; &quot;platform-tools&quot; &quot;platforms;android-26&quot; &quot;build-tools;26.0.1&quot; &quot;extras;android;m2repository&quot; &quot;extras;google;m2repository&quot; &gt; /dev/null</span></td>
+        </tr>
+        <tr>
+          <td id="file-gitlab-ci-yml-L18" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="18"></td>
+          <td id="file-gitlab-ci-yml-LC18" class="blob-code blob-code-inner js-file-line">    - <span class="pl-s">npm i</span></td>
+        </tr>
+        <tr>
+          <td id="file-gitlab-ci-yml-L19" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="19"></td>
+          <td id="file-gitlab-ci-yml-LC19" class="blob-code blob-code-inner js-file-line">    - <span class="pl-s">echo $ANDROID_KEY_BASE64 | base64 -d &gt; bsc-release-key.jks</span></td>
+        </tr>
+        <tr>
+          <td id="file-gitlab-ci-yml-L20" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="20"></td>
+          <td id="file-gitlab-ci-yml-LC20" class="blob-code blob-code-inner js-file-line">    - <span class="pl-s">tns build android --bundle --env.snapshot --env.aot </span></td>
+        </tr>
+        <tr>
+          <td id="file-gitlab-ci-yml-L21" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="21"></td>
+          <td id="file-gitlab-ci-yml-LC21" class="blob-code blob-code-inner js-file-line">  <span class="pl-ent">artifacts</span>:</td>
+        </tr>
+        <tr>
+          <td id="file-gitlab-ci-yml-L22" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="22"></td>
+          <td id="file-gitlab-ci-yml-LC22" class="blob-code blob-code-inner js-file-line">    <span class="pl-ent">paths</span>:</td>
+        </tr>
+        <tr>
+          <td id="file-gitlab-ci-yml-L23" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="23"></td>
+          <td id="file-gitlab-ci-yml-LC23" class="blob-code blob-code-inner js-file-line">      - <span class="pl-s">platforms/android/app/build/outputs/apk/</span></td>
+        </tr>
+  </table>
+</div>
+
+
+    </div>
+
+  </div>
+</div>
+
+      </div>
+      <div class="gist-meta">
+        <a href="https://gist.github.com/labidiaymen/27f0e2dd6f2de278ca68c550d89c78fb/raw/33baa33b81ec876a6b99df003f286b0863b710ea/.gitlab-ci.yml" style="float:right">view raw</a>
+        <a href="https://gist.github.com/labidiaymen/27f0e2dd6f2de278ca68c550d89c78fb#file-gitlab-ci-yml">
+          .gitlab-ci.yml
+        </a>
+        hosted with &#10084; by <a href="https://github.com">GitHub</a>
+      </div>
+    </div>
+</div></p>
 <p>Let's break this file down.</p>
 <p>First, we created a <strong>Job</strong>, then we pull a <a href="https://www.docker.com/">Docker</a> image that contains a fresh Installed version of <strong>Android</strong>.</p>
 <p>Then we installed the <strong>Node.js</strong>, after that, we installed NativeScript, updating the Android SDK and installing Node modules with <strong>NPM</strong>.</p>
