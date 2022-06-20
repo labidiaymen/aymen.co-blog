@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Gatsby Starter Blog RSS Feed]]></title><description><![CDATA[A starter blog demonstrating what Gatsby can do.]]></description><link>https://aymen.co</link><generator>GatsbyJS</generator><lastBuildDate>Mon, 13 Jun 2022 21:45:18 GMT</lastBuildDate><item><title><![CDATA[No title]]></title><link>https://aymen.co/ecmascript/2022/</link><guid isPermaLink="false">https://aymen.co/ecmascript/2022/</guid><content:encoded>&lt;!-- ---
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Gatsby Starter Blog RSS Feed]]></title><description><![CDATA[A starter blog demonstrating what Gatsby can do.]]></description><link>https://aymen.co</link><generator>GatsbyJS</generator><lastBuildDate>Mon, 20 Jun 2022 11:46:37 GMT</lastBuildDate><item><title><![CDATA[No title]]></title><link>https://aymen.co/ecmascript/2022/</link><guid isPermaLink="false">https://aymen.co/ecmascript/2022/</guid><content:encoded>&lt;!-- ---
 title: &quot;ECMAScript 2022&quot;
 author: &quot;Aymen&quot;
 date: &quot;2022-06-183&quot;
@@ -9,7 +9,88 @@ tags: &quot;&quot;
 cover: ../images/angular-standalone-component.PNG
 ---
 
-## --&gt;</content:encoded></item><item><title><![CDATA[What you need to know about Tech Job in Tunisia]]></title><description><![CDATA[I start my career like the majority of the developers as a freelancer, and after a good amount of projects, I start building a Team, after…]]></description><link>https://aymen.co/Invalid DateTime-/</link><guid isPermaLink="false">https://aymen.co/Invalid DateTime-/</guid><pubDate>Invalid Date</pubDate><content:encoded>&lt;p&gt;I start my career like the majority of the developers as a freelancer, and after a good amount of projects, I start building a Team, after that, I look forward and I started a Startup, Why? simply to put up the good culture that I didn&apos;t find in any company that I worked for.&lt;/p&gt;
+## --&gt;</content:encoded></item><item><title><![CDATA[No title]]></title><link>https://aymen.co/microfrontend/</link><guid isPermaLink="false">https://aymen.co/microfrontend/</guid><content:encoded>&lt;!-- ---
+title: &quot;The era of the Microfrontend&quot;
+author: &quot;Aymen&quot;
+date: &quot;2022-06-21&quot;
+categories:
+  - javascript
+  - angular
+tags: &quot;&quot;
+cover: ../images/microfrontend.jpeg
+---
+
+##
+
+Back in 1997 Internet explorer introduced Iframe to integrate webpage inside an other.
+In this case we can have a parent application that call a second party application with only the url.
+
+This feature has been explored widly in the entrepise apllication, which provided a good way the build application on top of each other.
+
+After the rise of the frontend Framework, single page application become (SPA) become so populaire, which force the search engines the render the webpage to extract the SEO tags.
+
+Years later we start having a wide range of frontend frameworks some of them are deprecated.
+
+The problematiqe that re-writing exsiting code is painfull, keeping the code up to date is even more painfull.
+
+In the other hands some framework are more powerfull in some features more than others.
+
+Before the rise of the microfrontend, the microservices has been taken palce in the backend which give more flexibilty on the technologies used in the backend and handling the perfermonce and the high availablities.
+
+Long short story: the microfrontnend is the same principle but in the frontend.
+
+## Open the door for multi-Framework frontend
+
+When we start writing frontend many libreraies start to popup to make the developer life easer and add more productibiy, jQuery as example.
+
+Then we start having MVVM Framework offring two-way binding.
+
+After writing a complete application with one framework there&apos;s no way to start using an other.
+
+With Miscrofrontned two or more Framework can co-exist in the same application.
+
+Let&apos;s take an example:
+
+We start building an Entreprise applcation and the Frontend Architect choose Angular Framework as the main Framework.
+But after starting te project we found React Librery is faster than Angular in rendrering complex view.
+
+With the Microfrontend it&apos;s possible the write a parcial of the application with an other Framework/Librery
+
+![](/images/MF-apps.drawio.png)
+
+## Agile friendly
+
+With Microfrontend technolige each fearture can ben a standalone application that has it&apos;s owen develempoent cycle.
+So we can create smaller indepented Teams.
+
+
+&lt;p &gt;
+&lt;img src=&quot;/images/MF1.drawio.png&quot; /&gt;
+&lt;/p&gt;
+
+&lt;p &gt;
+&lt;img src=&quot;/images/MF2.drawio.png&quot; /&gt;
+&lt;/p&gt;
+
+## Indepented deployment
+
+In the microfrontend Architecture each feature or module is represented by an indepeneted project, which give us the capability to deploy indepentedly each project wihtout building all projects.
+
+
+&lt;p &gt;
+&lt;img src=&quot;/images/MF3.drawio.png&quot; /&gt;
+&lt;/p&gt;
+
+
+## Progressive migration
+
+Let&apos;s say that a company has a 10 years old frontend application written with Angular.js and now they start to migrate to Angular.
+
+There&apos;s two ways:
+
+Start an Hybrid project with Angular and Angular.js at the same times, which it&apos;s possible and there&apos;s many resouces that provide tools and documentaion to accompagne the dev teams to migrate the project, but it&apos;s case by case, the project can touch the limit before attending the migration.
+
+The other way is to impliment the Microfrontend, buy starting a new projet that mount the older view beside to new ones and write all the new features with new framework, then with a great plan, you can start to migrate securily feature by feature. --&gt;</content:encoded></item><item><title><![CDATA[What you need to know about Tech Job in Tunisia]]></title><description><![CDATA[I start my career like the majority of the developers as a freelancer, and after a good amount of projects, I start building a Team, after…]]></description><link>https://aymen.co/Invalid DateTime-/</link><guid isPermaLink="false">https://aymen.co/Invalid DateTime-/</guid><pubDate>Invalid Date</pubDate><content:encoded>&lt;p&gt;I start my career like the majority of the developers as a freelancer, and after a good amount of projects, I start building a Team, after that, I look forward and I started a Startup, Why? simply to put up the good culture that I didn&apos;t find in any company that I worked for.&lt;/p&gt;
 &lt;p&gt;After I start my consulting journey, I start working for companies in their office and manage my Team remotely, and It was very hard at first Then I get used to and everything goes right.&lt;/p&gt;
 &lt;p&gt;BUT and that&apos;s a big BUT, when you make a good culture at your Startup and you enter another culture, you need to adapt to their culture and it&apos;s been OK.&lt;/p&gt;
 &lt;p&gt;BUT, this another big BUT, how about if you start working with a very good and supportive CTO and a bad manager that trait the peoples working in his open space as machine working in specific hours, and make people fear of contacting him when seeking information. I&apos;ve been OK  and I didn&apos;t have an issue communication with him.&lt;/p&gt;
@@ -655,7 +736,153 @@ std::cout &amp;#x3C;&amp;#x3C; &quot;Is valid ASCII &quot; &amp;#x3C;&amp;#x3C; 
 &lt;p&gt;Now when I (or anyone else in the same repository ) push a commit, Gitlab will run the test, build and generate an APK file (for Android) for me and show me If there are issues white building.&lt;/p&gt;
 &lt;p&gt;I will share with you how I&apos;ve Done it.&lt;/p&gt;
 &lt;p&gt;You can achieve this &lt;strong&gt;workflow&lt;/strong&gt; by adding .gitlab-ci.yml&lt;/p&gt;
-&lt;script src=&quot;https://gist.github.com/labidiaymen/27f0e2dd6f2de278ca68c550d89c78fb.js&quot;&gt;&lt;/script&gt;
+&lt;p&gt;&lt;div id=&quot;gist89554558&quot; class=&quot;gist&quot;&gt;
+    &lt;div class=&quot;gist-file&quot; translate=&quot;no&quot;&gt;
+      &lt;div class=&quot;gist-data&quot;&gt;
+        &lt;div class=&quot;js-gist-file-update-container js-task-list-container file-box&quot;&gt;
+  &lt;div id=&quot;file-gitlab-ci-yml&quot; class=&quot;file my-2&quot;&gt;
+    
+    &lt;div itemprop=&quot;text&quot; class=&quot;Box-body p-0 blob-wrapper data type-yaml  &quot;&gt;
+
+        
+&lt;div class=&quot;js-check-bidi js-blob-code-container blob-code-content&quot;&gt;
+
+  &lt;template class=&quot;js-file-alert-template&quot;&gt;
+  &lt;div data-view-component=&quot;true&quot; class=&quot;flash flash-warn flash-full d-flex flex-items-center&quot;&gt;
+  &lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; viewBox=&quot;0 0 16 16&quot; version=&quot;1.1&quot; width=&quot;16&quot; data-view-component=&quot;true&quot; class=&quot;octicon octicon-alert&quot;&gt;
+    &lt;path fill-rule=&quot;evenodd&quot; d=&quot;M8.22 1.754a.25.25 0 00-.44 0L1.698 13.132a.25.25 0 00.22.368h12.164a.25.25 0 00.22-.368L8.22 1.754zm-1.763-.707c.659-1.234 2.427-1.234 3.086 0l6.082 11.378A1.75 1.75 0 0114.082 15H1.918a1.75 1.75 0 01-1.543-2.575L6.457 1.047zM9 11a1 1 0 11-2 0 1 1 0 012 0zm-.25-5.25a.75.75 0 00-1.5 0v2.5a.75.75 0 001.5 0v-2.5z&quot;&gt;&lt;/path&gt;
+&lt;/svg&gt;
+  
+    &lt;span&gt;
+      This file contains bidirectional Unicode text that may be interpreted or compiled differently than what appears below. To review, open the file in an editor that reveals hidden Unicode characters.
+      &lt;a href=&quot;https://github.co/hiddenchars&quot; target=&quot;_blank&quot;&gt;Learn more about bidirectional Unicode characters&lt;/a&gt;
+    &lt;/span&gt;
+
+
+  &lt;div data-view-component=&quot;true&quot; class=&quot;flash-action&quot;&gt;      &lt;a href=&quot;{{ revealButtonHref }}&quot; data-view-component=&quot;true&quot; class=&quot;btn-sm btn&quot;&gt;  Show hidden characters
+  
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;/template&gt;
+&lt;template class=&quot;js-line-alert-template&quot;&gt;
+  &lt;span aria-label=&quot;This line has hidden Unicode characters&quot; data-view-component=&quot;true&quot; class=&quot;line-alert tooltipped tooltipped-e&quot;&gt;
+    &lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; viewBox=&quot;0 0 16 16&quot; version=&quot;1.1&quot; width=&quot;16&quot; data-view-component=&quot;true&quot; class=&quot;octicon octicon-alert&quot;&gt;
+    &lt;path fill-rule=&quot;evenodd&quot; d=&quot;M8.22 1.754a.25.25 0 00-.44 0L1.698 13.132a.25.25 0 00.22.368h12.164a.25.25 0 00.22-.368L8.22 1.754zm-1.763-.707c.659-1.234 2.427-1.234 3.086 0l6.082 11.378A1.75 1.75 0 0114.082 15H1.918a1.75 1.75 0 01-1.543-2.575L6.457 1.047zM9 11a1 1 0 11-2 0 1 1 0 012 0zm-.25-5.25a.75.75 0 00-1.5 0v2.5a.75.75 0 001.5 0v-2.5z&quot;&gt;&lt;/path&gt;
+&lt;/svg&gt;
+&lt;/span&gt;&lt;/template&gt;
+
+  &lt;table class=&quot;highlight tab-size js-file-line-container js-code-nav-container js-tagsearch-file&quot; data-tab-size=&quot;8&quot; data-paste-markdown-skip data-tagsearch-lang=&quot;YAML&quot; data-tagsearch-path=&quot;.gitlab-ci.yml&quot;&gt;
+        &lt;tr&gt;
+          &lt;td id=&quot;file-gitlab-ci-yml-L1&quot; class=&quot;blob-num js-line-number js-code-nav-line-number js-blob-rnum&quot; data-line-number=&quot;1&quot;&gt;&lt;/td&gt;
+          &lt;td id=&quot;file-gitlab-ci-yml-LC1&quot; class=&quot;blob-code blob-code-inner js-file-line&quot;&gt;&lt;span class=&quot;pl-ent&quot;&gt;build_job&lt;/span&gt;:&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+          &lt;td id=&quot;file-gitlab-ci-yml-L2&quot; class=&quot;blob-num js-line-number js-code-nav-line-number js-blob-rnum&quot; data-line-number=&quot;2&quot;&gt;&lt;/td&gt;
+          &lt;td id=&quot;file-gitlab-ci-yml-LC2&quot; class=&quot;blob-code blob-code-inner js-file-line&quot;&gt;  &lt;span class=&quot;pl-ent&quot;&gt;image&lt;/span&gt;: &lt;span class=&quot;pl-s&quot;&gt;runmymind/docker-android-sdk:ubuntu-standalone&lt;/span&gt;&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+          &lt;td id=&quot;file-gitlab-ci-yml-L3&quot; class=&quot;blob-num js-line-number js-code-nav-line-number js-blob-rnum&quot; data-line-number=&quot;3&quot;&gt;&lt;/td&gt;
+          &lt;td id=&quot;file-gitlab-ci-yml-LC3&quot; class=&quot;blob-code blob-code-inner js-file-line&quot;&gt;  &lt;span class=&quot;pl-ent&quot;&gt;variables&lt;/span&gt;:&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+          &lt;td id=&quot;file-gitlab-ci-yml-L4&quot; class=&quot;blob-num js-line-number js-code-nav-line-number js-blob-rnum&quot; data-line-number=&quot;4&quot;&gt;&lt;/td&gt;
+          &lt;td id=&quot;file-gitlab-ci-yml-LC4&quot; class=&quot;blob-code blob-code-inner js-file-line&quot;&gt;    &lt;span class=&quot;pl-ent&quot;&gt;NODE_VERSION&lt;/span&gt;: &lt;span class=&quot;pl-s&quot;&gt;8.9.4&lt;/span&gt;&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+          &lt;td id=&quot;file-gitlab-ci-yml-L5&quot; class=&quot;blob-num js-line-number js-code-nav-line-number js-blob-rnum&quot; data-line-number=&quot;5&quot;&gt;&lt;/td&gt;
+          &lt;td id=&quot;file-gitlab-ci-yml-LC5&quot; class=&quot;blob-code blob-code-inner js-file-line&quot;&gt;  &lt;span class=&quot;pl-ent&quot;&gt;stage&lt;/span&gt;: &lt;span class=&quot;pl-s&quot;&gt;build&lt;/span&gt;&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+          &lt;td id=&quot;file-gitlab-ci-yml-L6&quot; class=&quot;blob-num js-line-number js-code-nav-line-number js-blob-rnum&quot; data-line-number=&quot;6&quot;&gt;&lt;/td&gt;
+          &lt;td id=&quot;file-gitlab-ci-yml-LC6&quot; class=&quot;blob-code blob-code-inner js-file-line&quot;&gt;  &lt;span class=&quot;pl-ent&quot;&gt;only&lt;/span&gt;:&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+          &lt;td id=&quot;file-gitlab-ci-yml-L7&quot; class=&quot;blob-num js-line-number js-code-nav-line-number js-blob-rnum&quot; data-line-number=&quot;7&quot;&gt;&lt;/td&gt;
+          &lt;td id=&quot;file-gitlab-ci-yml-LC7&quot; class=&quot;blob-code blob-code-inner js-file-line&quot;&gt;    - &lt;span class=&quot;pl-s&quot;&gt;master&lt;/span&gt;&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+          &lt;td id=&quot;file-gitlab-ci-yml-L8&quot; class=&quot;blob-num js-line-number js-code-nav-line-number js-blob-rnum&quot; data-line-number=&quot;8&quot;&gt;&lt;/td&gt;
+          &lt;td id=&quot;file-gitlab-ci-yml-LC8&quot; class=&quot;blob-code blob-code-inner js-file-line&quot;&gt;  &lt;span class=&quot;pl-ent&quot;&gt;script&lt;/span&gt;: &lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+          &lt;td id=&quot;file-gitlab-ci-yml-L9&quot; class=&quot;blob-num js-line-number js-code-nav-line-number js-blob-rnum&quot; data-line-number=&quot;9&quot;&gt;&lt;/td&gt;
+          &lt;td id=&quot;file-gitlab-ci-yml-LC9&quot; class=&quot;blob-code blob-code-inner js-file-line&quot;&gt;    - &lt;span class=&quot;pl-s&quot;&gt;git submodule update --init --recursive&lt;/span&gt;&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+          &lt;td id=&quot;file-gitlab-ci-yml-L10&quot; class=&quot;blob-num js-line-number js-code-nav-line-number js-blob-rnum&quot; data-line-number=&quot;10&quot;&gt;&lt;/td&gt;
+          &lt;td id=&quot;file-gitlab-ci-yml-LC10&quot; class=&quot;blob-code blob-code-inner js-file-line&quot;&gt;    - &lt;span class=&quot;pl-s&quot;&gt;wget -q http://nodejs.org/dist/v${NODE_VERSION}/node-v${NODE_VERSION}-linux-x64.tar.gz&lt;/span&gt;&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+          &lt;td id=&quot;file-gitlab-ci-yml-L11&quot; class=&quot;blob-num js-line-number js-code-nav-line-number js-blob-rnum&quot; data-line-number=&quot;11&quot;&gt;&lt;/td&gt;
+          &lt;td id=&quot;file-gitlab-ci-yml-LC11&quot; class=&quot;blob-code blob-code-inner js-file-line&quot;&gt;    - &lt;span class=&quot;pl-s&quot;&gt;tar -xzf node-v${NODE_VERSION}-linux-x64.tar.gz&lt;/span&gt;&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+          &lt;td id=&quot;file-gitlab-ci-yml-L12&quot; class=&quot;blob-num js-line-number js-code-nav-line-number js-blob-rnum&quot; data-line-number=&quot;12&quot;&gt;&lt;/td&gt;
+          &lt;td id=&quot;file-gitlab-ci-yml-LC12&quot; class=&quot;blob-code blob-code-inner js-file-line&quot;&gt;    - &lt;span class=&quot;pl-s&quot;&gt;mv node-v${NODE_VERSION}-linux-x64 /opt/node&lt;/span&gt;&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+          &lt;td id=&quot;file-gitlab-ci-yml-L13&quot; class=&quot;blob-num js-line-number js-code-nav-line-number js-blob-rnum&quot; data-line-number=&quot;13&quot;&gt;&lt;/td&gt;
+          &lt;td id=&quot;file-gitlab-ci-yml-LC13&quot; class=&quot;blob-code blob-code-inner js-file-line&quot;&gt;    - &lt;span class=&quot;pl-s&quot;&gt;rm node-v${NODE_VERSION}-linux-x64.tar.gz&lt;/span&gt;&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+          &lt;td id=&quot;file-gitlab-ci-yml-L14&quot; class=&quot;blob-num js-line-number js-code-nav-line-number js-blob-rnum&quot; data-line-number=&quot;14&quot;&gt;&lt;/td&gt;
+          &lt;td id=&quot;file-gitlab-ci-yml-LC14&quot; class=&quot;blob-code blob-code-inner js-file-line&quot;&gt;    - &lt;span class=&quot;pl-s&quot;&gt;PATH=${PATH}:/opt/node/bin&lt;/span&gt;&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+          &lt;td id=&quot;file-gitlab-ci-yml-L15&quot; class=&quot;blob-num js-line-number js-code-nav-line-number js-blob-rnum&quot; data-line-number=&quot;15&quot;&gt;&lt;/td&gt;
+          &lt;td id=&quot;file-gitlab-ci-yml-LC15&quot; class=&quot;blob-code blob-code-inner js-file-line&quot;&gt;    - &lt;span class=&quot;pl-s&quot;&gt;npm install -g nativescript --unsafe-perm&lt;/span&gt;&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+          &lt;td id=&quot;file-gitlab-ci-yml-L16&quot; class=&quot;blob-num js-line-number js-code-nav-line-number js-blob-rnum&quot; data-line-number=&quot;16&quot;&gt;&lt;/td&gt;
+          &lt;td id=&quot;file-gitlab-ci-yml-LC16&quot; class=&quot;blob-code blob-code-inner js-file-line&quot;&gt;    - &lt;span class=&quot;pl-s&quot;&gt;npm install nativescript --unsafe-perm&lt;/span&gt;&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+          &lt;td id=&quot;file-gitlab-ci-yml-L17&quot; class=&quot;blob-num js-line-number js-code-nav-line-number js-blob-rnum&quot; data-line-number=&quot;17&quot;&gt;&lt;/td&gt;
+          &lt;td id=&quot;file-gitlab-ci-yml-LC17&quot; class=&quot;blob-code blob-code-inner js-file-line&quot;&gt;    - &lt;span class=&quot;pl-s&quot;&gt;$ANDROID_HOME/tools/bin/sdkmanager &amp;quot;tools&amp;quot; &amp;quot;platform-tools&amp;quot; &amp;quot;platforms;android-26&amp;quot; &amp;quot;build-tools;26.0.1&amp;quot; &amp;quot;extras;android;m2repository&amp;quot; &amp;quot;extras;google;m2repository&amp;quot; &amp;gt; /dev/null&lt;/span&gt;&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+          &lt;td id=&quot;file-gitlab-ci-yml-L18&quot; class=&quot;blob-num js-line-number js-code-nav-line-number js-blob-rnum&quot; data-line-number=&quot;18&quot;&gt;&lt;/td&gt;
+          &lt;td id=&quot;file-gitlab-ci-yml-LC18&quot; class=&quot;blob-code blob-code-inner js-file-line&quot;&gt;    - &lt;span class=&quot;pl-s&quot;&gt;npm i&lt;/span&gt;&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+          &lt;td id=&quot;file-gitlab-ci-yml-L19&quot; class=&quot;blob-num js-line-number js-code-nav-line-number js-blob-rnum&quot; data-line-number=&quot;19&quot;&gt;&lt;/td&gt;
+          &lt;td id=&quot;file-gitlab-ci-yml-LC19&quot; class=&quot;blob-code blob-code-inner js-file-line&quot;&gt;    - &lt;span class=&quot;pl-s&quot;&gt;echo $ANDROID_KEY_BASE64 | base64 -d &amp;gt; bsc-release-key.jks&lt;/span&gt;&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+          &lt;td id=&quot;file-gitlab-ci-yml-L20&quot; class=&quot;blob-num js-line-number js-code-nav-line-number js-blob-rnum&quot; data-line-number=&quot;20&quot;&gt;&lt;/td&gt;
+          &lt;td id=&quot;file-gitlab-ci-yml-LC20&quot; class=&quot;blob-code blob-code-inner js-file-line&quot;&gt;    - &lt;span class=&quot;pl-s&quot;&gt;tns build android --bundle --env.snapshot --env.aot &lt;/span&gt;&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+          &lt;td id=&quot;file-gitlab-ci-yml-L21&quot; class=&quot;blob-num js-line-number js-code-nav-line-number js-blob-rnum&quot; data-line-number=&quot;21&quot;&gt;&lt;/td&gt;
+          &lt;td id=&quot;file-gitlab-ci-yml-LC21&quot; class=&quot;blob-code blob-code-inner js-file-line&quot;&gt;  &lt;span class=&quot;pl-ent&quot;&gt;artifacts&lt;/span&gt;:&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+          &lt;td id=&quot;file-gitlab-ci-yml-L22&quot; class=&quot;blob-num js-line-number js-code-nav-line-number js-blob-rnum&quot; data-line-number=&quot;22&quot;&gt;&lt;/td&gt;
+          &lt;td id=&quot;file-gitlab-ci-yml-LC22&quot; class=&quot;blob-code blob-code-inner js-file-line&quot;&gt;    &lt;span class=&quot;pl-ent&quot;&gt;paths&lt;/span&gt;:&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+          &lt;td id=&quot;file-gitlab-ci-yml-L23&quot; class=&quot;blob-num js-line-number js-code-nav-line-number js-blob-rnum&quot; data-line-number=&quot;23&quot;&gt;&lt;/td&gt;
+          &lt;td id=&quot;file-gitlab-ci-yml-LC23&quot; class=&quot;blob-code blob-code-inner js-file-line&quot;&gt;      - &lt;span class=&quot;pl-s&quot;&gt;platforms/android/app/build/outputs/apk/&lt;/span&gt;&lt;/td&gt;
+        &lt;/tr&gt;
+  &lt;/table&gt;
+&lt;/div&gt;
+
+
+    &lt;/div&gt;
+
+  &lt;/div&gt;
+&lt;/div&gt;
+
+      &lt;/div&gt;
+      &lt;div class=&quot;gist-meta&quot;&gt;
+        &lt;a href=&quot;https://gist.github.com/labidiaymen/27f0e2dd6f2de278ca68c550d89c78fb/raw/33baa33b81ec876a6b99df003f286b0863b710ea/.gitlab-ci.yml&quot; style=&quot;float:right&quot;&gt;view raw&lt;/a&gt;
+        &lt;a href=&quot;https://gist.github.com/labidiaymen/27f0e2dd6f2de278ca68c550d89c78fb#file-gitlab-ci-yml&quot;&gt;
+          .gitlab-ci.yml
+        &lt;/a&gt;
+        hosted with &amp;#10084; by &lt;a href=&quot;https://github.com&quot;&gt;GitHub&lt;/a&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;&lt;/p&gt;
 &lt;p&gt;Let&apos;s break this file down.&lt;/p&gt;
 &lt;p&gt;First, we created a &lt;strong&gt;Job&lt;/strong&gt;, then we pull a &lt;a href=&quot;https://www.docker.com/&quot;&gt;Docker&lt;/a&gt; image that contains a fresh Installed version of &lt;strong&gt;Android&lt;/strong&gt;.&lt;/p&gt;
 &lt;p&gt;Then we installed the &lt;strong&gt;Node.js&lt;/strong&gt;, after that, we installed NativeScript, updating the Android SDK and installing Node modules with &lt;strong&gt;NPM&lt;/strong&gt;.&lt;/p&gt;
