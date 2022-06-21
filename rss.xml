@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Gatsby Starter Blog RSS Feed]]></title><description><![CDATA[A starter blog demonstrating what Gatsby can do.]]></description><link>https://aymen.co</link><generator>GatsbyJS</generator><lastBuildDate>Tue, 21 Jun 2022 10:32:35 GMT</lastBuildDate><item><title><![CDATA[No title]]></title><link>https://aymen.co/ecmascript/2022/</link><guid isPermaLink="false">https://aymen.co/ecmascript/2022/</guid><content:encoded>&lt;!-- ---
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Gatsby Starter Blog RSS Feed]]></title><description><![CDATA[A starter blog demonstrating what Gatsby can do.]]></description><link>https://aymen.co</link><generator>GatsbyJS</generator><lastBuildDate>Tue, 21 Jun 2022 11:12:48 GMT</lastBuildDate><item><title><![CDATA[No title]]></title><link>https://aymen.co/ecmascript/2022/</link><guid isPermaLink="false">https://aymen.co/ecmascript/2022/</guid><content:encoded>&lt;!-- ---
 title: &quot;ECMAScript 2022&quot;
 author: &quot;Aymen&quot;
 date: &quot;2022-06-183&quot;
@@ -19,7 +19,7 @@ cover: ../images/angular-standalone-component.PNG
 &lt;p&gt;Back in 1997, Internet Explorer (which is dead right now ) introduced Iframe which is an HTML element that helps integrate webpage inside another.
 In this case, we can have a parent application that calls a second party application via the url only.&lt;/p&gt;
 &lt;p&gt;This feature has been explored widely in the enterprise application, which provided a good way to build applications on top of each other.&lt;/p&gt;
-&lt;p&gt;After the rise of the front-end Framework, a single page application becomes (SPA) has become so popular; SPA forces search engines to render web pages and extract SEO tags.&lt;/p&gt;
+&lt;p&gt;After the rise of the front-end Framework, a single page application becomes (SPA) has become so popular. SPA forces search engines to render web pages and extract SEO tags.&lt;/p&gt;
 &lt;p&gt;Years later, we started having a wide range of front-end frameworks, some of them are deprecated now. This variety gives the opportunity to use multiple frameworks at the same time, as some are more powerful than others in some features.&lt;/p&gt;
 &lt;p&gt;The problematic is that re-writing existing code is painful, keeping the code up to date is even more painful.&lt;/p&gt;
 &lt;p&gt;Before the rise of the microfrontend architecture, microservices were already being used in the back-end which gave more flexibility to the technologies used.&lt;/p&gt;
@@ -27,7 +27,7 @@ In this case, we can have a parent application that calls a second party applica
 &lt;h2&gt;Open the door to multi-Framework frontend&lt;/h2&gt;
 &lt;p&gt;When we started writing front-end frameworks, many libraries started poping up to make developers&apos; lives easier and add boost their productivity. One of these libraries is jQuery.&lt;/p&gt;
 &lt;p&gt;Then, MVVM Frameworks appeared and offered two-way binding.&lt;/p&gt;
-&lt;p&gt;After developing a complete application using one framework, there&apos;s no way to start using another. Wheras, using Microfrontend, multiple Frameworks can co-exist within the same application.&lt;/p&gt;
+&lt;p&gt;After developing a complete application using one framework, there&apos;s no way to start using another. However, using Microfrontend, multiple Frameworks can co-exist within the same application.&lt;/p&gt;
 &lt;p&gt;Let&apos;s have an example:&lt;/p&gt;
 &lt;p&gt;We started building an enterprise application and the Front-end Architect choose Angular Framework as the main Framework.
 But after starting the project, we found that React Library is faster than Angular in rendering complex views.&lt;/p&gt;
@@ -54,7 +54,7 @@ This allows us to create small independent Teams.&lt;/p&gt;
 &lt;p&gt;2/ Implement Microfrontend by starting a new project, this will mount the old views next to the new ones and write all new features using the new framework, then with a great plan, you can start to securely migrating the features one by one.&lt;/p&gt;
 &lt;h2&gt;Conclusion&lt;/h2&gt;
 &lt;p&gt;Micro-Frontend Architecture it&apos;s not a hype, it&apos;s here to stay, we are doing it from the beginning  but the technologies change over time.&lt;/p&gt;
-&lt;p&gt;Opening the door to the micro front can be a huge advantage to adopt new technologies on the go. It&apos;s time to give it a try.&lt;/p&gt;
+&lt;p&gt;Opening the door to Micro-Frontend can be a huge advantage to adopt new technologies on the go. It&apos;s time to give it a try.&lt;/p&gt;
 &lt;h2&gt;&lt;/h2&gt;</content:encoded></item><item><title><![CDATA[Angular 14: Standalone components]]></title><description><![CDATA[At ReactConfg 2018 Event, Dan Abramov explained the Logo of React, he said that the user interface can be splitted into small independent…]]></description><link>https://aymen.co/angular-standalone-components/</link><guid isPermaLink="false">https://aymen.co/angular-standalone-components/</guid><pubDate>Mon, 13 Jun 2022 00:00:00 GMT</pubDate><content:encoded>&lt;h2&gt;&lt;/h2&gt;
 &lt;p&gt;At ReactConfg 2018 Event, Dan Abramov explained the Logo of React, he said that the user interface can be splitted into small independent units called components - similar to an Atom - and they will focus, in the next few years, on Hooks: “Electrons” as he named them.&lt;/p&gt;
 &lt;p&gt;On the other side of the Javascript world, Angular started focusing on smaller units as Component, Directive and Pipes rather than modules.&lt;/p&gt;
