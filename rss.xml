@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Gatsby Starter Blog RSS Feed]]></title><description><![CDATA[A starter blog demonstrating what Gatsby can do.]]></description><link>https://aymen.co</link><generator>GatsbyJS</generator><lastBuildDate>Tue, 21 Jun 2022 16:42:20 GMT</lastBuildDate><item><title><![CDATA[No title]]></title><link>https://aymen.co/ecmascript/2022/</link><guid isPermaLink="false">https://aymen.co/ecmascript/2022/</guid><content:encoded>&lt;!-- ---
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Gatsby Starter Blog RSS Feed]]></title><description><![CDATA[A starter blog demonstrating what Gatsby can do.]]></description><link>https://aymen.co</link><generator>GatsbyJS</generator><lastBuildDate>Tue, 21 Jun 2022 16:45:24 GMT</lastBuildDate><item><title><![CDATA[No title]]></title><link>https://aymen.co/ecmascript/2022/</link><guid isPermaLink="false">https://aymen.co/ecmascript/2022/</guid><content:encoded>&lt;!-- ---
 title: &quot;ECMAScript 2022&quot;
 author: &quot;Aymen&quot;
 date: &quot;2022-06-183&quot;
@@ -32,7 +32,9 @@ In this case, we can have a parent application that calls a second party applica
 &lt;p&gt;We started building an enterprise application and the Front-end Architect choose Angular Framework as the main Framework.
 But after starting the project, we found that React Library is faster than Angular in rendering complex views.&lt;/p&gt;
 &lt;p&gt;Here comes Microfrontend as it offers the possibility to write a part of the application using a different Framework/Library.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;/images/MF-apps.drawio.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;p &gt;
+&lt;img src=&quot;/images/MF-apps.drawio.png&quot; loading=&quot;lazy&quot;  /&gt;
+&lt;/p&gt;
 &lt;h2&gt;Agile friendly&lt;/h2&gt;
 &lt;p&gt;With Microfrontend technologies, each feature can be a standalone application that has its own development cycle.
 This allows us to create small independent Teams.&lt;/p&gt;
