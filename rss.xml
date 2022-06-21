@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Gatsby Starter Blog RSS Feed]]></title><description><![CDATA[A starter blog demonstrating what Gatsby can do.]]></description><link>https://aymen.co</link><generator>GatsbyJS</generator><lastBuildDate>Mon, 20 Jun 2022 21:21:22 GMT</lastBuildDate><item><title><![CDATA[No title]]></title><link>https://aymen.co/ecmascript/2022/</link><guid isPermaLink="false">https://aymen.co/ecmascript/2022/</guid><content:encoded>&lt;!-- ---
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Gatsby Starter Blog RSS Feed]]></title><description><![CDATA[A starter blog demonstrating what Gatsby can do.]]></description><link>https://aymen.co</link><generator>GatsbyJS</generator><lastBuildDate>Tue, 21 Jun 2022 10:28:38 GMT</lastBuildDate><item><title><![CDATA[No title]]></title><link>https://aymen.co/ecmascript/2022/</link><guid isPermaLink="false">https://aymen.co/ecmascript/2022/</guid><content:encoded>&lt;!-- ---
 title: &quot;ECMAScript 2022&quot;
 author: &quot;Aymen&quot;
 date: &quot;2022-06-183&quot;
@@ -9,94 +9,53 @@ tags: &quot;&quot;
 cover: ../images/angular-standalone-component.PNG
 ---
 
-## --&gt;</content:encoded></item><item><title><![CDATA[No title]]></title><link>https://aymen.co/microfrontend/</link><guid isPermaLink="false">https://aymen.co/microfrontend/</guid><content:encoded>&lt;!-- ---
-title: &quot;The era of the Microfrontend&quot;
-author: &quot;Aymen&quot;
-date: &quot;2022-06-21&quot;
-categories:
-  - javascript
-  - angular
-tags: &quot;&quot;
-cover: ../images/microfrontend.jpeg
----
-
-##
-
-Back in 1997 Internet explorer introduced Iframe to integrate webpage inside an other.
-In this case we can have a parent application that call a second party application with only the url.
-
-This feature has been explored widly in the entrepise apllication, which provided a good way the build application on top of each other.
-
-After the rise of the frontend Framework, single page application become (SPA) become so populaire, which force the search engines the render the webpage to extract the SEO tags.
-
-Years later we start having a wide range of frontend frameworks some of them are deprecated.
-
-The problematiqe that re-writing exsiting code is painfull, keeping the code up to date is even more painfull.
-
-In the other hands some framework are more powerfull in some features more than others.
-
-Before the rise of the microfrontend, the microservices has been taken palce in the backend which give more flexibilty on the technologies used in the backend and handling the perfermonce and the high availablities.
-
-Long short story: the microfrontnend is the same principle but in the frontend.
-
-## Open the door for multi-Framework frontend
-
-When we start writing frontend many libreraies start to popup to make the developer life easer and add more productibiy, jQuery as example.
-
-Then we start having MVVM Framework offring two-way binding.
-
-After writing a complete application with one framework there&apos;s no way to start using an other.
-
-With Miscrofrontned two or more Framework can co-exist in the same application.
-
-Let&apos;s take an example:
-
-We start building an Entreprise applcation and the Frontend Architect choose Angular Framework as the main Framework.
-But after starting te project we found React Librery is faster than Angular in rendrering complex view.
-
-With the Microfrontend it&apos;s possible the write a parcial of the application with an other Framework/Librery
-
-![](/images/MF-apps.drawio.png)
-
-## Agile friendly
-
-With Microfrontend technolige each fearture can ben a standalone application that has it&apos;s owen develempoent cycle.
-So we can create smaller indepented Teams.
-
-
-&lt;p &gt;
-&lt;img src=&quot;/images/MF1.drawio.png&quot; /&gt;
-&lt;/p&gt;
-
-&lt;p &gt;
-&lt;img src=&quot;/images/MF2.drawio.png&quot; /&gt;
-&lt;/p&gt;
-
-## Indepented deployment
-
-In the microfrontend Architecture each feature or module is represented by an indepeneted project, which give us the capability to deploy indepentedly each project wihtout building all projects.
-
-
-&lt;p &gt;
-&lt;img src=&quot;/images/MF3.drawio.png&quot; /&gt;
-&lt;/p&gt;
-
-
-## Progressive migration
-
-Let&apos;s say that a company has a 10 years old frontend application written with Angular.js and now they start to migrate to Angular.
-
-There&apos;s two ways:
-
-Start an Hybrid project with Angular and Angular.js at the same times, which it&apos;s possible and there&apos;s many resouces that provide tools and documentaion to accompagne the dev teams to migrate the project, but it&apos;s case by case, the project can touch the limit before attending the migration.
-
-The other way is to impliment the Microfrontend, buy starting a new projet that mount the older view beside to new ones and write all the new features with new framework, then with a great plan, you can start to migrate securily feature by feature. --&gt;</content:encoded></item><item><title><![CDATA[What you need to know about Tech Job in Tunisia]]></title><description><![CDATA[I start my career like the majority of the developers as a freelancer, and after a good amount of projects, I start building a Team, after…]]></description><link>https://aymen.co/Invalid DateTime-/</link><guid isPermaLink="false">https://aymen.co/Invalid DateTime-/</guid><pubDate>Invalid Date</pubDate><content:encoded>&lt;p&gt;I start my career like the majority of the developers as a freelancer, and after a good amount of projects, I start building a Team, after that, I look forward and I started a Startup, Why? simply to put up the good culture that I didn&apos;t find in any company that I worked for.&lt;/p&gt;
+## --&gt;</content:encoded></item><item><title><![CDATA[What you need to know about Tech Job in Tunisia]]></title><description><![CDATA[I start my career like the majority of the developers as a freelancer, and after a good amount of projects, I start building a Team, after…]]></description><link>https://aymen.co/Invalid DateTime-/</link><guid isPermaLink="false">https://aymen.co/Invalid DateTime-/</guid><pubDate>Invalid Date</pubDate><content:encoded>&lt;p&gt;I start my career like the majority of the developers as a freelancer, and after a good amount of projects, I start building a Team, after that, I look forward and I started a Startup, Why? simply to put up the good culture that I didn&apos;t find in any company that I worked for.&lt;/p&gt;
 &lt;p&gt;After I start my consulting journey, I start working for companies in their office and manage my Team remotely, and It was very hard at first Then I get used to and everything goes right.&lt;/p&gt;
 &lt;p&gt;BUT and that&apos;s a big BUT, when you make a good culture at your Startup and you enter another culture, you need to adapt to their culture and it&apos;s been OK.&lt;/p&gt;
 &lt;p&gt;BUT, this another big BUT, how about if you start working with a very good and supportive CTO and a bad manager that trait the peoples working in his open space as machine working in specific hours, and make people fear of contacting him when seeking information. I&apos;ve been OK  and I didn&apos;t have an issue communication with him.&lt;/p&gt;
 &lt;p&gt;Let&apos;s take a step back. I said a supportive CTO and a BAD manager.&lt;/p&gt;
 &lt;p&gt;For me, I always participate in the respectful conversation, other than that I cut off any direct conversion and ask the other parts to start a title thread with the subject and the CTO in it, here you can start a respectful conversation and start discussing the subject, like that you did get your respect and continue your challenge with the good CTO, because we can&apos;t find everything like we what, sometimes we need to adapt.&lt;/p&gt;
-&lt;p&gt;how about you? how you will manage this situation?&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Angular 14: Standalone components]]></title><description><![CDATA[At ReactConfg 2018 Event, Dan Abramov explained the Logo of React, he said that the user interface can be splitted into small independent…]]></description><link>https://aymen.co/angular-standalone-components/</link><guid isPermaLink="false">https://aymen.co/angular-standalone-components/</guid><pubDate>Mon, 13 Jun 2022 00:00:00 GMT</pubDate><content:encoded>&lt;h2&gt;&lt;/h2&gt;
+&lt;p&gt;how about you? how you will manage this situation?&lt;/p&gt;</content:encoded></item><item><title><![CDATA[The era of the Microfrontend]]></title><description><![CDATA[Back in 1997, Internet Explorer (which is dead right now ) introduced Iframe which is an HTML element that helps integrate webpage inside…]]></description><link>https://aymen.co/microfrontend/</link><guid isPermaLink="false">https://aymen.co/microfrontend/</guid><pubDate>Tue, 21 Jun 2022 00:00:00 GMT</pubDate><content:encoded>&lt;h2&gt;&lt;/h2&gt;
+&lt;p&gt;Back in 1997, Internet Explorer (which is dead right now ) introduced Iframe which is an HTML element that helps integrate webpage inside another.
+In this case, we can have a parent application that calls a second party application via the url only.&lt;/p&gt;
+&lt;p&gt;This feature has been explored widely in the enterprise application, which provided a good way to build applications on top of each other.&lt;/p&gt;
+&lt;p&gt;After the rise of the front-end Framework, a single page application becomes (SPA) has become so popular; SPA forces search engines to render web pages and extract SEO tags.&lt;/p&gt;
+&lt;p&gt;Years later, we started having a wide range of front-end frameworks, some of them are deprecated now. This variety gives the opportunity to use multiple frameworks at the same time, as some are more powerful than others in some features.&lt;/p&gt;
+&lt;p&gt;The problematic is that re-writing existing code is painful, keeping the code up to date is even more painful.&lt;/p&gt;
+&lt;p&gt;Before the rise of the microfrontend architecture, microservices were already being used in the back-end which gave more flexibility to the technologies used.&lt;/p&gt;
+&lt;p&gt;Long short story: microfrontend is the same as microservices, but in the front-end.&lt;/p&gt;
+&lt;h2&gt;Open the door to multi-Framework frontend&lt;/h2&gt;
+&lt;p&gt;When we started writing front-end frameworks, many libraries started poping up to make developers&apos; lives easier and add boost their productivity. One of these libraries is jQuery.&lt;/p&gt;
+&lt;p&gt;Then, MVVM Frameworks appeared and offered two-way binding.&lt;/p&gt;
+&lt;p&gt;After developing a complete application using one framework, there&apos;s no way to start using another. Wheras, using Microfrontend, multiple Frameworks can co-exist within the same application.&lt;/p&gt;
+&lt;p&gt;Let&apos;s have an example:&lt;/p&gt;
+&lt;p&gt;We started building an enterprise application and the Front-end Architect choose Angular Framework as the main Framework.
+But after starting the project, we found that React Library is faster than Angular in rendering complex views.&lt;/p&gt;
+&lt;p&gt;Here comes Microfrontend as it offers the possibility to write a part of the application using a different Framework/Library.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/images/MF-apps.drawio.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;h2&gt;Agile friendly&lt;/h2&gt;
+&lt;p&gt;With Microfrontend technologies, each feature can be a standalone application that has its own development cycle.
+This allows us to create small independent Teams.&lt;/p&gt;
+&lt;p &gt;
+&lt;img src=&quot;/images/MF1.drawio.png&quot; /&gt;
+&lt;/p&gt;
+&lt;p &gt;
+&lt;img src=&quot;/images/MF2.drawio.png&quot; /&gt;
+&lt;/p&gt;
+&lt;h2&gt;Independent deployments&lt;/h2&gt;
+&lt;p&gt;In the microfrontend Architecture, each feature or module is represented by an independent project, which gives the capability to independently deploy each project without the need to build the entire project.&lt;/p&gt;
+&lt;p &gt;
+&lt;img src=&quot;/images/MF3.drawio.png&quot; /&gt;
+&lt;/p&gt;
+&lt;h2&gt;Progressive migration&lt;/h2&gt;
+&lt;p&gt;Let&apos;s say that a company has a 10-years-old frontend application written with Angular.js and now the company decided to migrate it to Angular.&lt;/p&gt;
+&lt;p&gt;There are two possible ways to do this:&lt;/p&gt;
+&lt;p&gt;1/ Start a Hybrid project that has Angular and Angular.js at the same time, which is possible, and there are many useful tools with a good documentation that can accompany dev teams in the project migration journey. This does not apply to all projects equally, some of them can touch the limit before fulfilling the migration.&lt;/p&gt;
+&lt;p&gt;2/ Implement Microfrontend by starting a new project, this will mount the old views next to the new ones and write all new features using the new framework, then with a great plan, you can start to securely migrating the features one by one.&lt;/p&gt;
+&lt;h2&gt;Conclusion&lt;/h2&gt;
+&lt;p&gt;Micro-Frontend Architecture it&apos;s not a hype, it&apos;s here to stay, we are doing it from the beginning  but the technologies change over time.&lt;/p&gt;
+&lt;p&gt;Opening the door to the micro front can be a huge advantage to adopt new technologies on the go. It&apos;s time to give it a try.&lt;/p&gt;
+&lt;h2&gt;&lt;/h2&gt;</content:encoded></item><item><title><![CDATA[Angular 14: Standalone components]]></title><description><![CDATA[At ReactConfg 2018 Event, Dan Abramov explained the Logo of React, he said that the user interface can be splitted into small independent…]]></description><link>https://aymen.co/angular-standalone-components/</link><guid isPermaLink="false">https://aymen.co/angular-standalone-components/</guid><pubDate>Mon, 13 Jun 2022 00:00:00 GMT</pubDate><content:encoded>&lt;h2&gt;&lt;/h2&gt;
 &lt;p&gt;At ReactConfg 2018 Event, Dan Abramov explained the Logo of React, he said that the user interface can be splitted into small independent units called components - similar to an Atom - and they will focus, in the next few years, on Hooks: “Electrons” as he named them.&lt;/p&gt;
 &lt;p&gt;On the other side of the Javascript world, Angular started focusing on smaller units as Component, Directive and Pipes rather than modules.&lt;/p&gt;
 &lt;p&gt;Starting from Angular 14, Components can be standalone and imported into modules or other components without the need for a dedicated module.&lt;/p&gt;
