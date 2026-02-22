@@ -26,7 +26,7 @@ const ArticleListItem = ({ post }) => {
                 <span itemProp="headline">{title}</span>
               </Link>
             </h2>
-            {/* <small>{post.frontmatter.date}</small> */}
+            <small>{post.frontmatter.date}{post.timeToRead && ` · ${post.timeToRead} min read`}</small>
             <p
               className="post-list-description"
               dangerouslySetInnerHTML={{

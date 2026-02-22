@@ -3,15 +3,14 @@ module.exports = {
   siteMetadata: {
     title: `Labidi Aymen`,
     author: {
-      name: `Kyle Mathews`,
-      summary: `who lives and works in San Francisco building useful things.`,
+      name: `Aymen`,
+      summary: `Software engineer and tech blogger.`,
     },
-    description: `A starter blog demonstrating what Gatsby can do.`,
-    siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
-    social: {
-      twitter: `kylemathews`,
-    },
+    description: `Aymen's tech blog covering web development topics.`,
     siteUrl: `https://aymen.co`,
+    social: {
+      twitter: `lababoraym`,
+    },
   },
   pathPrefix: "/",
   plugins: [
@@ -38,6 +37,15 @@ module.exports = {
       resolve: `gatsby-transformer-remark`,
       options: {
         plugins: [
+          {
+            resolve: "gatsby-remark-embed-gist",
+            options: {
+              username: "labidiaymen",
+              includeDefaultCss: true,
+              gistDefaultCssInclude: true,
+              gistCssPreload: false,
+            },
+          },
           {
             resolve: `gatsby-remark-images`,
             options: {
@@ -119,8 +127,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Gatsby Starter Blog`,
-        short_name: `GatsbyJS`,
+        name: `Labidi Aymen Blog`,
+        short_name: `Aymen`,
         start_url: `/`,
         background_color: `#ffffff`,
         // This will impact how browsers show your PWA/website
@@ -189,36 +197,6 @@ module.exports = {
       },
     },
     `gatsby-plugin-sitemap`,
-    {
-      resolve: "gatsby-transformer-remark",
-      options: {
-        plugins: [
-          {
-            resolve: "gatsby-remark-embed-gist",
-            options: {
-              // Optional:
-
-              // the github handler whose gists are to be accessed
-              username: "labidiaymen",
-
-              // a flag indicating whether the github default gist css should be included or not
-              // default: true
-              // DEPRECATED (PLEASE USE gistDefaultCssInclude)
-              includeDefaultCss: true || false,
-
-              // a flag indicating whether the github default gist css should be included or not
-              // default: true
-              gistDefaultCssInclude: true || false,
-
-              // a flag indicating whether the github default gist css should be preloaded or not
-              // use this if you want to load the default css asynchronously.
-              // default: false
-              gistCssPreload: true || false,
-            },
-          },
-        ],
-      },
-    },
 
     // this (optional) plugin enables Progressive Web App + Offline functionality
     // To learn more, visit: https://gatsby.dev/offline

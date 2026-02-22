@@ -50,10 +50,10 @@ export const pageQuery = graphql`
     allMarkdownRemark(
       sort: { fields: [frontmatter___date], order: DESC }
       limit: 10
-      filter: { frontmatter: { categories: { in: "javascript" } } }
     ) {
       nodes {
         excerpt
+        timeToRead
         fields {
           slug
         }
