@@ -519,3 +519,76 @@ a:focus {
   font-size: 12px;
   color: #383838;
 }
+
+/* Dark mode overrides */
+body.dark {
+  --color-primary: #3da5d9;
+  --color-text: #e4e6eb;
+  --color-text-light: #b0b7c4;
+  --color-heading: #f0f2f5;
+  --color-heading-black: #ffffff;
+  --color-accent: #374151;
+  background-color: #111122;
+}
+
+body.dark .post-list-title {
+  color: #e4e6eb;
+}
+
+body.dark .post-list-description {
+  color: #b0b7c4;
+}
+
+body.dark .menu-header {
+  border-color: #374151;
+}
+
+body.dark .menu-bloc ul li a {
+  color: #b0b7c4;
+}
+
+body.dark .gatsby-highlight pre[class*="language-"] {
+  background: #1e1e3f;
+}
+
+body.dark hr {
+  background: #374151;
+}
+
+body.dark footer {
+  color: #b0b7c4;
+}
+
+body.dark footer a {
+  color: #3da5d9;
+}
+
+/* Dark mode toggle button */
+.theme-toggle {
+  background: none;
+  border: 1px solid #d1d1d1;
+  border-radius: 6px;
+  cursor: pointer;
+  padding: 6px;
+  line-height: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #4f5969;
+  transition: border-color 0.2s, color 0.2s;
+}
+
+.theme-toggle:hover {
+  border-color: #005b99;
+  color: #005b99;
+}
+
+body.dark .theme-toggle {
+  border-color: #374151;
+  color: #b0b7c4;
+}
+
+body.dark .theme-toggle:hover {
+  border-color: #3da5d9;
+  color: #3da5d9;
+}

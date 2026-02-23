@@ -15,6 +15,7 @@ module.exports = {
   pathPrefix: "/",
   plugins: [
     "gatsby-plugin-postcss",
+    `@skagami/gatsby-plugin-dark-mode`,
 
     `gatsby-plugin-image`,
     `gatsby-transformer-sharp`,
