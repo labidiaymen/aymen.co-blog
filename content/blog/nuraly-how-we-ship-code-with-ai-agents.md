@@ -19,6 +19,8 @@ It creates a branch. It starts coding. When needed, it commits progressively and
 
 Once the work is ready, the agent creates a pull request and starts collaborating with other agents. GitHub Copilot steps in for a diff model review a second pair of AI eyes on the code.
 
+![Nuraly Workflow](/images/nuraly-workflow.jpg)
+
 At the end of each execution, a summarized version of the conversation is saved. So when work continues on the ticket through a PR comment or a follow-up task the agent picks up the compact context from the previous run. This way, we keep working on the ticket without losing context.
 
 ## Quality Gates
@@ -31,11 +33,15 @@ Why Telegram? Because we've made a deliberate choice about where our developers 
 
 Then comes the human review. We still keep this step. We value the human eye.
 
+![Quality Gates](/images/nuraly-quality-gates.jpg)
+
 ## After the Merge
 
 Once the ticket is merged, Claude Code spins up a dedicated QA VM for that specific ticket launched from a pre-built image, which makes it extremely fast. After validation, the VM is carefully destroyed. Clean in, clean out.
 
 We chose this over resetting environments because resets are fragile. You can miss something a stale config, a leftover dependency or add a feature and forget to update the reinit script. Starting from a fresh image for QA removes that risk entirely. It was one of our best decisions.
+
+![QA VM](/images/nuraly-qa-vm.jpg)
 
 The deployment itself is triggered from the GitHub issue. When the issue is flagged as ready for test, an agent worker detects it, prepares the environment, and comments back on the issue with the VM details. Everything stays in the ticket no separate workflows, no context switching.
 
