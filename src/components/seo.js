@@ -81,6 +81,11 @@ const Seo = ({ description, lang, meta, title, image }) => {
           name: `twitter:description`,
           content: metaDescription,
         },
+        {
+          // Cloudflare account recovery domain-ownership verification.
+          name: `cf-2fa-verify`,
+          content: `7y7wgrsd4wbjsfn0`,
+        },
       ]
         .concat(imageMeta)
         .concat(meta)}
